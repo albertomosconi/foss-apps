@@ -1,2 +1,2 @@
-# foss-apps
-Collection of Free and Open Source android apps.
+# Cool FOSS Android apps
+A collection of great open source applications to replace proprietary ones on Android.
