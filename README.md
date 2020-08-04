@@ -2,7 +2,7 @@
 A collection of great open source applications to replace proprietary ones on Android.
 
 - [Apps Store](#App-Store)
-- [Security & Privacy](#Security-and-Privacy)
+- [Security and Privacy](#Security-and-Privacy)
 - [Media](#Media)
 
 ### App Store
