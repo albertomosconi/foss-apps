@@ -1,7 +1,7 @@
 # Cool FOSS Android apps
 A collection of great open source applications to replace proprietary ones on Android.
 
-- [Apps Store](#App-Store)
+- [App Store](#App-Store)
 - [Security and Privacy](#Security-and-Privacy)
 - [Media](#Media)
 
