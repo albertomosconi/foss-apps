@@ -1,9 +1,9 @@
 # Cool FOSS Android apps
 A collection of great open source applications to replace proprietary ones on Android.
 
-- [App Store](#App-Store)
-- [Security and Privacy](#Security-and-Privacy)
-- [Media](#Media)
+- [App Store](#App-Store "App Store")
+- [Security and Privacy](#Security-and-Privacy "Security and Privacy")
+- [Media](#Media "Media")
 
 ### App Store
 - [F-Droid](https://f-droid.org/ "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
