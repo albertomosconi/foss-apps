@@ -1,7 +1,7 @@
 # Cool FOSS Android apps
-A collection of great open source applications to replace proprietary ones on Android.
+A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on FDroid.
 
-Most of these apps are available on FDroid.
+I do not own this material, I'm just sharing it because I think it's cool.
 
 ### App Store
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
