@@ -21,6 +21,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app "Exodus"): This application lets you know what trackers are embedded in apps installed on your smartphone. It lets you also know the permissions required by any apps on your smartphone. It helps you to take your privacy back!
 - [NetGuard](https://github.com/M66B/NetGuard "NetGuard"): It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 
+### Social
+- [Signal](https://github.com/signalapp/Signal-Android "Signal"): Signal is a messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
+
 ### Utilities
 - [LTECleaner](https://github.com/TheRedSpy15/LTECleanerFOSS "LTECleaner"): LTE Cleaner only aims to clean your phone by removing safe to delete files. Which not only frees up a lot of space, But it also can improve your privacy. Since LTE Cleaners removes .log files, which well, log what you do. LTE Cleaner is 100% free, open source, ad free, and deletes everything it claims too.
 - [Material Files](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
