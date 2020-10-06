@@ -15,7 +15,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 ### App Store
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
-- [F-Droid](https://f-droid.org/ "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- [F-Droid](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 ### Games
 - [Lichess](https://github.com/veloce/lichobile "Lichess"): The official chess application for lichess.org, this application is open source and free software (GPL v3). It is entirely free and without ads, now and forever.
