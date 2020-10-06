@@ -3,6 +3,15 @@ A collection of great open source applications to replace proprietary ones on An
 
 I do not own this material, I'm just sharing it because I think it's cool.
 
+**[SUGGEST AN APP](#suggestions "SUGGEST AN APP")**
+
+## Contents
+- [App Store](#app-store "App Store")
+- [Media](#media "Media")
+- [Security and Privacy](#security-and-privacy "Security and Privacy")
+- [Social](#social "Social")
+- [Utilities](#utilities "Utilities")
+
 ### App Store
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
 - [F-Droid](https://f-droid.org/ "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
@@ -31,3 +40,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [Material Files](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 - [Tasks.org](https://github.com/tasks/tasks "Tasks.org"): Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
+
+## Suggestions
+
+Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues "issue"). Please use the given issue template.
