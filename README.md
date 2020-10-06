@@ -19,7 +19,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 ### Games
 - ![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat) 
-[Lichess](https://github.com/veloce/lichobile "Lichess"): The official chess application for lichess.org, this application is open source and free software (GPL v3). It is entirely free and without ads, now and forever.
+[Lichess](https://github.com/veloce/lichobile "Lichess"): The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.
 
 ### Media
 - ![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat) 
