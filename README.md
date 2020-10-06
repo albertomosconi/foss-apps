@@ -1,4 +1,4 @@
-# Cool FOSS Android apps
+# Cool FOSS Android Apps
 A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on FDroid.
 
 I do not own this material, I'm just sharing it because I think it's cool.
