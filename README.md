@@ -43,4 +43,4 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 ## Suggestions
 
-Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues "issue"). Please use the given issue template.
+Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= "issue"). Please use the given issue template.
