@@ -22,6 +22,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [NetGuard](https://github.com/M66B/NetGuard "NetGuard"): It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 
 ### Social
+- [Barinsta](https://github.com/austinhuang0131/barinsta "Barinsta"): Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.
 - [Signal](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
 ### Utilities
