@@ -20,6 +20,8 @@ I do not own this material, I'm just sharing it because I think it's cool.
 ### Games
 - ![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat) 
 [Lichess](https://github.com/veloce/lichobile "Lichess"): The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.
+- ![GitHub stars](https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat) 
+[TalpaSplat3](https://github.com/albertomosconi/TalpaSplat3 "TalpaSplat3"): Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 
 ### Media
 - ![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat) 
