@@ -14,8 +14,10 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [Utilities](#utilities "Utilities")
 
 ### App Store
-- [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
-- [**F-Droid**](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885)
+**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F36189)
+**F-Droid**](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 ### Games
 - [![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat) 
@@ -26,13 +28,16 @@ I do not own this material, I'm just sharing it because I think it's cool.
 ### Media
 - [![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat) 
 **AntennaPod**](https://github.com/AntennaPod/AntennaPod "AntennaPod"): An easy-to-use, flexible and open-source podcast manager for Android.
-- [**BookReader**](https://gitlab.com/axet/android-book-reader "BookReader"): An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
-- [**Feeder**](https://gitlab.com/spacecowboy/Feeder "Feeder"): This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F5074924)
+**BookReader**](https://gitlab.com/axet/android-book-reader "BookReader"): An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F3088048)
+**Feeder**](https://gitlab.com/spacecowboy/Feeder "Feeder"): This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.
 - [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe.svg?label=★&style=flat) 
 **NewPipe**](https://github.com/TeamNewPipe/NewPipe "NewPipe"): A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
 - [![GitHub stars](https://img.shields.io/github/stars/AdrienPoupa/VinylMusicPlayer.svg?label=★&style=flat) 
 **Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer "Vinyl Music Player"): A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.
-- [**VLC**](https://code.videolan.org/videolan/VLC-android "VLC"): A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=%E2%98%85&query=%24.star_count&url=https%3A%2F%2Fcode.videolan.org%2Fapi%2Fv4%2Fprojects%2F36)
+**VLC**](https://code.videolan.org/videolan/VLC-android "VLC"): A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
 ### Security and Privacy
 - [![GitHub stars](https://img.shields.io/github/stars/andOTP/andOTP.svg?label=★&style=flat) 
