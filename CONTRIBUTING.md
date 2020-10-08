@@ -37,7 +37,7 @@ This document shows you how to get started with your contribution to this projec
 
     Replace `AUTHOR` with the username of the author, `REPO` with the name of the repository containing the source code, `APP_NAME` with the name of the app, and `DESCRIPTION` with a short description describing the app's purpose and features.
 
-    For **GitLab** repos please refer to **issue #1**.
+    For **GitLab** repos please refer to [**issue #1**](https://github.com/albertomosconi/foss-apps/issues/1 "issue #1").
 
 - Commit your changes
 
