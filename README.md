@@ -8,11 +8,13 @@ I do not own this material, I'm just sharing it because I think it's cool.
 ## Contents
 - [App Store](#app-store "App Store")
 - [Browsers](#browsers "Browsers")
+- [Email Clients](#email-clients "Email Clients")
 - [Games](#games "Games")
 - [Media](#media "Media")
 - [Password Managers](#password-managers "Password Managers")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
-- [Social](#social "Social")
+- [Social Media](#social-media "Social Media")
+- [Texting](#texting "Texting")
 - [Utilities](#utilities "Utilities")
 
 ### App Store
@@ -32,6 +34,13 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![GitHub stars](https://img.shields.io/github/stars/arunkumar9t2/lynket-browser.svg?label=★&style=flat) 
 **Lynket**](https://github.com/arunkumar9t2/lynket-browser "Lynket"): Android browser app based on Custom Tabs protocol. 
 Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu.
+
+### Email Clients
+- [![Github stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
+**FairEmail**](https://github.com/M66B/FairEmail "FairEmail"): Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
+
+- [![GitHub stars](https://img.shields.io/github/stars/k9mail/k-9.svg?label=★&style=flat) 
+**K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
 
 ### Games
 - [![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat) 
@@ -79,16 +88,11 @@ Lynket utilizes Chrome Custom Tab API to create a customized browsing experience
 - [![GitHub stars](https://img.shields.io/github/stars/M66B/NetGuard.svg?label=★&style=flat) 
 **NetGuard**](https://github.com/M66B/NetGuard "NetGuard"): It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 
-### Social
+### Social Media
 - [![GitHub stars](https://img.shields.io/github/stars/austinhuang0131/instagrabber.svg?label=★&style=flat-square) 
 **Barinsta**](https://github.com/austinhuang0131/barinsta "Barinsta"): Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.
 
-- [![Github stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
-**FairEmail**](https://github.com/M66B/FairEmail "FairEmail"): Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
-
-- [![GitHub stars](https://img.shields.io/github/stars/k9mail/k-9.svg?label=★&style=flat) 
-**K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
-
+### Texting
 - [![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat) 
 **QKSMS**](https://github.com/moezbhatti/qksms "QKSMS"): An open source replacement to the stock messaging app on Android.
 
