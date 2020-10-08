@@ -89,8 +89,11 @@ Lynket utilizes Chrome Custom Tab API to create a customized browsing experience
 **NetGuard**](https://github.com/M66B/NetGuard "NetGuard"): It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 
 ### Social Media
-- [![GitHub stars](https://img.shields.io/github/stars/austinhuang0131/instagrabber.svg?label=★&style=flat-square) 
+- [![GitHub stars](https://img.shields.io/github/stars/austinhuang0131/barinsta.svg?label=★&style=flat-square) 
 **Barinsta**](https://github.com/austinhuang0131/barinsta "Barinsta"): Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.
+
+- [![GitHub stars](https://img.shields.io/github/stars/AllanWang/Frost-for-Facebook.svg?label=★&style=flat-square) 
+**Frost**](https://github.com/AllanWang/Frost-for-Facebook "Frost"): A third party Facebook wrapper geared towards design and functionality. It contains many features, including: support for multiple accounts and fast switching, full theming across all activities, and more.
 
 ### Texting
 - [![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat) 
