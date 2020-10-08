@@ -69,6 +69,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![Github stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
 **FairEmail**](https://github.com/M66B/FairEmail "FairEmail"): Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
 
+- [![GitHub stars](https://img.shields.io/github/stars/k9mail/k-9.svg?label=★&style=flat) 
+**K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
+
 - [![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat) 
 **QKSMS**](https://github.com/moezbhatti/qksms "QKSMS"): An open source replacement to the stock messaging app on Android.
 
