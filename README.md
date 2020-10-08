@@ -88,6 +88,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![GitHub stars](https://img.shields.io/github/stars/zhanghai/MaterialFiles.svg?label=★&style=flat) 
 **Material Files**](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
 
+- [![GitHub stars](https://img.shields.io/github/stars/afollestad/mnml.svg?label=★&style=flat) 
+**MNML**](https://github.com/afollestad/mnml "Vinyl Music Player"): Pronounced "minimal", is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
+
 - [![GitHub stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat) 
 **Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 
