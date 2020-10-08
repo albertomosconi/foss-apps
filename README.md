@@ -40,6 +40,8 @@ I do not own this material, I'm just sharing it because I think it's cool.
 **VLC**](https://code.videolan.org/videolan/VLC-android "VLC"): A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
 ### Security and Privacy
+- [![GitHub stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat) 
+**Aegis**](https://github.com/beemdevelopment/Aegis "Aegis"): A free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services.
 - [![GitHub stars](https://img.shields.io/github/stars/andOTP/andOTP.svg?label=★&style=flat) 
 **andOTP**](https://github.com/andOTP/andOTP "andOTP"): A two-factor authentication App for Android 5.1+. It implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP). Simply scan the QR code and login with the generated 6-digit code.
 - [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat) 
