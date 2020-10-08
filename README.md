@@ -56,6 +56,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat) 
 **Bitwarden**](https://github.com/bitwarden/mobile "Bitwarden"): An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
 
+- [![GitHub stars](https://img.shields.io/github/stars/blokadaorg/blokada.svg?label=★&style=flat) 
+**Blokada**](https://github.com/blokadaorg/blokada "Blokada"): A free, open source, compact, fast ad blocker for Android that works for all apps and does not require root because it uses the VPN API.
+
 - [![GitHub stars](https://img.shields.io/github/stars/Exodus-Privacy/exodus-android-app.svg?label=★&style=flat) 
 **Exodus**](https://github.com/Exodus-Privacy/exodus-android-app "Exodus"): Find out what trackers are embedded in apps installed on your smartphone. It lets you also know the permissions required by any apps on your smartphone. It helps you to take your privacy back!
 
@@ -89,7 +92,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 **Material Files**](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
 
 - [![GitHub stars](https://img.shields.io/github/stars/afollestad/mnml.svg?label=★&style=flat) 
-**MNML**](https://github.com/afollestad/mnml "Vinyl Music Player"): Pronounced "minimal", is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
+**MNML**](https://github.com/afollestad/mnml "MNML"): Pronounced "minimal", is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
 
 - [![GitHub stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat) 
 **Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
