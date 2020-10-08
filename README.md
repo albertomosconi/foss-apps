@@ -85,6 +85,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat) 
 **Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
 
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72)
+**KDE Connect**](https://invent.kde.org/network/kdeconnect-android "KDE Connect"): Native Android port of the KDE Connect Qt app. KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
+
 - [![GitHub stars](https://img.shields.io/github/stars/TheRedSpy15/LTECleanerFOSS.svg?label=★&style=flat) 
 **LTECleaner**](https://github.com/TheRedSpy15/LTECleanerFOSS "LTECleaner"): LTE Cleaner only aims to clean your phone by removing safe to delete files. Which not only frees up a lot of space, But it also can improve your privacy. Since LTE Cleaners removes .log files, which well, log what you do. LTE Cleaner is 100% free, open source, ad free, and deletes everything it claims too.
 
