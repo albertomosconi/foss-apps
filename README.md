@@ -1,8 +1,17 @@
-# Cool FOSS Android Apps
+<h1 align="center">Cool FOSS Android Apps</h1>
+
+<div align="center">
+<p align="center">
+<a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
+<a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
+<a href="https://github.com/albertomosconi/foss-apps/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/albertomosconi/foss-apps?color=blue"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=yellow" alt="License Badge"/></a>
+</p>
+</div>
 
 A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on FDroid.
 
-I do not own this material, I'm just sharing it because I think it's cool.
+*I do not own this material, I'm just sharing it because I think it's cool.*
 
 **[SUGGEST AN APP](#suggestions "SUGGEST AN APP")**
 
