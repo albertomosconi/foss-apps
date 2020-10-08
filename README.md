@@ -106,6 +106,9 @@ Lynket utilizes Chrome Custom Tab API to create a customized browsing experience
 **Signal**](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
 ### Utilities
+- [![GitHub stars](https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat) 
+**BetterBatteryStats**](https://github.com/asksven/BetterBatteryStats "BetterBatteryStats"): Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
+
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72)
 **KDE Connect**](https://invent.kde.org/network/kdeconnect-android "KDE Connect"): Native Android port of the KDE Connect Qt app. KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
