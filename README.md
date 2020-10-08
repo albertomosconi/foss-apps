@@ -26,6 +26,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat) 
 **Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
 
+- [![GitHub stars](https://img.shields.io/github/stars/kiwibrowser/src.svg?label=★&style=flat) 
+**Kiwi Browser**](https://github.com/kiwibrowser/src "Kiwi Browser"): A fully open-source web browser for Android. Kiwi is based on Chromium. Easily switch to Kiwi without having to painstakingly learn a new interface or break your existing browsing habits.
+
 ### Games
 - [![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat) 
 **Lichess**](https://github.com/veloce/lichobile "Lichess"): The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.
