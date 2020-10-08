@@ -95,6 +95,9 @@ Lynket utilizes Chrome Custom Tab API to create a customized browsing experience
 - [![GitHub stars](https://img.shields.io/github/stars/AllanWang/Frost-for-Facebook.svg?label=★&style=flat-square) 
 **Frost**](https://github.com/AllanWang/Frost-for-Facebook "Frost"): A third party Facebook wrapper geared towards design and functionality. It contains many features, including: support for multiple accounts and fast switching, full theming across all activities, and more.
 
+- [![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square) 
+**Slide**](https://github.com/ccrama/Slide "Slide"): An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.
+
 ### Texting
 - [![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat) 
 **QKSMS**](https://github.com/moezbhatti/qksms "QKSMS"): An open source replacement to the stock messaging app on Android.
