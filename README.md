@@ -7,8 +7,10 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 ## Contents
 - [App Store](#app-store "App Store")
+- [Browsers](#browsers "Browsers")
 - [Games](#games "Games")
 - [Media](#media "Media")
+- [Password Managers](#password-managers "Password Managers")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social](#social "Social")
 - [Utilities](#utilities "Utilities")
@@ -19,6 +21,10 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F36189)
 **F-Droid**](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+### Browsers
+- [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat) 
+**Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
 
 ### Games
 - [![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat) 
@@ -46,15 +52,16 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=%E2%98%85&query=%24.star_count&url=https%3A%2F%2Fcode.videolan.org%2Fapi%2Fv4%2Fprojects%2F36)
 **VLC**](https://code.videolan.org/videolan/VLC-android "VLC"): A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
+### Password Managers
+- [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat) 
+**Bitwarden**](https://github.com/bitwarden/mobile "Bitwarden"): An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
+
 ### Security and Privacy
 - [![GitHub stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat) 
 **Aegis**](https://github.com/beemdevelopment/Aegis "Aegis"): A free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services.
 
 - [![GitHub stars](https://img.shields.io/github/stars/andOTP/andOTP.svg?label=★&style=flat) 
 **andOTP**](https://github.com/andOTP/andOTP "andOTP"): A two-factor authentication App for Android 5.1+. It implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP). Simply scan the QR code and login with the generated 6-digit code.
-
-- [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat) 
-**Bitwarden**](https://github.com/bitwarden/mobile "Bitwarden"): An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
 
 - [![GitHub stars](https://img.shields.io/github/stars/blokadaorg/blokada.svg?label=★&style=flat) 
 **Blokada**](https://github.com/blokadaorg/blokada "Blokada"): A free, open source, compact, fast ad blocker for Android that works for all apps and does not require root because it uses the VPN API.
@@ -82,9 +89,6 @@ I do not own this material, I'm just sharing it because I think it's cool.
 **Signal**](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
 ### Utilities
-- [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat) 
-**Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
-
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72)
 **KDE Connect**](https://invent.kde.org/network/kdeconnect-android "KDE Connect"): Native Android port of the KDE Connect Qt app. KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
