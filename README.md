@@ -69,6 +69,9 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [![Github stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
 **FairEmail**](https://github.com/M66B/FairEmail "FairEmail"): Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
 
+- [![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat) 
+**QKSMS**](https://github.com/moezbhatti/qksms "QKSMS"): An open source replacement to the stock messaging app on Android.
+
 - [![GitHub stars](https://img.shields.io/github/stars/signalapp/Signal-Android.svg?label=★&style=flat) 
 **Signal**](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
