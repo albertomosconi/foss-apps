@@ -41,6 +41,9 @@ A collection of great open source applications to replace proprietary ones on An
 - [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat)
   **Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
 
+- [![GitHub stars](https://img.shields.io/github/stars/fork-maintainers/iceraven-browser.svg?label=★&style=flat)
+  **IceRaven**](https://github.com/fork-maintainers/iceraven-browser "IceRaven"): A web browser for Android, based on Mozilla's Fenix version of Firefox. Our goal is to be a close fork of the new Firefox for Android that seeks to provide users with more options, more opportunities to customize (including a broad extension library), and more.
+
 - [![GitHub stars](https://img.shields.io/github/stars/kiwibrowser/src.svg?label=★&style=flat)
   **Kiwi Browser**](https://github.com/kiwibrowser/src "Kiwi Browser"): A fully open-source web browser for Android. Kiwi is based on Chromium. Easily switch to Kiwi without having to painstakingly learn a new interface or break your existing browsing habits.
 
