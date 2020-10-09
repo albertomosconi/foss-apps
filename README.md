@@ -126,6 +126,9 @@ A collection of great open source applications to replace proprietary ones on An
 - [![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square)
   **Slide**](https://github.com/ccrama/Slide "Slide"): An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.
 
+- [![GitHub stars](https://img.shields.io/github/stars/tuskyapp/Tusky.svg?label=★&style=flat-square)
+  **Tusky**](https://github.com/tuskyapp/Tusky "Tusky"): A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.
+
 ### Texting
 
 - [![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat)
