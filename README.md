@@ -11,7 +11,7 @@
 
 A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on FDroid.
 
-*I do not own this material, I'm just sharing it because I think it's cool.*
+_I do not own this material, I'm just sharing it because I think it's cool._
 
 **[SUGGEST AN APP](#suggestions "SUGGEST AN APP")**
 
@@ -108,7 +108,6 @@ A collection of great open source applications to replace proprietary ones on An
 
 - [![GitHub stars](https://img.shields.io/github/stars/M66B/NetGuard.svg?label=★&style=flat)
   **NetGuard**](https://github.com/M66B/NetGuard "NetGuard"): It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
-  
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F18645286)
   **Warden**](https://gitlab.com/AuroraOSS/AppWarden "Warden"): A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.
 
@@ -167,4 +166,4 @@ A collection of great open source applications to replace proprietary ones on An
 
 Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= "issue"). Please use the given issue template.
 
-Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](CONTRIBUTING.md "CONTRIBUTING GUIDELINES"). This is also the fastest way for your suggestion to be added to the list!
+Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](contributing-guidelines.md "CONTRIBUTING GUIDELINES"). This is also the fastest way for your suggestion to be added to the list!
