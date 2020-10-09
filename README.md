@@ -98,6 +98,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat)
   **Bitwarden**](https://github.com/bitwarden/mobile "Bitwarden"): An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
 
+- [![GitHub Stars](https://img.shields.io/github/stars/Kunzisoft/KeePassDX.svg?label=★&style=flat)
+  **KeePassDX**](https://github.com/Kunzisoft]/KeePassDX "[KeePassDX]"): The App allows saving and using passwords, keys and digital identities in a secure way, by integrating the Android design standards.
+
 ### Security and Privacy
 
 - [![GitHub stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat)
