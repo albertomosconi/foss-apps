@@ -36,7 +36,7 @@ This document shows you how to get started with your contribution to this projec
 
     ```
     - [![GitHub Stars](https://img.shields.io/github/stars/[AUTHOR]/[REPO].svg?label=★&style=flat)
-    **[APP_NAME]**](https://github.com/[AUTHOR]/[REPO] "[APP_NAME]"): [DESCRIPTION]
+      **APP_NAME]**](https://github.com/[AUTHOR]/[REPO] "[APP_NAME]"): [DESCRIPTION]
     ```
 
     Replace `AUTHOR` with the username of the author, `REPO` with the name of the repository containing the source code, `APP_NAME` with the name of the app, and `DESCRIPTION` with a short description describing the app's purpose and features.
