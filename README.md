@@ -108,6 +108,9 @@ A collection of great open source applications to replace proprietary ones on An
 
 - [![GitHub stars](https://img.shields.io/github/stars/M66B/NetGuard.svg?label=★&style=flat)
   **NetGuard**](https://github.com/M66B/NetGuard "NetGuard"): It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
+  
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F18645286)
+  **Warden**](https://gitlab.com/AuroraOSS/AppWarden "Warden"): A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.
 
 ### Social Media
 
