@@ -53,9 +53,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Lynket**](https://github.com/arunkumar9t2/lynket-browser "Lynket"): Android browser app based on Custom Tabs protocol.
   Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu.
 
-- [![GitHub Stars](https://img.shields.io/github/stars/[str4d]/[privacy-browser].svg?label=★&style=flat)
-  **Privacy Browser**](https://github.com/[str4d]/[privacy-browser] "Privacy Browser]"): is an open source Android web browser focused on user privacy. 
-
+- [![GitHub Stars](https://img.shields.io/github/stars/str4d/privacy-browser.svg?label=★&style=flat)
+  **Privacy Browser**](https://github.com/str4d/privacy-browser "Privacy Browser]"): An open source Android web browser focused on user privacy.
 
 ### Email Clients
 
