@@ -104,7 +104,11 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub Stars](https://img.shields.io/github/stars/goexle/PeanutEncryption.svg?label=★&style=flat)
   **[Peanut Encryption]**](https://github.com/goexle/peanutEncryption "[Peanut Encryption]"): Store your codes and passwords encrypted on your device. Only local stored
 
-### Security and Privacy
+- [![GitHub Stars](https://img.shields.io/github/stars/rust-keylock/rust-keylock-android.svg?label=★&style=flat)
+  **[Rust Keylock]**](https://github.com/rust-keylock/rust-keylock-android " rust-keylock"): A password manager with goals to be Secure, Simple to use, Portable, Extensible.
+
+
+### Security and Privacy  
 
 - [![GitHub stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat)
   **Aegis**](https://github.com/beemdevelopment/Aegis "Aegis"): A free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services.
