@@ -57,6 +57,8 @@ This document shows you how to get started with your contribution to this projec
 
   - Make sure you send the PR to the `master` branch
 
+- Don't forget to star the repo ;)
+
 ## Other Contributions
 
 There are no specific rules for any other type of contribution, feel free to send your PR!
