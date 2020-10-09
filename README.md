@@ -95,6 +95,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### Password Managers
 
+- [![GitHub Stars](https://img.shields.io/github/stars/tejado/Authorizer.svg?label=★&style=flat)
+  **[Authorizer]**](https://github.com/tejado/Authorizer "Authorizer"): The App use old smartphones as a hardware password manager. To avoid manual typing of long and complex passwords everytime you need them. Authorizer provides Auto-Type features over USB and Bluetooth.
+
 - [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat)
   **Bitwarden**](https://github.com/bitwarden/mobile "Bitwarden"): An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
 
