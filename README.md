@@ -149,6 +149,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/TheRedSpy15/LTECleanerFOSS.svg?label=★&style=flat)
   **LTECleaner**](https://github.com/TheRedSpy15/LTECleanerFOSS "LTECleaner"): LTE Cleaner only aims to clean your phone by removing safe to delete files. Which not only frees up a lot of space, But it also can improve your privacy. Since LTE Cleaners removes .log files, which well, log what you do. LTE Cleaner is 100% free, open source, ad free, and deletes everything it claims too.
 
+- [![GitHub stars](https://img.shields.io/github/stars/lfuelling/lrkFM.svg?label=★&style=flat)
+  **lrkFM**](https://github.com/lfuelling/lrkFM "lrkFM"): Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).
+
 - [![GitHub stars](https://img.shields.io/github/stars/zhanghai/MaterialFiles.svg?label=★&style=flat)
   **Material Files**](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
 
