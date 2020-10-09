@@ -1,4 +1,4 @@
-# Contributing Guidelines
+## Contributing Guidelines
 
 This document shows you how to get started with your contribution to this project. If you follow these, your PR will be merged quickly.
 
@@ -6,7 +6,7 @@ This document shows you how to get started with your contribution to this projec
 
 [**OTHER CONTRIBUTIONS**](#other-contributions "OTHER CONTRIBUTIONS")
 
-## Adding a new app
+### Adding a new app
 
 - Fork the repo
 
@@ -59,6 +59,6 @@ This document shows you how to get started with your contribution to this projec
 
 - Don't forget to star the repo ;)
 
-## Other Contributions
+### Other Contributions
 
 There are no specific rules for any other type of contribution, feel free to send your PR!
