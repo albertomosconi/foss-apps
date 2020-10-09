@@ -142,6 +142,9 @@ A collection of great open source applications to replace proprietary ones on An
 - [![GitHub stars](https://img.shields.io/github/stars/afollestad/mnml.svg?label=★&style=flat)
   **MNML**](https://github.com/afollestad/mnml "MNML"): Pronounced "minimal", is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
 
+- [![GitHub stars](https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat)
+  **Prism**](https://github.com/Hash-Studios/Prism "Prism"): A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
+
 - [![GitHub stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
   **Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 
