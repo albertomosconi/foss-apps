@@ -34,6 +34,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### App Store
 
+**[`^        back to top        ^`](#)**
+
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885)
   **Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
 
@@ -41,6 +43,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **F-Droid**](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 ### Browsers
+
+**[`^        back to top        ^`](#)**
 
 - [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat)
   **Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -57,6 +61,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### Email Clients
 
+**[`^        back to top        ^`](#)**
+
 - [![Github stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
   **FairEmail**](https://github.com/M66B/FairEmail "FairEmail"): Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
 
@@ -64,6 +70,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
 
 ### Entertainment
+
+**[`^        back to top        ^`](#)**
 
 - [![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat)
   **AntennaPod**](https://github.com/AntennaPod/AntennaPod "AntennaPod"): An easy-to-use, flexible and open-source podcast manager for Android.
@@ -76,6 +84,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### File Managers
 
+**[`^        back to top        ^`](#)**
+
 - [![GitHub stars](https://img.shields.io/github/stars/lfuelling/lrkFM.svg?label=★&style=flat)
   **lrkFM**](https://github.com/lfuelling/lrkFM "lrkFM"): Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).
 
@@ -87,6 +97,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### Games
 
+**[`^        back to top        ^`](#)**
+
 - [![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat)
   **Lichess**](https://github.com/veloce/lichobile "Lichess"): The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.
 
@@ -94,6 +106,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **TalpaSplat3**](https://github.com/albertomosconi/TalpaSplat3 "TalpaSplat3"): Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 
 ### Media Players
+
+**[`^        back to top        ^`](#)**
 
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F5074924)
   **BookReader**](https://gitlab.com/axet/android-book-reader "BookReader"): An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
@@ -105,6 +119,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **VLC**](https://code.videolan.org/videolan/VLC-android "VLC"): A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
 ### Password Managers
+**[`^        back to top        ^`](#)**
 
 - [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat)
   **Bitwarden**](https://github.com/bitwarden/mobile "Bitwarden"): An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
@@ -113,6 +128,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **KeePassDX**](https://github.com/Kunzisoft/KeePassDX "KeePassDX"): A multi-format KeePass manager for Android devices. The app allows creating keys and passwords in a secure way by integrating with the Android design standards.
 
 ### Security and Privacy
+
+**[`^        back to top        ^`](#)**
 
 - [![GitHub stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat)
   **Aegis**](https://github.com/beemdevelopment/Aegis "Aegis"): A free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services.
@@ -134,6 +151,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### Social Media
 
+**[`^        back to top        ^`](#)**
+
 - [![GitHub stars](https://img.shields.io/github/stars/austinhuang0131/barinsta.svg?label=★&style=flat-square)
   **Barinsta**](https://github.com/austinhuang0131/barinsta "Barinsta"): Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.
 
@@ -151,6 +170,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ### Texting
 
+**[`^        back to top        ^`](#)**
+
 - [![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost-webapp.svg?label=★&style=flat)
   **Mattermost**](https://github.com/mattermost/mattermost-webapp "Mattermost"): Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
 
@@ -161,6 +182,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Signal**](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
 ### Utilities
+
+**[`^        back to top        ^`](#)**
 
 - [![GitHub stars](https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat)
   **BetterBatteryStats**](https://github.com/asksven/BetterBatteryStats "BetterBatteryStats"): Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
@@ -181,6 +204,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Tasks.org**](https://github.com/tasks/tasks "Tasks.org"): Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
 
 ## Suggestions
+
+**[`^        back to top        ^`](#)**
 
 Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= "issue"). Please use the given issue template.
 
