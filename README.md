@@ -22,8 +22,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [App Store](#app-store "App Store")
 - [Browsers](#browsers "Browsers")
 - [Email Clients](#email-clients "Email Clients")
+- [Entertainment](#entertainment "Entertainment")
 - [Games](#games "Games")
-- [Media](#media "Media")
+- [Media Players](#media-players "Media Players")
 - [Password Managers](#password-managers "Password Managers")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social Media](#social-media "Social Media")
@@ -61,6 +62,17 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/k9mail/k-9.svg?label=★&style=flat)
   **K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
 
+### Entertainment
+
+- [![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat)
+  **AntennaPod**](https://github.com/AntennaPod/AntennaPod "AntennaPod"): An easy-to-use, flexible and open-source podcast manager for Android.
+
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F3088048)
+  **Feeder**](https://gitlab.com/spacecowboy/Feeder "Feeder"): This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.
+
+- [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe.svg?label=★&style=flat)
+  **NewPipe**](https://github.com/TeamNewPipe/NewPipe "NewPipe"): A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
+
 ### Games
 
 - [![GitHub stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat)
@@ -69,19 +81,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat)
   **TalpaSplat3**](https://github.com/albertomosconi/TalpaSplat3 "TalpaSplat3"): Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 
-### Media
-
-- [![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat)
-  **AntennaPod**](https://github.com/AntennaPod/AntennaPod "AntennaPod"): An easy-to-use, flexible and open-source podcast manager for Android.
+### Media Players
 
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F5074924)
   **BookReader**](https://gitlab.com/axet/android-book-reader "BookReader"): An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
-
-- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F3088048)
-  **Feeder**](https://gitlab.com/spacecowboy/Feeder "Feeder"): This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.
-
-- [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe.svg?label=★&style=flat)
-  **NewPipe**](https://github.com/TeamNewPipe/NewPipe "NewPipe"): A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
 
 - [![GitHub stars](https://img.shields.io/github/stars/AdrienPoupa/VinylMusicPlayer.svg?label=★&style=flat)
   **Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer "Vinyl Music Player"): A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.
