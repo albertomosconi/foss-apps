@@ -23,6 +23,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Browsers](#browsers "Browsers")
 - [Email Clients](#email-clients "Email Clients")
 - [Entertainment](#entertainment "Entertainment")
+- [File Managers](#file-managers "File Managers")
 - [Games](#games "Games")
 - [Media Players](#media-players "Media Players")
 - [Password Managers](#password-managers "Password Managers")
@@ -72,6 +73,17 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe.svg?label=★&style=flat)
   **NewPipe**](https://github.com/TeamNewPipe/NewPipe "NewPipe"): A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
+
+### File Managers
+
+- [![GitHub stars](https://img.shields.io/github/stars/lfuelling/lrkFM.svg?label=★&style=flat)
+  **lrkFM**](https://github.com/lfuelling/lrkFM "lrkFM"): Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).
+
+- [![GitHub stars](https://img.shields.io/github/stars/zhanghai/MaterialFiles.svg?label=★&style=flat)
+  **Material Files**](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
+
+- [![GitHub stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
+  **Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 
 ### Games
 
@@ -160,20 +172,11 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/TheRedSpy15/LTECleanerFOSS.svg?label=★&style=flat)
   **LTECleaner**](https://github.com/TheRedSpy15/LTECleanerFOSS "LTECleaner"): LTE Cleaner only aims to clean your phone by removing safe to delete files. Which not only frees up a lot of space, But it also can improve your privacy. Since LTE Cleaners removes .log files, which well, log what you do. LTE Cleaner is 100% free, open source, ad free, and deletes everything it claims too.
 
-- [![GitHub stars](https://img.shields.io/github/stars/lfuelling/lrkFM.svg?label=★&style=flat)
-  **lrkFM**](https://github.com/lfuelling/lrkFM "lrkFM"): Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).
-
-- [![GitHub stars](https://img.shields.io/github/stars/zhanghai/MaterialFiles.svg?label=★&style=flat)
-  **Material Files**](https://github.com/zhanghai/MaterialFiles "Material Files"): An open source Material Design file manager, for Android 5.0+.
-
 - [![GitHub stars](https://img.shields.io/github/stars/afollestad/mnml.svg?label=★&style=flat)
   **MNML**](https://github.com/afollestad/mnml "MNML"): Pronounced "minimal", is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
 
 - [![GitHub stars](https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat)
   **Prism**](https://github.com/Hash-Studios/Prism "Prism"): A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
-
-- [![GitHub stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
-  **Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 
 - [![GitHub stars](https://img.shields.io/github/stars/tasks/tasks.svg?label=★&style=flat)
   **Tasks.org**](https://github.com/tasks/tasks "Tasks.org"): Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
