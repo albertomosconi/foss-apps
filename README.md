@@ -15,7 +15,7 @@ A collection of great open source applications to replace proprietary ones on An
 
 _I do not own this material, I'm just sharing it because I think it's cool._
 
-**[`˅        suggest a new app        ˅`](#suggestions "suggest a new app")**
+**[`SUGGEST A NEW APP`](#suggestions "SUGGEST A NEW APP")**
 
 ## Table of Contents
 
