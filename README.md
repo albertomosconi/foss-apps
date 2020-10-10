@@ -19,7 +19,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Table of Contents
 
-- [App Store](#app-store "App Store")
+- [App Stores](#app-stores "App Stores")
 - [Browsers](#browsers "Browsers")
 - [Email Clients](#email-clients "Email Clients")
 - [Entertainment](#entertainment "Entertainment")
@@ -32,7 +32,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Texting](#texting "Texting")
 - [Utilities](#utilities "Utilities")
 
-## App Store
+## App Stores
 
 **[`^        back to top        ^`](#)**
 
