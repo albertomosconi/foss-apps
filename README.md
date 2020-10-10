@@ -15,9 +15,9 @@ A collection of great open source applications to replace proprietary ones on An
 
 _I do not own this material, I'm just sharing it because I think it's cool._
 
-**[SUGGEST AN APP](#suggestions "SUGGEST AN APP")**
+**[`˅        suggest a new app        ˅`](#suggestions "suggest a new app")**
 
-## Contents
+## Table of Contents
 
 - [App Store](#app-store "App Store")
 - [Browsers](#browsers "Browsers")
@@ -32,7 +32,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Texting](#texting "Texting")
 - [Utilities](#utilities "Utilities")
 
-### App Store
+## App Store
 
 **[`^        back to top        ^`](#)**
 
@@ -42,7 +42,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F36189)
   **F-Droid**](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
-### Browsers
+## Browsers
 
 **[`^        back to top        ^`](#)**
 
@@ -59,7 +59,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Lynket**](https://github.com/arunkumar9t2/lynket-browser "Lynket"): Android browser app based on Custom Tabs protocol.
   Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu.
 
-### Email Clients
+## Email Clients
 
 **[`^        back to top        ^`](#)**
 
@@ -69,7 +69,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/k9mail/k-9.svg?label=★&style=flat)
   **K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
 
-### Entertainment
+## Entertainment
 
 **[`^        back to top        ^`](#)**
 
@@ -82,7 +82,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe.svg?label=★&style=flat)
   **NewPipe**](https://github.com/TeamNewPipe/NewPipe "NewPipe"): A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
 
-### File Managers
+## File Managers
 
 **[`^        back to top        ^`](#)**
 
@@ -95,7 +95,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
   **Simple Gallery**](https://github.com/SimpleMobileTools/Simple-Gallery "Simple Gallery"): A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
 
-### Games
+## Games
 
 **[`^        back to top        ^`](#)**
 
@@ -105,7 +105,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat)
   **TalpaSplat3**](https://github.com/albertomosconi/TalpaSplat3 "TalpaSplat3"): Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 
-### Media Players
+## Media Players
 
 **[`^        back to top        ^`](#)**
 
@@ -118,7 +118,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=%E2%98%85&query=%24.star_count&url=https%3A%2F%2Fcode.videolan.org%2Fapi%2Fv4%2Fprojects%2F36)
   **VLC**](https://code.videolan.org/videolan/VLC-android "VLC"): A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
-### Password Managers
+## Password Managers
+
 **[`^        back to top        ^`](#)**
 
 - [![GitHub stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat)
@@ -127,7 +128,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/Kunzisoft/KeePassDX.svg?label=★&style=flat)
   **KeePassDX**](https://github.com/Kunzisoft/KeePassDX "KeePassDX"): A multi-format KeePass manager for Android devices. The app allows creating keys and passwords in a secure way by integrating with the Android design standards.
 
-### Security and Privacy
+## Security and Privacy
 
 **[`^        back to top        ^`](#)**
 
@@ -149,7 +150,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F18645286)
   **Warden**](https://gitlab.com/AuroraOSS/AppWarden "Warden"): A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.
 
-### Social Media
+## Social Media
 
 **[`^        back to top        ^`](#)**
 
@@ -168,7 +169,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/tuskyapp/Tusky.svg?label=★&style=flat-square)
   **Tusky**](https://github.com/tuskyapp/Tusky "Tusky"): A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.
 
-### Texting
+## Texting
 
 **[`^        back to top        ^`](#)**
 
@@ -181,7 +182,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/signalapp/Signal-Android.svg?label=★&style=flat)
   **Signal**](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
-### Utilities
+## Utilities
 
 **[`^        back to top        ^`](#)**
 
