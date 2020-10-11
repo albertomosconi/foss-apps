@@ -22,6 +22,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [App Stores](#app-stores "App Stores")
 - [Browsers](#browsers "Browsers")
 - [Email Clients](#email-clients "Email Clients")
+- [Emulators](#emulators "Emulators")
 - [Entertainment](#entertainment "Entertainment")
 - [File Managers](#file-managers "File Managers")
 - [Games](#games "Games")
@@ -77,6 +78,16 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - [![GitHub stars](https://img.shields.io/github/stars/k9mail/k-9.svg?label=★&style=flat)
   **K-9**](https://github.com/k9mail/k-9 "K-9"): An open source email client focused on making it easy to chew through large volumes of email.
+
+## Emulators
+
+**[`^        back to top        ^`](#)**
+
+- [![GitHub stars](https://img.shields.io/github/stars/Swordfish90/Lemuroid.svg?label=★&style=flat)
+  **Lemuroid**](https://github.com/Swordfish90/Lemuroid "Lemuroid"): An Android open-source emulation project based on Libretro. It's main goals are ease of use, good Android integration and great user experience.
+
+- [![GitHub stars](https://img.shields.io/github/stars/libretro/RetroArch.svg?label=★&style=flat)
+  **RetroArch**](https://github.com/libretro/RetroArch "RetroArch"): Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. It attempts to be small and lean while still having all the useful core features expected from an emulator. It is designed to be very portable and features a gamepad-centric and touchscreen UI. It also has a full-featured command-line interface.
 
 ## Entertainment
 
