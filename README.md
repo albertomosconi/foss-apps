@@ -28,6 +28,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Games](#games "Games")
 - [Media Players](#media-players "Media Players")
 - [Password Managers](#password-managers "Password Managers")
+- [Productivity](#productivity "Productivity")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social Media](#social-media "Social Media")
 - [Texting](#texting "Texting")
@@ -151,6 +152,13 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/Kunzisoft/KeePassDX.svg?label=★&style=flat)
   **KeePassDX**](https://github.com/Kunzisoft/KeePassDX "KeePassDX"): A multi-format KeePass manager for Android devices. The app allows creating keys and passwords in a secure way by integrating with the Android design standards.
 
+## Productivity
+
+**[`^        back to top        ^`](#)**
+
+- [![GitHub stars](https://img.shields.io/github/stars/tasks/tasks.svg?label=★&style=flat)
+  **Tasks.org**](https://github.com/tasks/tasks "Tasks.org"): Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
+
 ## Security and Privacy
 
 **[`^        back to top        ^`](#)**
@@ -226,9 +234,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - [![GitHub stars](https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat)
   **Prism**](https://github.com/Hash-Studios/Prism "Prism"): A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
-
-- [![GitHub stars](https://img.shields.io/github/stars/tasks/tasks.svg?label=★&style=flat)
-  **Tasks.org**](https://github.com/tasks/tasks "Tasks.org"): Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
 
 ## Suggestions
 
