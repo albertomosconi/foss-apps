@@ -222,4 +222,4 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= "issue"). Please use the given issue template.
 
-Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](CONTRIBUTING.html "CONTRIBUTING GUIDELINES"). This is also the fastest way for your suggestion to be added to the list!
+Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/master/CONTRIBUTING.md "CONTRIBUTING GUIDELINES"). This is also the fastest way for your suggestion to be added to the list!
