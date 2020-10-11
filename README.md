@@ -112,6 +112,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F5074924)
   **BookReader**](https://gitlab.com/axet/android-book-reader "BookReader"): An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
 
+- [![GitHub stars](https://img.shields.io/github/stars/h4h13/RetroMusicPlayer.svg?label=★&style=flat)
+  **Retro Music Player**](https://github.com/h4h13/RetroMusicPlayer "Retro Music Player"): Material design music player with  simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.
+
 - [![GitHub stars](https://img.shields.io/github/stars/AdrienPoupa/VinylMusicPlayer.svg?label=★&style=flat)
   **Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer "Vinyl Music Player"): A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.
 
