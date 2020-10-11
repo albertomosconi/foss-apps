@@ -45,6 +45,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/kitsunyan/foxy-droid.svg?label=★&style=flat)
   **Foxy Droid**](https://github.com/kitsunyan/foxy-droid "Foxy Droid"): Unofficial F-Droid client in the style of the classic one. Jump over the lazy dog, manage repositories, and install software quickly. No privileged extension, root installation, or sharing local repositories nearby. It also features fast repository syncing, standard Android components, minimal dependencies and more.
 
+- [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F9250542)
+  **G-Droid**](https://gitlab.com/gdroid/gdroidclient "G-Droid"): An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc.
+
 ## Browsers
 
 **[`^        back to top        ^`](#)**
