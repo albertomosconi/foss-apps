@@ -219,6 +219,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [![GitHub stars](https://img.shields.io/github/stars/signalapp/Signal-Android.svg?label=★&style=flat)
   **Signal**](https://github.com/signalapp/Signal-Android "Signal"): A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
+- [![GitHub stars](https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat)
+  **Simple Keyboard**](https://github.com/rkkr/simple-keyboard "Simple Keyboard"): This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.
+
 ## Utilities
 
 **[`^        back to top        ^`](#)**
