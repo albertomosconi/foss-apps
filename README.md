@@ -38,21 +38,21 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`^ back to top ^`](#)**
 
-- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885) [`[source]`](https://gitlab.com/AuroraOSS/AuroraStore "source")[`[fdroid]`](https://f-droid.org/en/packages/com.aurora.store "f-droid")[`[website]`](https://auroraoss.com/app_info.php?app_id=1 "website")
-
+- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885)
   **Aurora Store**: An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
+  [`[source]`](https://gitlab.com/AuroraOSS/AuroraStore "source")[`[fdroid]`](https://f-droid.org/en/packages/com.aurora.store "f-droid")[`[website]`](https://auroraoss.com/app_info.php?app_id=1 "website")
 
-- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F36189) [`[source]`](https://gitlab.com/fdroid/fdroidclient "source")[`[website]`](https://f-droid.org/ "website")
-
+- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F36189)
   **F-Droid**: An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+  [`[source]`](https://gitlab.com/fdroid/fdroidclient "source")[`[website]`](https://f-droid.org/ "website")
 
-- ![GitHub stars](https://img.shields.io/github/stars/kitsunyan/foxy-droid.svg?label=★&style=flat) [`[source]`](https://github.com/kitsunyan/foxy-droid "source")[`[fdroid]`](https://f-droid.org/packages/nya.kitsunyan.foxydroid "f-droid")
-
+- ![GitHub stars](https://img.shields.io/github/stars/kitsunyan/foxy-droid.svg?label=★&style=flat)
   **Foxy Droid**: Unofficial F-Droid client in the style of the classic one. Jump over the lazy dog, manage repositories, and install software quickly. No privileged extension, root installation, or sharing local repositories nearby. It also features fast repository syncing, standard Android components, minimal dependencies and more.
+  [`[source]`](https://github.com/kitsunyan/foxy-droid "source")[`[fdroid]`](https://f-droid.org/packages/nya.kitsunyan.foxydroid "f-droid")
 
-- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F9250542) [`[source]`](https://gitlab.com/gdroid/gdroidclient "source")[`[fdroid]`](https://f-droid.org/en/packages/org.gdroid.gdroid "f-droid")
-
+- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F9250542)
   **G-Droid**: An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc.
+  [`[source]`](https://gitlab.com/gdroid/gdroidclient "source")[`[fdroid]`](https://f-droid.org/en/packages/org.gdroid.gdroid "f-droid")
 
 ## Browsers
 
