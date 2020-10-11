@@ -39,7 +39,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **[`^        back to top        ^`](#)**
 
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885)
-  **Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store"): An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
+  **Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore "Aurora Store") ( [website](https://auroraoss.com/app_info.php?app_id=1 "website") ) ( [f-droid](https://f-droid.org/en/packages/com.aurora.store "f-droid") )
+  
+  An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
 
 - [![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F36189)
   **F-Droid**](https://gitlab.com/fdroid/fdroidclient "F-Droid"): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
