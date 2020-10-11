@@ -48,7 +48,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - [![GitHub stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat)
   **Bromite**](https://github.com/bromite/bromite "Bromite"): A Chromium fork with ad blocking and privacy enhancements; take back your browser!
-
+  
+- [![GitHub stars](https://img.shields.io/github/stars/mozilla-mobile/fenix.svg?label=★&style=flat)
+  **Fennec (Fenix)**](https://github.com/mozilla-mobile/fenix "Fennec (Fenix)"): The all-new Firefox for Android browser, based on GeckoView and Mozilla Android Components. It features Enhanced Tracking Protection on by default blocking thousands of annoying ad trackers and malware — making your experience more secure, and a lot faster too.
+  
 - [![GitHub stars](https://img.shields.io/github/stars/fork-maintainers/iceraven-browser.svg?label=★&style=flat)
   **IceRaven**](https://github.com/fork-maintainers/iceraven-browser "IceRaven"): A web browser for Android, based on Mozilla's Fenix version of Firefox. Our goal is to be a close fork of the new Firefox for Android that seeks to provide users with more options, more opportunities to customize (including a broad extension library), and more.
 
