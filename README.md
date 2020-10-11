@@ -204,6 +204,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`^        back to top        ^`](#)**
 
+- [![GitHub stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
+  **Hacker's Keyboard**](https://github.com/klausw/hackerskeyboard "Hacker's Keyboard"): Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
+
 - [![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost-webapp.svg?label=★&style=flat)
   **Mattermost**](https://github.com/mattermost/mattermost-webapp "Mattermost"): Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
 
