@@ -59,7 +59,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **IceRaven**](https://github.com/fork-maintainers/iceraven-browser "IceRaven"): A web browser for Android, based on Mozilla's Fenix version of Firefox. Our goal is to be a close fork of the new Firefox for Android that seeks to provide users with more options, more opportunities to customize (including a broad extension library), and more.
 
 - [![GitHub stars](https://img.shields.io/github/stars/kiwibrowser/src.svg?label=★&style=flat)
-  **Kiwi Browser**](https://github.com/kiwibrowser/src "Kiwi Browser"): A fully open-source web browser for Android. Kiwi is based on Chromium. Easily switch to Kiwi without having to painstakingly learn a new interface or break your existing browsing habits.
+  **Kiwi Browser**](https://github.com/kiwibrowser/src "Kiwi Browser"): A fully open-source web browser for Android. Kiwi is based on Chromium. Easily switch to Kiwi without having to painstakingly learn a new interface or break your existing browsing habits. It supports Chrome Extensions, night mode and bottom address bar, as well as performance improvements.
 
 - [![GitHub stars](https://img.shields.io/github/stars/arunkumar9t2/lynket-browser.svg?label=★&style=flat)
   **Lynket**](https://github.com/arunkumar9t2/lynket-browser "Lynket"): Android browser app based on Custom Tabs protocol.
