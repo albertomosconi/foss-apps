@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Contributing Guidelines
 
 This document shows you how to get started with your contribution to this project. If you follow these, your PR will be merged quickly.
