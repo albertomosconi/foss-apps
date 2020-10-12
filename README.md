@@ -115,6 +115,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **NewPipe**: A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
   [`[source]`](https://github.com/TeamNewPipe/NewPipe "source")[`[fdroid]`](https://f-droid.org/packages/org.schabi.newpipe "f-droid")[`[website]`](https://newpipe.schabi.org "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/inorichi/tachiyomi.svg?label=★&style=flat)
+  **Tachiyomi**: A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
+  [`[source]`](https://github.com/inorichi/tachiyomi "source")[`[fdroid]`](https://f-droid.org/en/packages/eu.kanade.tachiyomi "f-droid")[`[website]`](https://tachiyomi.org "website")
+
 ## File Managers
 
 **[`^ back to top ^`](#)**
