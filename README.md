@@ -105,11 +105,11 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - ![GitHub stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat)
   **AntennaPod**: An easy-to-use, flexible and open-source podcast manager for Android.
-  [`[source]`](https://github.com/AntennaPod/AntennaPod "source")[`[fdroid]`]("f-droid")[`[playstore]`]("playstore")[`[website]`](https://antennapod.org "website")
+  [`[source]`](https://github.com/AntennaPod/AntennaPod "source")[`[website]`](https://antennapod.org "website")
 
 - ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F3088048)
   **Feeder**: This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.
-  [`[source]`](https://gitlab.com/spacecowboy/Feeder "source")[`[fdroid]`](https://f-droid.org/packages/de.danoeh.antennapod "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.danoeh.antennapod "playstore")[`[website]`]("website")
+  [`[source]`](https://gitlab.com/spacecowboy/Feeder "source")[`[fdroid]`](https://f-droid.org/packages/de.danoeh.antennapod "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.danoeh.antennapod "playstore")
 
 - ![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe.svg?label=★&style=flat)
   **NewPipe**: A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.
@@ -118,6 +118,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub stars](https://img.shields.io/github/stars/inorichi/tachiyomi.svg?label=★&style=flat)
   **Tachiyomi**: Free and open source manga reader for Android, supports online reading from sources such as MangaDex, MangaSee, Mangakakalot, and more. Local reading of downloaded manga. A configurable reader with multiple viewers, reading directions and other settings, and much more.
   [`[source]`](https://github.com/inorichi/tachiyomi "source")[`[fdroid]`](https://f-droid.org/en/packages/eu.kanade.tachiyomi "f-droid")[`[website]`](https://tachiyomi.org "website")
+
+- ![GitHub stars](https://img.shields.io/github/stars/twireapp/Twire.svg?label=★&style=flat)
+  **Twire**: An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.
+  [`[source]`](https://github.com/twireapp/Twire "source")[`[fdroid]`](https://f-droid.org/packages/com.perflyst.twire "f-droid")
 
 ## File Managers
 
