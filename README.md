@@ -155,6 +155,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **BookReader**: An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
   [`[source]`](https://gitlab.com/axet/android-book-reader "source")[`[fdroid]`](https://f-droid.org/en/packages/com.github.axet.bookreader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.github.axet.bookreader "playstore")
 
+- ![GitHub stars](https://img.shields.io/github/stars/enricocid/Music-Player-GO.svg?label=★&style=flat)
+  **Music Player GO**: A simple yet fully-featured local music player aiming at simplicity and performance.
+  [`[source]`](https://github.com/enricocid/Music-Player-GO "source")[`[fdroid]`](https://f-droid.org/packages/com.iven.musicplayergo "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.iven.musicplayergo "playstore")
+
 - ![GitHub stars](https://img.shields.io/github/stars/h4h13/RetroMusicPlayer.svg?label=★&style=flat)
   **Retro Music Player**: Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.
   [`[source]`](https://github.com/h4h13/RetroMusicPlayer "source")[`[playstore]`](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic "playstore")[`[website]`](https://hemanths.dev/#/retro-music "website")
