@@ -160,6 +160,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **OsmAnd**: This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage.
   [`[source]`](https://github.com/osmandapp/Osmand "source")[`[fdroid]`](https://f-droid.org/packages/net.osmand.plus "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=net.osmand "playstore")[`[website]`](https://osmand.net "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/westnordost/StreetComplete.svg?label=★&style=flat)
+  **Street Complete**: An easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.
+  [`[source]`](https://github.com/westnordost/StreetComplete "source")[`[fdroid]`](https://f-droid.org/packages/de.westnordost.streetcomplete "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete "playstore")
+
 ## Media Players
 
 **[`^ back to top ^`](#)**
