@@ -158,7 +158,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - ![GitHub stars](https://img.shields.io/github/stars/osmandapp/Osmand.svg?label=★&style=flat)
   **OsmAnd**: This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage.
-  [`[source]`](https://github.com/osmandapp/Osmand "source")[`[playstore]`](https://play.google.com/store/apps/details?id=net.osmand "playstore")[`[website]`](https://osmand.net "website")
+  [`[source]`](https://github.com/osmandapp/Osmand "source")[`[fdroid]`](https://f-droid.org/packages/net.osmand.plus "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=net.osmand "playstore")[`[website]`](https://osmand.net "website")
 
 ## Media Players
 
