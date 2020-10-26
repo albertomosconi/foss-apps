@@ -303,6 +303,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Prism**: A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
   [`[source]`](https://github.com/Hash-Studios/Prism "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.hash.prism "playstore")
 
+- ![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing-android.svg?label=★&style=flat)
+  **Syncthing**: A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
+  [`[source]`](https://github.com/syncthing/syncthing-android "source")[`[fdroid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore")[`[website]`](https://syncthing.net "website")
+
 ## Suggestions
 
 **[`^ back to top ^`](#)**
