@@ -283,6 +283,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **BetterBatteryStats**: Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
   [`[source]`](https://github.com/asksven/BetterBatteryStats "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats "playstore")[`[website]`](https://better.asksven.io/betterbatterystats "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/TachibanaGeneralLaboratories/download-navi.svg?label=★&style=flat)
+  **Download Navi**: A free and Open Source download manager for Android 4.4+, with material design, and lots of useful features like support for Android TV and Chrome OS, built-in browser, power management and battery control.
+  [`[source]`](https://github.com/TachibanaGeneralLaboratories/download-navi "source")[`[fdroid]`](https://f-droid.org/en/packages/com.tachibana.downloader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.tachibana.downloader "playstore")
+
 - ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72)
   **KDE Connect**: Native Android port of the KDE Connect Qt app. KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
   [`[source]`](https://invent.kde.org/network/kdeconnect-android "source")[`[fdroid]`](https://f-droid.org/packages/org.kde.kdeconnect_tp "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp "playstore")[`[website]`](https://community.kde.org/KDEConnect "website")
