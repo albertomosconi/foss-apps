@@ -10,6 +10,9 @@ assignees: ''
 ### app name
 Write here the name of your app.
 
+### category
+Type in which category your app goes, even if it doesn't exist already
+
 ### description
 Describe in short the functionality of the app.
 
