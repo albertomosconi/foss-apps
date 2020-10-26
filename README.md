@@ -256,6 +256,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Infinity**: This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
   [`[source]`](https://github.com/Docile-Alligator/Infinity-For-Reddit "source")[`[fdroid]`]("f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "playstore")
 
+- ![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?label=★&style=flat-square)
+  **Jitsi Meet**: Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.
+  [`[source]`](https://github.com/jitsi/jitsi-meet "source")[`[fdroid]`](https://f-droid.org/en/packages/org.jitsi.meet "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.jitsi.meet "playstore")[`[website]`](https://jitsi.org/jitsi-meet "website")
+
 - ![GitHub stars](https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square)
   **Slide**: An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.
   [`[source]`](https://github.com/ccrama/Slide "source")[`[fdroid]`](https://f-droid.org/packages/me.ccrama.redditslide "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=me.ccrama.redditslide "playstore")[`[website]`](https://www.reddit.com/r/slideforreddit "website")
