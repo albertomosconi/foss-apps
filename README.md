@@ -39,6 +39,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`^ back to top ^`](#)**
 
+- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F12469948)
+  **Aurora Droid**: An alternative to the default F-Droid app with an intuitive UI and multiple great features, such as a powerful download manager: pause, resume and retry downloading apps, previous releases: enables downloading old releases.
+  [`[source]`](https://gitlab.com/AuroraOSS/auroradroid "source")[`[fdroid]`](https://f-droid.org/packages/com.aurora.adroid "f-droid")[`[website]`](https://auroraoss.com/app_info.php?app_id=2 "website")
+
 - ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885)
   **Aurora Store**: An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.
   [`[source]`](https://gitlab.com/AuroraOSS/AuroraStore "source")[`[fdroid]`](https://f-droid.org/en/packages/com.aurora.store "f-droid")[`[website]`](https://auroraoss.com/app_info.php?app_id=1 "website")
