@@ -76,6 +76,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   Lynket utilizes Chrome Custom Tab API to create a customized browsing experience while adding innovative features like background loading with floating bubbles, article mode and multitasking using Android's recent menu.
   [`[source]`](https://github.com/arunkumar9t2/lynket-browser "source")[`[playstore]`](https://play.google.com/store/apps/details?id=arun.com.chromer "playstore")
 
+- **Privacy Browser**: Most browsers silently give websites massive amounts of information that allows them to track you and compromise your privacy. In contrast, privacy sensitive features are disabled by default in Privacy Browser. If one of these technologies is required for a website to function correctly, the user may choose to turn it on for just that visit. Or, they can use domain settings to automatically turn on certain features when entering a specific website and turn them off again when leaving.
+  [`[source]`](https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary "source")[`[fdroid]`](https://f-droid.org/packages/com.stoutner.privacybrowser.standard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard "playstore")[`[website]`](https://www.stoutner.com/privacy-browser "website")
+
 ## Email Clients
 
 **[`^ back to top ^`](#)**
