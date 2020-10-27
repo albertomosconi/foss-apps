@@ -265,7 +265,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - ![GitHub stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit.svg?label=★&style=flat-square)
   **Infinity**: This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
-  [`[source]`](https://github.com/Docile-Alligator/Infinity-For-Reddit "source")[`[fdroid]`]("f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "playstore")
+  [`[source]`](https://github.com/Docile-Alligator/Infinity-For-Reddit "source")[`[playstore]`](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "playstore")
 
 - ![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?label=★&style=flat-square)
   **Jitsi Meet**: Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.
@@ -282,6 +282,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## Texting
 
 **[`^ back to top ^`](#)**
+
+- ![GitHub stars](https://img.shields.io/github/stars/deltachat/deltachat-android.svg?label=★&style=flat-square)
+  **Delta Chat**: A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.
+  [`[source]`](https://github.com/deltachat/deltachat-android "source")[`[fdroid]`](https://f-droid.org/packages/com.b44t.messenger "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=chat.delta "playstore")[`[website]`](https://delta.chat/en "website")
 
 - ![GitHub stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
   **Hacker's Keyboard**: Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
