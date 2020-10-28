@@ -283,6 +283,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Tusky**: A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.
   [`[source]`](https://github.com/tuskyapp/Tusky "source")[`[fdroid]`](https://f-droid.org/packages/com.keylesspalace.tusky "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky "playstore")[`[website]`](https://tusky.app "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/TwidereProject/Twidere-Android.svg?label=★&style=flat-square)
+  **Twidere**: Material Design ready and feature rich Twitter/Mastodon/StatusNet/Fanfou app for Android 4.1+. Supports powerful mute filters, night mode, multiple accounts, customizable tabs.
+  [`[source]`](https://github.com/TwidereProject/Twidere-Android "source")[`[fdroid]`](https://f-droid.org/packages/org.mariotaku.twidere "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.mariotaku.twidere "playstore")[`[website]`](https://twidere.com "website")
+
 ## Texting
 
 **[`^ back to top ^`](#)**
