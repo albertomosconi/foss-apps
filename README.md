@@ -227,6 +227,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`^ back to top ^`](#)**
 
+- ![GitHub stars](https://img.shields.io/github/stars/AdAway/AdAway.svg?label=★&style=flat)
+  **AdAway**: An open source ad blocker for Android using the hosts file. The hosts file is a system file that contains a list of mappings between host names and IP addresses. When an app requests an ad from a host in that file, this request is redirected to the local IP 127.0.0.1, which does nothing.
+  [`[source]`](https://github.com/AdAway/AdAway "source")[`[fdroid]`](https://f-droid.org/packages/org.adaway "f-droid")[`[website]`](https://adaway.org "website")
+
 - ![GitHub stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat)
   **Aegis**: A free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services.
   [`[source]`](https://github.com/beemdevelopment/Aegis "source")[`[fdroid]`](https://f-droid.org/en/packages/com.beemdevelopment.aegis "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis "playstore")[`[website]`](https://getaegis.app "website")
