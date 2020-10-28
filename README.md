@@ -303,6 +303,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Mattermost**: Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
   [`[source]`](https://github.com/mattermost/mattermost-mobile "source")[`[fdroid]`](https://f-droid.org/en/packages/com.mattermost.rnbeta "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.mattermost.rn "playstore")[`[website]`](https://mattermost.com "website")
 
+- ![GitHub Stars](https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat)
+  **OpenBoard**: A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.
+  [`[source]`](https://github.com/dslul/openboard "source")[`[fdroid]`](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin "playstore")
+
 - ![GitHub stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat)
   **QKSMS**: An open source replacement to the stock messaging app on Android.
   [`[source]`](https://github.com/moezbhatti/qksms "source")[`[fdroid]`](https://f-droid.org/packages/com.moez.QKSMS "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.moez.QKSMS "playstore")
