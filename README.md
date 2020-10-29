@@ -331,6 +331,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **BetterBatteryStats**: Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
   [`[source]`](https://github.com/asksven/BetterBatteryStats "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats "playstore")[`[website]`](https://better.asksven.io/betterbatterystats "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/kamgurgul/cpu-info.svg?label=★&style=flat)
+  **CPU Info**: Provides main information about hardware and software of your device: CPU and GPU specification, RAM and storage state, display metrics, sensors data and much more.
+  [`[source]`](https://github.com/kamgurgul/cpu-info "source")[`[fdroid]`](https://f-droid.org/packages/com.kgurgul.cpuinfo "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo "playstore")
+
 - ![GitHub stars](https://img.shields.io/github/stars/TachibanaGeneralLaboratories/download-navi.svg?label=★&style=flat)
   **Download Navi**: A free and Open Source download manager for Android 4.4+, with material design, and lots of useful features like support for Android TV and Chrome OS, built-in browser, power management and battery control.
   [`[source]`](https://github.com/TachibanaGeneralLaboratories/download-navi "source")[`[fdroid]`](https://f-droid.org/en/packages/com.tachibana.downloader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.tachibana.downloader "playstore")
