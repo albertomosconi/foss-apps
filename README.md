@@ -215,6 +215,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`^ back to top ^`](#)**
 
+- ![GitHub stars](https://img.shields.io/github/stars/iSoron/uhabits.svg?label=★&style=flat)
+  **Loop Habit Tracker**: A simple app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time.
+  [`[source]`](https://github.com/iSoron/uhabits "source")[`[fdroid]`](https://f-droid.org/packages/org.isoron.uhabits "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.isoron.uhabits "playstore")
+
 - ![GitHub stars](https://img.shields.io/github/stars/orgzly/orgzly-android.svg?label=★&style=flat)
   **Orgzly**: An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode’s file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
   [`[source]`](https://github.com/orgzly/orgzly-android "source")[`[fdroid]`](https://f-droid.org/packages/com.orgzly "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.orgzly "playstore")[`[website]`](http://www.orgzly.com "website")
