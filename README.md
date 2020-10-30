@@ -223,6 +223,11 @@ _I do not own this material, I'm just sharing it because I think it's cool._
   **Orgzly**: An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode’s file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
   [`[source]`](https://github.com/orgzly/orgzly-android "source")[`[fdroid]`](https://f-droid.org/packages/com.orgzly "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.orgzly "playstore")[`[website]`](http://www.orgzly.com "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/nproth/pin.svg?label=★&style=flat)
+  **p!n**: A minimalistic note-taking app utilizing your phone's notification area: take notes and save them as notifications, edit pinned notices, delete pins, hide notes for a specific period of time. This app was built with Material Design in mind.
+The app was built with Material Design in mind.
+  [`[source]`](https://github.com/nproth/pin "source")[`[fdroid]`](https://f-droid.org/packages/de.nproth.pin "f-droid")
+
 - ![GitHub stars](https://img.shields.io/github/stars/tasks/tasks.svg?label=★&style=flat)
   **Tasks.org**: Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
   [`[source]`](https://github.com/tasks/tasks "source")[`[fdroid]`](https://f-droid.org/packages/org.tasks "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.tasks "playstore")[`[website]`](https://tasks.org "website")
