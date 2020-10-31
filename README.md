@@ -83,6 +83,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - **Privacy Browser**: Most browsers silently give websites massive amounts of information that allows them to track you and compromise your privacy. In contrast, privacy sensitive features are disabled by default in Privacy Browser. If one of these technologies is required for a website to function correctly, the user may choose to turn it on for just that visit. Or, they can use domain settings to automatically turn on certain features when entering a specific website and turn them off again when leaving.
   [`[source]`](https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary "source")[`[fdroid]`](https://f-droid.org/packages/com.stoutner.privacybrowser.standard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard "playstore")[`[website]`](https://www.stoutner.com/privacy-browser "website")
 
+- ![GitHub stars](https://img.shields.io/github/stars/CookieJarApps/SmartCookieWeb.svg?label=★&style=flat)
+  **SmartCookieWeb**: A lightweight, basic and secure web browser that uses less than 8MB of space. There is an Incognito Mode which can be enabled and stops web trackers completely. As well as this, the user agent (your web "fingerprint") is the same as every other Smart Cookie user so websites can’t track you. Smart Cookie is ad-free and always will be. There is also an ad blocker included which is enabled by default.
+  [`[source]`](https://github.com/CookieJarApps/SmartCookieWeb "source")[`[fdroid]`](https://f-droid.org/en/packages/com.cookiegames.smartcookie "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie "playstore")[`[website]`](https://smartcookieweb.com "website")
+
 ## Email Clients
 
 **[`^ back to top ^`](#)**
