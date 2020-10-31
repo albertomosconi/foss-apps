@@ -33,7 +33,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Productivity](#productivity "Productivity")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social Media](#social-media "Social Media")
-- [Test](#test "Test")
 - [Texting](#texting "Texting")
 - [Utilities](#utilities "Utilities")
 <!-- table-of-contents ends -->
