@@ -284,6 +284,10 @@ The app was built with Material Design in mind.
   **Infinity**: This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
   [`[source]`](https://github.com/Docile-Alligator/Infinity-For-Reddit "source")[`[playstore]`](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "playstore")
 
+- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgit.jami.net/%2Fapi%2Fv4%2Fprojects%2F2)
+  **Jami**: A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.
+  [`[source]`](https://git.jami.net/savoirfairelinux/ring-client-android "source")[`[fdroid]`](https://f-droid.org/packages/cx.ring "f-droid")[`[website]`](https://jami.net "website")
+
 - ![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?label=★&style=flat-square)
   **Jitsi Meet**: Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.
   [`[source]`](https://github.com/jitsi/jitsi-meet "source")[`[fdroid]`](https://f-droid.org/en/packages/org.jitsi.meet "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.jitsi.meet "playstore")[`[website]`](https://jitsi.org/jitsi-meet "website")
