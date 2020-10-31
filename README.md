@@ -268,6 +268,10 @@ The app was built with Material Design in mind.
   **Warden**: A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.
   [`[source]`](https://gitlab.com/AuroraOSS/AppWarden "source")[`[website]`](https://auroraoss.com/app_info.php?app_id=3 "website")
 
+- ![Gitlab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F11488420)
+  **Yet Another Call Blocker**: A free and open source application that can block unwanted calls or warn about probable intentions of callers using a third-party crowdsourced phone number database (from some other proprietary app).
+  [`[source]`](https://gitlab.com/xynngh/YetAnotherCallBlocker "source")[`[fdroid]`](https://f-droid.org/packages/dummydomain.yetanothercallblocker "f-droid")
+
 ## Social Media
 
 **[`^ back to top ^`](#)**
