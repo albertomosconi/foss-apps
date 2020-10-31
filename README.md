@@ -19,6 +19,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Table of Contents
 
+<!-- table-of-contents starts -->
 - [App Stores](#app-stores "App Stores")
 - [Browsers](#browsers "Browsers")
 - [Email Clients](#email-clients "Email Clients")
@@ -34,6 +35,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Social Media](#social-media "Social Media")
 - [Texting](#texting "Texting")
 - [Utilities](#utilities "Utilities")
+<!-- table-of-contents ends -->
 
 ## App Stores
 
@@ -233,7 +235,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - ![GitHub stars](https://img.shields.io/github/stars/nproth/pin.svg?label=★&style=flat)
   **p!n**: A minimalistic note-taking app utilizing your phone's notification area: take notes and save them as notifications, edit pinned notices, delete pins, hide notes for a specific period of time. This app was built with Material Design in mind.
-The app was built with Material Design in mind.
+  The app was built with Material Design in mind.
   [`[source]`](https://github.com/nproth/pin "source")[`[fdroid]`](https://f-droid.org/packages/de.nproth.pin "f-droid")
 
 - ![GitHub stars](https://img.shields.io/github/stars/tasks/tasks.svg?label=★&style=flat)
