@@ -28,6 +28,7 @@ if __name__ == "__main__":
 
     apps = parse_apps()
 
+    # write the table of contents
     md = "\n".join([
         "- [{text}](#{link} \"{text}\")".format(text=" ".join(x.title() if x != "and" else "and" for x in category.split(" ")),
                                                 link=category.replace(" ", "-"))
@@ -35,6 +36,40 @@ if __name__ == "__main__":
     ])
 
     readme_contents = readme.open().read()
-    new = replace_chunk(readme_contents, "table-of-contents", md)
+    rewritten = replace_chunk(readme_contents, "table-of-contents", md)
 
-    readme.open("w").write(new)
+    # write app list
+    list_md = ""
+    for category in apps.keys():
+
+        list_md += "## {}\n\n**[`^ back to top ^`](#)**\n\n".format(
+            " ".join(x.title() if x != "and" else "and" for x in category.split(" ")))
+
+        for app in apps[category]:
+
+            list_md += "- "
+
+            if "host" in app:
+                list_md += "![{} Stars]({})\n".format(
+                    app["host"], app["stars_link"])
+
+            list_md += "**{}**: {}\n".format(app["name"], app["description"])
+
+            list_md += "[`[source]`]({} \"source\")".format(app["source"])
+
+            if "fdroid" in app:
+                list_md += "[`[f-droid]`]({} \"f-droid\")".format(app["fdroid"])
+
+            if "playstore" in app:
+                list_md += "[`[playstore]`]({} \"playstore\")".format(
+                    app["playstore"])
+
+            if "website" in app:
+                list_md += "[`[website]`]({} \"website\")".format(
+                    app["website"])
+
+            list_md += "\n\n"
+
+    rewritten = replace_chunk(rewritten, "list", list_md)
+
+    readme.open("w").write(rewritten)
