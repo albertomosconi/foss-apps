@@ -11,15 +11,6 @@
         },
         {
             "host": "GitLab",
-            "name": "Test Droid",
-            "description": "testing automated readme build",
-            "stars_link": "https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F12469948",
-            "source": "https://gitlab.com/AuroraOSS/auroradroid",
-            "fdroid": "https://f-droid.org/packages/com.aurora.adroid",
-            "website": "https://auroraoss.com/app_info.php?app_id=2"
-        },
-        {
-            "host": "GitLab",
             "name": "Aurora Store",
             "description": "An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.",
             "stars_link": "https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F6922885",
