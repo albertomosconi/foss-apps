@@ -28,6 +28,19 @@ if __name__ == "__main__":
 
     apps = parse_apps()
 
+    readme_contents = readme.open().read()
+
+    # count apps
+    count = 0
+    for category in apps.keys():
+        count += len(apps[category])
+
+    app_count_md = '<img src="https://img.shields.io/badge/{}-apps-red" alt="App Count"/>'.format(
+        count)
+
+    rewritten = replace_chunk(
+        readme_contents, "counter", app_count_md)
+
     # write the table of contents
     md = "\n".join([
         "- [{text}](#{link} \"{text}\")".format(text=" ".join(x.title() if x != "and" else "and" for x in category.split(" ")),
@@ -35,8 +48,7 @@ if __name__ == "__main__":
         for category in apps.keys()
     ])
 
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "table-of-contents", md)
+    rewritten = replace_chunk(rewritten, "table-of-contents", md)
 
     # write app list
     list_md = ""
