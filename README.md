@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/73-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/74-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -311,6 +311,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square)
   **Slide**: An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.
   [`[source]`](https://github.com/ccrama/Slide "source")[`[f-droid]`](https://f-droid.org/packages/me.ccrama.redditslide "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=me.ccrama.redditslide "playstore")[`[website]`](https://www.reddit.com/r/slideforreddit "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/Telegram-FOSS-Team/Telegram-FOSS.svg?label=★&style=flat-square)
+**Telegram FOSS**: Unofficial, FOSS-friendly fork of the original Telegram client for Android, a messaging app with a focus on speed and security. It’s superfast, simple and free.
+[`[source]`](https://github.com/Telegram-FOSS-Team/Telegram-FOSS "source")[`[f-droid]`](https://f-droid.org/packages/org.telegram.messenger "f-droid")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/tuskyapp/Tusky.svg?label=★&style=flat-square)
   **Tusky**: A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.
