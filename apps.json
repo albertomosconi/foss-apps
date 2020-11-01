@@ -513,6 +513,14 @@
         },
         {
             "host": "GitHub",
+            "name": "Telegram FOSS",
+            "description": "Unofficial, FOSS-friendly fork of the original Telegram client for Android, a messaging app with a focus on speed and security. It’s superfast, simple and free.",
+            "stars_link": "https://img.shields.io/github/stars/Telegram-FOSS-Team/Telegram-FOSS.svg?label=★&style=flat-square",
+            "source": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS",
+            "fdroid": "https://f-droid.org/packages/org.telegram.messenger"
+        },
+        {
+            "host": "GitHub",
             "name": "Tusky",
             "description": "A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.",
             "stars_link": "https://img.shields.io/github/stars/tuskyapp/Tusky.svg?label=★&style=flat-square",
