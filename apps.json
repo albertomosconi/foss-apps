@@ -94,6 +94,24 @@
             "website": "https://smartcookieweb.com"
         }
     ],
+    "calculators": [
+        {
+            "host": "GitHub",
+            "name": "Calculator++",
+            "description": "A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.",
+            "stars_link": "https://img.shields.io/github/stars/Bubu/android-calculatorpp.svg?label=★&style=flat-square",
+            "source": "https://github.com/Bubu/android-calculatorpp",
+            "fdroid": "https://f-droid.org/packages/org.solovyev.android.calculator"
+        },
+        {
+            "host": "GitHub",
+            "name": "ncalc",
+            "description": "A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.",
+            "stars_link": "https://img.shields.io/github/stars/tranleduy2000/ncalc.svg?label=★&style=flat-square",
+            "source": "https://github.com/tranleduy2000/ncalc",
+            "playstore": "https://play.google.com/store/apps/details?id=com.duy.calculator.free"
+        }
+    ],
     "email clients": [
         {
             "host": "GitHub",
