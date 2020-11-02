@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/80-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/81-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -120,6 +120,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Calendar.svg?label=★&style=flat-square)
 **Simple Calendar**: A simple calendar with events and a customizable widget, optional CalDAV synchronization. You can easily create recurring events and setup reminders, it can also display week numbers. Contains a monthly view and an event list widget where you can customize the color of the text, as well as the alpha and the color of the background.
 [`[source]`](https://github.com/SimpleMobileTools/Simple-Calendar "source")[`[f-droid]`](https://f-droid.org/packages/com.simplemobiletools.calendar.pro "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro "playstore")[`[website]`](https://www.simplemobiletools.com/calendar "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/andstatus/todoagenda.svg?label=★&style=flat-square)
+**Todo Agenda**: Home screen widgets for your Android device. Each widget has its own settings and displays configured list of calendar events and tasks so that you can easily have a glimpse at your due, current and upcoming appointments.
+[`[source]`](https://github.com/andstatus/todoagenda "source")[`[f-droid]`](https://f-droid.org/en/packages/org.andstatus.todoagenda "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda "playstore")
 
 ## Email Clients
 
