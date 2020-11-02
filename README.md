@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/76-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/78-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -27,6 +27,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 <!-- table-of-contents starts -->
 - [App Stores](#app-stores "App Stores")
 - [Browsers](#browsers "Browsers")
+- [Calculators](#calculators "Calculators")
 - [Email Clients](#email-clients "Email Clients")
 - [Emulators](#emulators "Emulators")
 - [Entertainment](#entertainment "Entertainment")
@@ -94,6 +95,18 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/CookieJarApps/SmartCookieWeb.svg?label=★&style=flat)
 **SmartCookieWeb**: A lightweight, basic and secure web browser that uses less than 8MB of space. There is an Incognito Mode which can be enabled and stops web trackers completely. As well as this, the user agent (your web fingerprint) is the same as every other Smart Cookie user so websites can’t track you. Smart Cookie is ad-free and always will be. There is also an ad blocker included which is enabled by default.
 [`[source]`](https://github.com/CookieJarApps/SmartCookieWeb "source")[`[f-droid]`](https://f-droid.org/en/packages/com.cookiegames.smartcookie "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie "playstore")[`[website]`](https://smartcookieweb.com "website")
+
+## Calculators
+
+**[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/Bubu/android-calculatorpp.svg?label=★&style=flat-square)
+**Calculator++**: A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.
+[`[source]`](https://github.com/Bubu/android-calculatorpp "source")[`[f-droid]`](https://f-droid.org/packages/org.solovyev.android.calculator "f-droid")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/tranleduy2000/ncalc.svg?label=★&style=flat-square)
+**ncalc**: A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.
+[`[source]`](https://github.com/tranleduy2000/ncalc "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.duy.calculator.free "playstore")
 
 ## Email Clients
 
