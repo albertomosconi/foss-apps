@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/74-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/75-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -32,6 +32,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Entertainment](#entertainment "Entertainment")
 - [File Managers](#file-managers "File Managers")
 - [Games](#games "Games")
+- [Launchers](#launchers "Launchers")
 - [Maps](#maps "Maps")
 - [Media Players](#media-players "Media Players")
 - [Password Managers](#password-managers "Password Managers")
@@ -169,6 +170,14 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat)
 **TalpaSplat3**: Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 [`[source]`](https://github.com/albertomosconi/TalpaSplat3 "source")[`[playstore]`](https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3 "playstore")
+
+## Launchers
+
+**[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/Neamar/KISS.svg?label=★&style=flat)
+**KISS**: A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button.
+[`[source]`](https://github.com/Neamar/KISS "source")[`[f-droid]`](https://f-droid.org/packages/fr.neamar.kiss "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=fr.neamar.kiss "playstore")[`[website]`](https://kisslauncher.com "website")
 
 ## Maps
 
