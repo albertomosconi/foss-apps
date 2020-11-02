@@ -200,16 +200,6 @@
             "source": "https://github.com/zhanghai/MaterialFiles",
             "fdroid": "https://f-droid.org/packages/me.zhanghai.android.files",
             "playstore": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files"
-        },
-        {
-            "host": "GitHub",
-            "name": "Simple Gallery",
-            "description": "A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.",
-            "stars_link": "https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat",
-            "source": "https://github.com/SimpleMobileTools/Simple-Gallery",
-            "fdroid": "https://f-droid.org/packages/com.simplemobiletools.gallery.pro",
-            "playstore": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery",
-            "website": "https://www.simplemobiletools.com/gallery"
         }
     ],
     "games": [
@@ -264,7 +254,7 @@
             "playstore": "https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"
         }
     ],
-    "media players": [
+    "media viewers and players": [
         {
             "host": "GitLab",
             "name": "BookReader",
@@ -301,6 +291,16 @@
             "source": "https://github.com/h4h13/RetroMusicPlayer",
             "playstore": "https://play.google.com/store/apps/details?id=code.name.monkey.retromusic",
             "website": "https://hemanths.dev/#/retro-music"
+        },
+        {
+            "host": "GitHub",
+            "name": "Simple Gallery",
+            "description": "A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.",
+            "stars_link": "https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat",
+            "source": "https://github.com/SimpleMobileTools/Simple-Gallery",
+            "fdroid": "https://f-droid.org/packages/com.simplemobiletools.gallery.pro",
+            "playstore": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery",
+            "website": "https://www.simplemobiletools.com/gallery"
         },
         {
             "host": "GitHub",
