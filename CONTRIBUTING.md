@@ -12,7 +12,7 @@ This document shows you how to get started with your contribution to this projec
 
   - <https://github.com/albertomosconi/foss-apps/fork>
 
-- Check out a new branch based and name it the same as the app you want to add:
+- Check out a new branch from `master` and name it the same as the app you want to add:
 
   - Run this command in a terminal (replacing `APP_NAME` with the name of your app)
     ```
@@ -26,18 +26,32 @@ This document shows you how to get started with your contribution to this projec
 
 - Add your app to the list, respecting the general structure
 
+  - ### The only file that should be edited is `apps.json`
+  
+  - If you're not familiar with the `json` format please look it up before editing to avoid errors. For example read [this article](https://www.w3schools.com/whatis/whatis_json.asp "this article").
+
   - Both the **categories** and the **sublist of apps** in each category are **ordered alphabetically**, so pay attention to this when you're adding your app to the list.
 
-  - Use this template so that the list remains uniform
+  - Each app entry has the same structure, fill as many fields as possible so that the information is the most complete. If the field remains empty please delete it from the object.
 
     ```
-    - [![GitHub Stars](https://img.shields.io/github/stars/[AUTHOR]/[REPO].svg?label=★&style=flat)
-    **[APP_NAME]**](https://github.com/[AUTHOR]/[REPO] "[APP_NAME]"): [DESCRIPTION]
+      {
+            "host": "",
+            "name": "",
+            "description": "",
+            "stars_link": "",
+            "source": "",
+            "fdroid": "",
+            "playstore": "",
+            "website": ""
+      }
     ```
-
-    Replace `AUTHOR` with the username of the author, `REPO` with the name of the repository containing the source code, `APP_NAME` with the name of the app, and `DESCRIPTION` with a short description describing the app's purpose and features.
-
-    For **GitLab** repos please refer to [**issue #1**](https://github.com/albertomosconi/foss-apps/issues/1 "issue #1").
+    
+    `host` should either be "GitHub" or "GitLab", if your app isn't provided through one of these platforms please delete this field, along with the `stars_link` field. The latter should contain the link for the stars badge using the following templates:
+      - GitHub: `https://img.shields.io/github/stars/<USERNAME>/<REPO>.svg?label=★&style=flat`
+      - GitLab: please refer to [**issue #1**](https://github.com/albertomosconi/foss-apps/issues/1 "issue #1").
+    
+    `description` should contain a text from 15 to 60 words, describing the key functionality and selling points of your application.
 
 - Commit your changes
 

@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/74-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/76-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -32,8 +32,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Entertainment](#entertainment "Entertainment")
 - [File Managers](#file-managers "File Managers")
 - [Games](#games "Games")
+- [Launchers](#launchers "Launchers")
 - [Maps](#maps "Maps")
-- [Media Players](#media-players "Media Players")
+- [Media Viewers and Players](#media-viewers-and-players "Media Viewers and Players")
 - [Password Managers](#password-managers "Password Managers")
 - [Productivity](#productivity "Productivity")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
@@ -154,10 +155,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **Material Files**: An open source Material Design file manager, for Android 5.0+.
 [`[source]`](https://github.com/zhanghai/MaterialFiles "source")[`[f-droid]`](https://f-droid.org/packages/me.zhanghai.android.files "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=me.zhanghai.android.files "playstore")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
-**Simple Gallery**: A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
-[`[source]`](https://github.com/SimpleMobileTools/Simple-Gallery "source")[`[f-droid]`](https://f-droid.org/packages/com.simplemobiletools.gallery.pro "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery "playstore")[`[website]`](https://www.simplemobiletools.com/gallery "website")
-
 ## Games
 
 **[`^ back to top ^`](#)**
@@ -169,6 +166,14 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat)
 **TalpaSplat3**: Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 [`[source]`](https://github.com/albertomosconi/TalpaSplat3 "source")[`[playstore]`](https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3 "playstore")
+
+## Launchers
+
+**[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/Neamar/KISS.svg?label=★&style=flat)
+**KISS**: A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button.
+[`[source]`](https://github.com/Neamar/KISS "source")[`[f-droid]`](https://f-droid.org/packages/fr.neamar.kiss "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=fr.neamar.kiss "playstore")[`[website]`](https://kisslauncher.com "website")
 
 ## Maps
 
@@ -182,7 +187,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **Street Complete**: An easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.
 [`[source]`](https://github.com/westnordost/StreetComplete "source")[`[f-droid]`](https://f-droid.org/packages/de.westnordost.streetcomplete "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete "playstore")
 
-## Media Players
+## Media Viewers and Players
 
 **[`^ back to top ^`](#)**
 
@@ -201,6 +206,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/h4h13/RetroMusicPlayer.svg?label=★&style=flat)
 **Retro Music Player**: Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.
 [`[source]`](https://github.com/h4h13/RetroMusicPlayer "source")[`[playstore]`](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic "playstore")[`[website]`](https://hemanths.dev/#/retro-music "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
+**Simple Gallery**: A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
+[`[source]`](https://github.com/SimpleMobileTools/Simple-Gallery "source")[`[f-droid]`](https://f-droid.org/packages/com.simplemobiletools.gallery.pro "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery "playstore")[`[website]`](https://www.simplemobiletools.com/gallery "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/AdrienPoupa/VinylMusicPlayer.svg?label=★&style=flat)
 **Vinyl Music Player**: A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.
@@ -305,6 +314,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?label=★&style=flat-square)
 **Jitsi Meet**: Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.
 [`[source]`](https://github.com/jitsi/jitsi-meet "source")[`[f-droid]`](https://f-droid.org/en/packages/org.jitsi.meet "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.jitsi.meet "playstore")[`[website]`](https://jitsi.org/jitsi-meet "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/slapperwan/gh4a.svg?label=★&style=flat-square)
+**OctoDroid**: An open source client for GitHub. Access to GitHub and stay connected to your networks. Follow git repository and top users in GitHub. View all users' activities, source codes and manage your issues with OctoDroid.
+[`[source]`](https://github.com/slapperwan/gh4a "source")[`[f-droid]`](https://f-droid.org/packages/com.gh4a "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.gh4a "playstore")[`[website]`](https://slapperwan.github.io/gh4a "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square)
 **Slide**: An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.
@@ -412,4 +425,5 @@ Alternatively you can save me some work and send a **Pull Request**, but make su
 ## Acknowledgments
 
 - [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and "A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)")
+- [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ "A List of Open Source Applications (Reddit)")
 - [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme "Building a self-updating profile README for GitHub")
