@@ -131,6 +131,15 @@
             "fdroid": "https://f-droid.org/packages/com.simplemobiletools.calendar.pro",
             "playstore": "https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro",
             "website": "https://www.simplemobiletools.com/calendar"
+        },
+        {
+            "host": "GitHub",
+            "name": "Todo Agenda",
+            "description": "Home screen widgets for your Android device. Each widget has its own settings and displays configured list of calendar events and tasks so that you can easily have a glimpse at your due, current and upcoming appointments.",
+            "stars_link": "https://img.shields.io/github/stars/andstatus/todoagenda.svg?label=★&style=flat-square",
+            "source": "https://github.com/andstatus/todoagenda",
+            "fdroid": "https://f-droid.org/en/packages/org.andstatus.todoagenda",
+            "playstore": "https://play.google.com/store/apps/details?id=org.andstatus.todoagenda"
         }
     ],
     "email clients": [
