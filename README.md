@@ -34,7 +34,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Games](#games "Games")
 - [Launchers](#launchers "Launchers")
 - [Maps](#maps "Maps")
-- [Media Players](#media-players "Media Players")
+- [Media Viewers and Players](#media-viewers-and-players "Media Viewers and Players")
 - [Password Managers](#password-managers "Password Managers")
 - [Productivity](#productivity "Productivity")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
@@ -155,10 +155,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **Material Files**: An open source Material Design file manager, for Android 5.0+.
 [`[source]`](https://github.com/zhanghai/MaterialFiles "source")[`[f-droid]`](https://f-droid.org/packages/me.zhanghai.android.files "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=me.zhanghai.android.files "playstore")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
-**Simple Gallery**: A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
-[`[source]`](https://github.com/SimpleMobileTools/Simple-Gallery "source")[`[f-droid]`](https://f-droid.org/packages/com.simplemobiletools.gallery.pro "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery "playstore")[`[website]`](https://www.simplemobiletools.com/gallery "website")
-
 ## Games
 
 **[`^ back to top ^`](#)**
@@ -191,7 +187,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **Street Complete**: An easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.
 [`[source]`](https://github.com/westnordost/StreetComplete "source")[`[f-droid]`](https://f-droid.org/packages/de.westnordost.streetcomplete "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete "playstore")
 
-## Media Players
+## Media Viewers and Players
 
 **[`^ back to top ^`](#)**
 
@@ -210,6 +206,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/h4h13/RetroMusicPlayer.svg?label=★&style=flat)
 **Retro Music Player**: Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.
 [`[source]`](https://github.com/h4h13/RetroMusicPlayer "source")[`[playstore]`](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic "playstore")[`[website]`](https://hemanths.dev/#/retro-music "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/SimpleMobileTools/Simple-Gallery.svg?label=★&style=flat)
+**Simple Gallery**: A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
+[`[source]`](https://github.com/SimpleMobileTools/Simple-Gallery "source")[`[f-droid]`](https://f-droid.org/packages/com.simplemobiletools.gallery.pro "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery "playstore")[`[website]`](https://www.simplemobiletools.com/gallery "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/AdrienPoupa/VinylMusicPlayer.svg?label=★&style=flat)
 **Vinyl Music Player**: A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.
