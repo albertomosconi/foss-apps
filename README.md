@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/75-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/76-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -314,6 +314,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg?label=★&style=flat-square)
 **Jitsi Meet**: Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.
 [`[source]`](https://github.com/jitsi/jitsi-meet "source")[`[f-droid]`](https://f-droid.org/en/packages/org.jitsi.meet "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.jitsi.meet "playstore")[`[website]`](https://jitsi.org/jitsi-meet "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/slapperwan/gh4a.svg?label=★&style=flat-square)
+**OctoDroid**: An open source client for GitHub. Access to GitHub and stay connected to your networks. Follow git repository and top users in GitHub. View all users' activities, source codes and manage your issues with OctoDroid.
+[`[source]`](https://github.com/slapperwan/gh4a "source")[`[f-droid]`](https://f-droid.org/packages/com.gh4a "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.gh4a "playstore")[`[website]`](https://slapperwan.github.io/gh4a "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square)
 **Slide**: An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.
