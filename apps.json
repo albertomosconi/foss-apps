@@ -515,6 +515,16 @@
         },
         {
             "host": "GitHub",
+            "name": "OctoDroid",
+            "description": "An open source client for GitHub. Access to GitHub and stay connected to your networks. Follow git repository and top users in GitHub. View all users' activities, source codes and manage your issues with OctoDroid.",
+            "stars_link": "https://img.shields.io/github/stars/slapperwan/gh4a.svg?label=★&style=flat-square",
+            "source": "https://github.com/slapperwan/gh4a",
+            "fdroid": "https://f-droid.org/packages/com.gh4a",
+            "playstore": "https://play.google.com/store/apps/details?id=com.gh4a",
+            "website": "https://slapperwan.github.io/gh4a"
+        },
+        {
+            "host": "GitHub",
             "name": "Slide",
             "description": "An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.",
             "stars_link": "https://img.shields.io/github/stars/ccrama/Slide.svg?label=★&style=flat-square",
