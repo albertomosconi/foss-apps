@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/81-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/83-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -25,6 +25,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## Table of Contents
 
 <!-- table-of-contents starts -->
+- [Anime](#anime "Anime")
 - [App Stores](#app-stores "App Stores")
 - [Browsers](#browsers "Browsers")
 - [Calculators](#calculators "Calculators")
@@ -46,6 +47,18 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 <!-- table-of-contents ends -->
 
 <!-- list starts -->
+## Anime
+
+**[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/zunjae/AnYme.svg?label=★&style=flat)
+**AnYme**: Android App for Anime which can sync with MyAnimeList. It features a built in AdBlocker, new releases notifications, shortcuts, recommendations and more.
+[`[source]`](https://github.com/zunjae/AnYme "source")[`[website]`](https://zunjae.github.io/anymeapp.com "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/axiel7/MoeList.svg?label=★&style=flat)
+**MoeList**: Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.
+[`[source]`](https://github.com/axiel7/MoeList "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.axiel7.moelist "playstore")
+
 ## App Stores
 
 **[`^ back to top ^`](#)**
