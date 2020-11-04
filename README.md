@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/83-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/84-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -217,6 +217,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/Neamar/KISS.svg?label=★&style=flat)
 **KISS**: A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button.
 [`[source]`](https://github.com/Neamar/KISS "source")[`[f-droid]`](https://f-droid.org/packages/fr.neamar.kiss "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=fr.neamar.kiss "playstore")[`[website]`](https://kisslauncher.com "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/lposidon/posidonLauncher.svg?label=★&style=flat)
+**Posidon**: A one-page launcher with an rss feed. Built from scratch, to be a different experience. The ui was heavily inspired by One UI. Being designed from scratch allows this launcher to be easily optimized for big screens. It's minimal yet feature-rich.
+[`[source]`](https://github.com/lposidon/posidonLauncher "source")[`[f-droid]`](https://www.f-droid.org/packages/posidon.launcher "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=posidon.launcher "playstore")[`[website]`](https://posidon.io/launcher "website")
 
 ## Maps
 
