@@ -251,6 +251,15 @@
     "file managers": [
         {
             "host": "GitHub",
+            "name": "Amaze",
+            "description": "An Open Source, light and smooth file manager that follows material design guidelines. It allows to work on multiple tabs at the same time, quickly access history, bookmarks and to search for any file.",
+            "stars_link": "https://img.shields.io/github/stars/TeamAmaze/AmazeFileManager.svg?label=★&style=flat",
+            "source": "https://github.com/TeamAmaze/AmazeFileManager",
+            "fdroid": "https://f-droid.org/packages/com.amaze.filemanager",
+            "playstore": "https://play.google.com/store/apps/details?id=com.amaze.filemanager"
+        },
+        {
+            "host": "GitHub",
             "name": "lrkFM",
             "description": "Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).",
             "stars_link": "https://img.shields.io/github/stars/lfuelling/lrkFM.svg?label=★&style=flat",
