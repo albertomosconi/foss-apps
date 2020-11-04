@@ -297,6 +297,16 @@
             "fdroid": "https://f-droid.org/packages/fr.neamar.kiss",
             "playstore": "https://play.google.com/store/apps/details?id=fr.neamar.kiss",
             "website": "https://kisslauncher.com"
+        },
+        {
+            "host": "GitHub",
+            "name": "Posidon",
+            "description": "A one-page launcher with an rss feed. Built from scratch, to be a different experience. The ui was heavily inspired by One UI. Being designed from scratch allows this launcher to be easily optimized for big screens. It's minimal yet feature-rich.",
+            "stars_link": "https://img.shields.io/github/stars/lposidon/posidonLauncher.svg?label=★&style=flat",
+            "source": "https://github.com/lposidon/posidonLauncher",
+            "fdroid": "https://www.f-droid.org/packages/posidon.launcher",
+            "playstore": "https://play.google.com/store/apps/details?id=posidon.launcher",
+            "website": "https://posidon.io/launcher"
         }
     ],
     "maps": [
