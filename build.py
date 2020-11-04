@@ -23,11 +23,7 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-if __name__ == "__main__":
-    readme = root / "README.md"
-
-    apps = parse_apps()
-
+def build_readme():
     readme_contents = readme.open().read()
 
     # count apps
@@ -83,5 +79,15 @@ if __name__ == "__main__":
             list_md += "\n\n"
 
     rewritten = replace_chunk(rewritten, "list", list_md)
+
+    return rewritten
+
+
+if __name__ == "__main__":
+    readme = root / "README.md"
+
+    apps = parse_apps()
+
+    rewritten = build_readme()
 
     readme.open("w").write(rewritten)
