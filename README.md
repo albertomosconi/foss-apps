@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/84-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/85-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -189,6 +189,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## File Managers
 
 **[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/TeamAmaze/AmazeFileManager.svg?label=★&style=flat)
+**Amaze**: An Open Source, light and smooth file manager that follows material design guidelines. It allows to work on multiple tabs at the same time, quickly access history, bookmarks and to search for any file.
+[`[source]`](https://github.com/TeamAmaze/AmazeFileManager "source")[`[f-droid]`](https://f-droid.org/packages/com.amaze.filemanager "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.amaze.filemanager "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/lfuelling/lrkFM.svg?label=★&style=flat)
 **lrkFM**: Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).
