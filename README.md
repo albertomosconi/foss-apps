@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/85-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/86-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -389,6 +389,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## Texting
 
 **[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square)
+**BeHe Keyboard**: Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.
+[`[source]`](https://github.com/VladThodo/behe-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/com.vlath.keyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.vlath.keyboard "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/deltachat/deltachat-android.svg?label=★&style=flat-square)
 **Delta Chat**: A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.
