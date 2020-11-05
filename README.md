@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/86-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/87-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -237,6 +237,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/westnordost/StreetComplete.svg?label=★&style=flat)
 **Street Complete**: An easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.
 [`[source]`](https://github.com/westnordost/StreetComplete "source")[`[f-droid]`](https://f-droid.org/packages/de.westnordost.streetcomplete "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/grote/transportr.svg?label=★&style=flat)
+**Transportr**: The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. This app uses the data of various local public transport agencies and provides a unified interface for them.
+[`[source]`](https://github.com/grote/transportr "source")[`[f-droid]`](https://f-droid.org/packages/de.grobox.liberario "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.grobox.liberario "playstore")[`[website]`](https://transportr.app "website")
 
 ## Media Viewers and Players
 
