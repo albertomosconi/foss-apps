@@ -337,6 +337,16 @@
             "source": "https://github.com/westnordost/StreetComplete",
             "fdroid": "https://f-droid.org/packages/de.westnordost.streetcomplete",
             "playstore": "https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete"
+        },
+        {
+            "host": "GitHub",
+            "name": "Transportr",
+            "description": "The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are. This app uses the data of various local public transport agencies and provides a unified interface for them.",
+            "stars_link": "https://img.shields.io/github/stars/grote/transportr.svg?label=★&style=flat",
+            "source": "https://github.com/grote/transportr",
+            "fdroid": "https://f-droid.org/packages/de.grobox.liberario",
+            "playstore": "https://play.google.com/store/apps/details?id=de.grobox.liberario",
+            "website": "https://transportr.app"
         }
     ],
     "media viewers and players": [
