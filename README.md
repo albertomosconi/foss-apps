@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/87-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/88-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -225,6 +225,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/lposidon/posidonLauncher.svg?label=★&style=flat)
 **Posidon**: A one-page launcher with an rss feed. Built from scratch, to be a different experience. The ui was heavily inspired by One UI. Being designed from scratch allows this launcher to be easily optimized for big screens. It's minimal yet feature-rich.
 [`[source]`](https://github.com/lposidon/posidonLauncher "source")[`[f-droid]`](https://www.f-droid.org/packages/posidon.launcher "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=posidon.launcher "playstore")[`[website]`](https://posidon.io/launcher "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/amirzaidi/Launcher3.svg?label=★&style=flat)
+**Rootless Pixel Launcher**: A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Pixel Launcher is focused on simplicity and rock solid stability.
+[`[source]`](https://github.com/amirzaidi/Launcher3 "source")[`[f-droid]`](https://f-droid.org/packages/amirz.rootless.nexuslauncher "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher "playstore")
 
 ## Maps
 
