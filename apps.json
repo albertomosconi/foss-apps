@@ -316,6 +316,15 @@
             "fdroid": "https://www.f-droid.org/packages/posidon.launcher",
             "playstore": "https://play.google.com/store/apps/details?id=posidon.launcher",
             "website": "https://posidon.io/launcher"
+        },
+        {
+            "host": "GitHub",
+            "name": "Rootless Pixel Launcher",
+            "description": "A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Pixel Launcher is focused on simplicity and rock solid stability.",
+            "stars_link": "https://img.shields.io/github/stars/amirzaidi/Launcher3.svg?label=★&style=flat",
+            "source": "https://github.com/amirzaidi/Launcher3",
+            "fdroid": "https://f-droid.org/packages/amirz.rootless.nexuslauncher",
+            "playstore": "https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher"
         }
     ],
     "maps": [
