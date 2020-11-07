@@ -365,7 +365,7 @@
             "description": "An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.",
             "stars_link": "https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://gitlab.com/api/v4/projects/5074924",
             "source": "https://gitlab.com/axet/android-book-reader",
-            "fdroid": "https://f-droid.org/en/packages/com.github.axet.bookreader",
+            "fdroid": "https://f-droid.org/packages/com.github.axet.bookreader",
             "playstore": "https://play.google.com/store/apps/details?id=com.github.axet.bookreader"
         },
         {
@@ -374,9 +374,18 @@
             "description": "An e-book reader for Android devices; it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, and OPDS Catalogs.",
             "stars_link": "https://img.shields.io/github/stars/foobnix/LibreraReader.svg?label=★&style=flat",
             "source": "https://github.com/foobnix/LibreraReader",
-            "fdroid": "https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader",
+            "fdroid": "https://f-droid.org/packages/com.foobnix.pro.pdf.reader",
             "playstore": "https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader",
             "website": "https://librera.mobi"
+        },
+        {
+            "host": "GitHub",
+            "name": "MPV",
+            "description": "A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.",
+            "stars_link": "https://img.shields.io/github/stars/mpv-android/mpv-android.svg?label=★&style=flat",
+            "source": "https://github.com/mpv-android/mpv-android",
+            "fdroid": "https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv",
+            "playstore": "https://play.google.com/store/apps/details?id=is.xyz.mpv"
         },
         {
             "host": "GitHub",
