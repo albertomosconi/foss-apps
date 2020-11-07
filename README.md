@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/88-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/89-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -252,11 +252,15 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - ![GitLab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://gitlab.com/api/v4/projects/5074924)
 **BookReader**: An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
-[`[source]`](https://gitlab.com/axet/android-book-reader "source")[`[f-droid]`](https://f-droid.org/en/packages/com.github.axet.bookreader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.github.axet.bookreader "playstore")
+[`[source]`](https://gitlab.com/axet/android-book-reader "source")[`[f-droid]`](https://f-droid.org/packages/com.github.axet.bookreader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.github.axet.bookreader "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/foobnix/LibreraReader.svg?label=★&style=flat)
 **Librera Reader**: An e-book reader for Android devices; it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, and OPDS Catalogs.
-[`[source]`](https://github.com/foobnix/LibreraReader "source")[`[f-droid]`](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader "playstore")[`[website]`](https://librera.mobi "website")
+[`[source]`](https://github.com/foobnix/LibreraReader "source")[`[f-droid]`](https://f-droid.org/packages/com.foobnix.pro.pdf.reader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader "playstore")[`[website]`](https://librera.mobi "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/mpv-android/mpv-android.svg?label=★&style=flat)
+**MPV**: A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.
+[`[source]`](https://github.com/mpv-android/mpv-android "source")[`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=is.xyz.mpv "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/enricocid/Music-Player-GO.svg?label=★&style=flat)
 **Music Player GO**: A simple yet fully-featured local music player aiming at simplicity and performance.
