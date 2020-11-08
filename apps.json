@@ -289,6 +289,26 @@
         },
         {
             "host": "GitHub",
+            "name": "Pixel Dungeon",
+            "description": "A traditional roguelike game with pixel-art graphics and simple interface. Explore the depths of Pixel Dungeon, collect useful items, fight fierce monsters to find Amulet of Yendor (surprise!) - the ultimate artifact of this game world.",
+            "stars_link": "https://img.shields.io/github/stars/watabou/pixel-dungeon.svg?label=★&style=flat",
+            "source": "https://github.com/watabou/pixel-dungeon",
+            "fdroid": "https://f-droid.org/en/packages/com.watabou.pixeldungeon",
+            "playstore": "https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon",
+            "website": "http://pixeldungeon.watabou.ru"
+        },
+        {
+            "host": "GitHub",
+            "name": "Shattered Pixel Dungeon",
+            "description": "Based on the original Pixel Dungeon source code, Shattered is much more balanced and features additional content in the game. It has a bigger learning curve then vanilla since the game is bigger however it is designed in a way where every run is winnable if you know exactly what you are doing.",
+            "stars_link": "https://img.shields.io/github/stars/00-Evan/shattered-pixel-dungeon.svg?label=★&style=flat",
+            "source": "https://github.com/00-Evan/shattered-pixel-dungeon",
+            "fdroid": "https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon",
+            "playstore": "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon",
+            "website": "https://shatteredpixel.com/shatteredpd"
+        },
+        {
+            "host": "GitHub",
             "name": "TalpaSplat3",
             "description": "Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!",
             "stars_link": "https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat",
