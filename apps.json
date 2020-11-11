@@ -526,6 +526,18 @@
             "website": "https://tasks.org"
         }
     ],
+    "programming": [
+        {
+            "host": "GitHub",
+            "name": "Termux",
+            "description": "An Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.",
+            "stars_link": "https://img.shields.io/github/stars/termux/termux-app.svg?label=★&style=flat",
+            "source": "https://github.com/termux/termux-app",
+            "fdroid": "https://f-droid.org/packages/com.termux",
+            "playstore": "https://play.google.com/store/apps/details?id=com.termux",
+            "website": "https://termux.com"
+        }
+    ],
     "security and privacy": [
         {
             "host": "GitHub",
