@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/91-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/92-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -40,6 +40,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Media Viewers and Players](#media-viewers-and-players "Media Viewers and Players")
 - [Password Managers](#password-managers "Password Managers")
 - [Productivity](#productivity "Productivity")
+- [Programming](#programming "Programming")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social Media](#social-media "Social Media")
 - [Texting](#texting "Texting")
@@ -325,6 +326,14 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/tasks/tasks.svg?label=★&style=flat)
 **Tasks.org**: Astrid was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. The source code from Astrid's open-source Android app serves as the basis for Tasks. Tasks is not affiliated with Astrid or Yahoo.
 [`[source]`](https://github.com/tasks/tasks "source")[`[f-droid]`](https://f-droid.org/packages/org.tasks "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.tasks "playstore")[`[website]`](https://tasks.org "website")
+
+## Programming
+
+**[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/termux/termux-app.svg?label=★&style=flat)
+**Termux**: An Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.
+[`[source]`](https://github.com/termux/termux-app "source")[`[f-droid]`](https://f-droid.org/packages/com.termux "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.termux "playstore")[`[website]`](https://termux.com "website")
 
 ## Security and Privacy
 
