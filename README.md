@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/92-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/93-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -43,6 +43,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Programming](#programming "Programming")
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social Media](#social-media "Social Media")
+- [Synchronization](#synchronization "Synchronization")
 - [Texting](#texting "Texting")
 - [Utilities](#utilities "Utilities")
 <!-- table-of-contents ends -->
@@ -415,6 +416,18 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **Twidere**: Material Design ready and feature rich Twitter/Mastodon/StatusNet/Fanfou app for Android 4.1+. Supports powerful mute filters, night mode, multiple accounts, customizable tabs.
 [`[source]`](https://github.com/TwidereProject/Twidere-Android "source")[`[f-droid]`](https://f-droid.org/packages/org.mariotaku.twidere "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.mariotaku.twidere "playstore")[`[website]`](https://twidere.com "website")
 
+## Synchronization
+
+**[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/nextcloud/android.svg?label=★&style=flat-square)
+**Nextcloud**: The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud, a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else.
+[`[source]`](https://github.com/nextcloud/android "source")[`[f-droid]`](https://f-droid.org/packages/com.nextcloud.client "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.nextcloud.client "playstore")[`[website]`](https://nextcloud.com "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/syncthing/syncthing-android.svg?label=★&style=flat)
+**Syncthing**: A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
+[`[source]`](https://github.com/syncthing/syncthing-android "source")[`[f-droid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore")[`[website]`](https://syncthing.net "website")
+
 ## Texting
 
 **[`^ back to top ^`](#)**
@@ -490,10 +503,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat)
 **Prism**: A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
 [`[source]`](https://github.com/Hash-Studios/Prism "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.hash.prism "playstore")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/syncthing/syncthing-android.svg?label=★&style=flat)
-**Syncthing**: A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
-[`[source]`](https://github.com/syncthing/syncthing-android "source")[`[f-droid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore")[`[website]`](https://syncthing.net "website")
 
 
 <!-- list ends -->
