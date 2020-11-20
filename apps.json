@@ -707,6 +707,28 @@
             "website": "https://twidere.com"
         }
     ],
+    "synchronization": [
+        {
+            "host": "GitHub",
+            "name": "Nextcloud",
+            "description": "The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud, a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else.",
+            "stars_link": "https://img.shields.io/github/stars/nextcloud/android.svg?label=★&style=flat-square",
+            "source": "https://github.com/nextcloud/android",
+            "fdroid": "https://f-droid.org/packages/com.nextcloud.client",
+            "playstore": "https://play.google.com/store/apps/details?id=com.nextcloud.client",
+            "website": "https://nextcloud.com"
+        },
+        {
+            "host": "GitHub",
+            "name": "Syncthing",
+            "description": "A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.",
+            "stars_link": "https://img.shields.io/github/stars/syncthing/syncthing-android.svg?label=★&style=flat",
+            "source": "https://github.com/syncthing/syncthing-android",
+            "fdroid": "https://f-droid.org/packages/com.nutomic.syncthingandroid",
+            "playstore": "https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid",
+            "website": "https://syncthing.net"
+        }
+    ],
     "texting": [
         {
             "host": "GitHub",
@@ -863,16 +885,6 @@
             "stars_link": "https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat",
             "source": "https://github.com/Hash-Studios/Prism",
             "playstore": "https://play.google.com/store/apps/details?id=com.hash.prism"
-        },
-        {
-            "host": "GitHub",
-            "name": "Syncthing",
-            "description": "A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.",
-            "stars_link": "https://img.shields.io/github/stars/syncthing/syncthing-android.svg?label=★&style=flat",
-            "source": "https://github.com/syncthing/syncthing-android",
-            "fdroid": "https://f-droid.org/packages/com.nutomic.syncthingandroid",
-            "playstore": "https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid",
-            "website": "https://syncthing.net"
         }
     ]
 }
