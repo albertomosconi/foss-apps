@@ -329,6 +329,15 @@
         },
         {
             "host": "GitHub",
+            "name": "Olauncher",
+            "description": "This launcher frees you from distractions so you can focus on the things that actually matter. You should use your phone, not the other way round. It's privacy focused, fast, lightweight, and has no advertisements",
+            "stars_link": "https://img.shields.io/github/stars/tanujnotes/Olauncher.svg?label=★&style=flat",
+            "source": "https://github.com/tanujnotes/Olauncher",
+            "fdroid": "https://f-droid.org/packages/app.olauncher",
+            "playstore": "https://play.google.com/store/apps/details?id=app.olauncher"
+        },
+        {
+            "host": "GitHub",
             "name": "Posidon",
             "description": "A one-page launcher with an rss feed. Built from scratch, to be a different experience. The ui was heavily inspired by One UI. Being designed from scratch allows this launcher to be easily optimized for big screens. It's minimal yet feature-rich.",
             "stars_link": "https://img.shields.io/github/stars/lposidon/posidonLauncher.svg?label=★&style=flat",
