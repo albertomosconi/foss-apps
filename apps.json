@@ -369,6 +369,14 @@
         },
         {
             "host": "GitHub",
+            "name": "Positional",
+            "description": "A very flexible and customizable location related information app. It utilises the phone's GPS hardware and fetches various details of the current latitude and longitude data like Altitude, Speed, Address and similar other information and show it in easily understandable format.",
+            "stars_link": "https://img.shields.io/github/stars/Hamza417/Positional.svg?label=★&style=flat",
+            "source": "https://github.com/Hamza417/Positional",
+            "playstore": "https://play.google.com/store/apps/details?id=app.simple.positional"
+        },
+        {
+            "host": "GitHub",
             "name": "Street Complete",
             "description": "An easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.",
             "stars_link": "https://img.shields.io/github/stars/westnordost/StreetComplete.svg?label=★&style=flat",
