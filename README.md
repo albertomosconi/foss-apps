@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/94-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/95-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -251,6 +251,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/osmandapp/Osmand.svg?label=★&style=flat)
 **OsmAnd**: This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage.
 [`[source]`](https://github.com/osmandapp/Osmand "source")[`[f-droid]`](https://f-droid.org/packages/net.osmand.plus "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=net.osmand "playstore")[`[website]`](https://osmand.net "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/Hamza417/Positional.svg?label=★&style=flat)
+**Positional**: A very flexible and customizable location related information app. It utilises the phone's GPS hardware and fetches various details of the current latitude and longitude data like Altitude, Speed, Address and similar other information and show it in easily understandable format.
+[`[source]`](https://github.com/Hamza417/Positional "source")[`[playstore]`](https://play.google.com/store/apps/details?id=app.simple.positional "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/westnordost/StreetComplete.svg?label=★&style=flat)
 **Street Complete**: An easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.
