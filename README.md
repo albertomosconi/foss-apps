@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/95-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/96-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -371,6 +371,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/M66B/NetGuard.svg?label=★&style=flat)
 **NetGuard**: It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 [`[source]`](https://github.com/M66B/NetGuard "source")[`[f-droid]`](https://f-droid.org/en/packages/eu.faircode.netguard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=eu.faircode.netguard "playstore")[`[website]`](https://www.netguard.me "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/FunkyMuse/Vigilante.svg?label=★&style=flat)
+**Vigilante**: An app that focuses on your privacy and alerts you with a notification when a third-party application uses your device camera or microphone. It doesn't require an internet connection.
+[`[source]`](https://github.com/FunkyMuse/Vigilante "source")[`[f-droid]`](https://f-droid.org/en/packages/com.crazylegend.vigilante "f-droid")
 
 - ![GitLab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://gitlab.com/api/v4/projects/18645286)
 **Warden**: A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.
