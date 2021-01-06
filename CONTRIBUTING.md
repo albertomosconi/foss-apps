@@ -27,7 +27,7 @@ This document shows you how to get started with your contribution to this projec
 - Add your app to the list, respecting the general structure
 
   - ### The only file that should be edited is `apps.json`
-  
+
   - If you're not familiar with the `json` format please look it up before editing to avoid errors. For example read [this article](https://www.w3schools.com/whatis/whatis_json.asp "this article").
 
   - Both the **categories** and the **sublist of apps** in each category are **ordered alphabetically**, so pay attention to this when you're adding your app to the list.
@@ -46,11 +46,12 @@ This document shows you how to get started with your contribution to this projec
             "website": ""
       }
     ```
-    
+
     `host` should either be "GitHub" or "GitLab", if your app isn't provided through one of these platforms please delete this field, along with the `stars_link` field. The latter should contain the link for the stars badge using the following templates:
-      - GitHub: `https://img.shields.io/github/stars/<USERNAME>/<REPO>.svg?label=★&style=flat`
-      - GitLab: please refer to [**issue #1**](https://github.com/albertomosconi/foss-apps/issues/1 "issue #1").
-    
+
+    - GitHub: `https://img.shields.io/github/stars/<USERNAME>/<REPO>.svg?label=★&style=flat`
+    - GitLab: please refer to [**issue #1**](https://github.com/albertomosconi/foss-apps/issues/1 "issue #1").
+
     `description` should contain a text from 15 to 60 words, describing the key functionality and selling points of your application.
 
 - Commit your changes
