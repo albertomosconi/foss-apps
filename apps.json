@@ -613,6 +613,14 @@
             "website": "https://www.netguard.me"
         },
         {
+            "host": "GitHub",
+            "name": "Vigilante",
+            "description": "An app that focuses on your privacy and alerts you with a notification when a third-party application uses your device camera or microphone. It doesn't require an internet connection.",
+            "stars_link": "https://img.shields.io/github/stars/FunkyMuse/Vigilante.svg?label=★&style=flat",
+            "source": "https://github.com/FunkyMuse/Vigilante",
+            "fdroid": "https://f-droid.org/en/packages/com.crazylegend.vigilante"
+        },
+        {
             "host": "GitLab",
             "name": "Warden",
             "description": "A FOSS app management utility with beautiful material design. This app detects trackers & loggers and allows you to disable them. It also features an advanced profile based app de-bloater.",
