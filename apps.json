@@ -435,6 +435,15 @@
         },
         {
             "host": "GitHub",
+            "name": "Photok",
+            "description": "a free Photo-Safe. It stores your photos encrypted on your device and hides them from others. It uses technologies like, AES-256 encryption standard or bcrypt, to keep your photos secure. Photok is completely free, open source, and contains no ads.",
+            "stars_link": "https://img.shields.io/github/stars/leonlatsch/photok.svg?label=★&style=flat",
+            "source": "https://github.com/leonlatsch/photok",
+            "fdroid": "https://f-droid.org/packages/dev.leonlatsch.photok",
+            "playstore": "https://play.google.com/store/apps/details?id=dev.leonlatsch.photok"
+        },
+        {
+            "host": "GitHub",
             "name": "Retro Music Player",
             "description": "Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.",
             "stars_link": "https://img.shields.io/github/stars/h4h13/RetroMusicPlayer.svg?label=★&style=flat",
