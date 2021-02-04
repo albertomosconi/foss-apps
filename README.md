@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/96-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/97-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -283,6 +283,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/enricocid/Music-Player-GO.svg?label=★&style=flat)
 **Music Player GO**: A simple yet fully-featured local music player aiming at simplicity and performance.
 [`[source]`](https://github.com/enricocid/Music-Player-GO "source")[`[f-droid]`](https://f-droid.org/packages/com.iven.musicplayergo "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.iven.musicplayergo "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/leonlatsch/photok.svg?label=★&style=flat)
+**Photok**: a free Photo-Safe. It stores your photos encrypted on your device and hides them from others. It uses technologies like, AES-256 encryption standard or bcrypt, to keep your photos secure. Photok is completely free, open source, and contains no ads.
+[`[source]`](https://github.com/leonlatsch/photok "source")[`[f-droid]`](https://f-droid.org/packages/dev.leonlatsch.photok "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=dev.leonlatsch.photok "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/h4h13/RetroMusicPlayer.svg?label=★&style=flat)
 **Retro Music Player**: Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.
