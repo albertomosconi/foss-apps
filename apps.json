@@ -10,6 +10,13 @@
         },
         {
             "host": "GitHub",
+            "name": "test",
+            "description": "test description",
+            "stars_link": "https://img.shields.io/github/stars/albertomosconi/foss-apps.svg?label=★&style=flat",
+            "source": "https://github.com/albertomosconi/foss-apps"
+        },
+        {
+            "host": "GitHub",
             "name": "MoeList",
             "description": "Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.",
             "stars_link": "https://img.shields.io/github/stars/axiel7/MoeList.svg?label=★&style=flat",
