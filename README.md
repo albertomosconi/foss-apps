@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/99-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/98-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -58,10 +58,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/zunjae/AnYme.svg?label=★&style=flat)
 **AnYme**: Android App for Anime which can sync with MyAnimeList. It features a built in AdBlocker, new releases notifications, shortcuts, recommendations and more.
 [`[source]`](https://github.com/zunjae/AnYme "source")[`[website]`](https://zunjae.github.io/anymeapp.com "website")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/albertomosconi/foss-apps.svg?label=★&style=flat)
-**test**: test description
-[`[source]`](https://github.com/albertomosconi/foss-apps "source")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/axiel7/MoeList.svg?label=★&style=flat)
 **MoeList**: Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.
