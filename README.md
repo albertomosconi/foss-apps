@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/97-apps-red" alt="App Count"/>
+<img src="https://img.shields.io/badge/98-apps-red" alt="App Count"/>
 <!-- counter ends -->
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
@@ -487,6 +487,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## Utilities
 
 **[`^ back to top ^`](#)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/shmykelsa/AA-Tweaker.svg?label=★&style=flat)
+**AA AIO TWEAKER**: The ultimate All-In-One Utility to tweak Android Auto behaviour. This app uses SQLite commands to override some flags related to Android Auto into the Google Play Services.
+[`[source]`](https://github.com/shmykelsa/AA-Tweaker "source")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat)
 **BetterBatteryStats**: Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps).
