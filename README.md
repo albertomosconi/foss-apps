@@ -20,6 +20,8 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`SUGGEST A NEW APP`](#suggestions "SUGGEST A NEW APP")**
 
+**[`Use this list in your project`](#use-this-list-in-your-project "Use this list in your project")**
+
 **[`Acknowledgments`](#acknowledgments "Acknowledgments")**
 
 ## Table of Contents
@@ -535,7 +537,29 @@ Any app suggestion is more than welcome and should be submitted via an [issue](h
 
 Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/master/CONTRIBUTING.md "CONTRIBUTING GUIDELINES"). This is also the fastest way for your suggestion to be added to the list!
 
+## Use this list in your project
+
+**[`^ back to top ^`](#)**
+
+Since the list of apps in stored in [`JSON`](https://en.wikipedia.org/wiki/JSON "JSON") format, it can easily be retrieved with a GET request at the following url
+```
+https://raw.githubusercontent.com/albertomosconi/foss-apps/master/apps.json
+```
+
+For example with this Javascript code you can have access to the list in the form of an object
+```javascript
+fetch("https://raw.githubusercontent.com/albertomosconi/foss-apps/master/apps.json")
+  .then(res => res.json())
+  .then(list => {
+    // this will print an array with all the apps in the 'browsers' category
+    console.log(list['browsers']);
+  });
+```
+
+
 ## Acknowledgments
+
+**[`^ back to top ^`](#)**
 
 - [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and "A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)")
 - [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ "A List of Open Source Applications (Reddit)")
@@ -545,6 +569,6 @@ Alternatively you can save me some work and send a **Pull Request**, but make su
 
 <div align="center">
   
-### 🌟 Leave a star if you found this helpful!
+### ⭐ Leave a star if you found this helpful!
 
 </div>
