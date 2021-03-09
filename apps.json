@@ -851,6 +851,13 @@
     "utilities": [
         {
             "host": "GitHub",
+            "name": "AA AIO TWEAKER",
+            "description": "The ultimate All-In-One Utility to tweak Android Auto behaviour. This app uses SQLite commands to override some flags related to Android Auto into the Google Play Services.",
+            "stars_link": "https://img.shields.io/github/stars/shmykelsa/AA-Tweaker.svg?label=★&style=flat",
+            "source": "https://github.com/shmykelsa/AA-Tweaker"
+        },
+        {
+            "host": "GitHub",
             "name": "BetterBatteryStats",
             "description": "Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps).",
             "stars_link": "https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat",
