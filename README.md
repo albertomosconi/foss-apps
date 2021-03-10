@@ -531,7 +531,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Suggestions
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= "issue"). Please use the given issue template.
 
@@ -539,7 +539,7 @@ Alternatively you can save me some work and send a **Pull Request**, but make su
 
 ## Use this list in your project
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 Since the list of apps in stored in [`JSON`](https://en.wikipedia.org/wiki/JSON "JSON") format, it can easily be retrieved with a GET request at the following url
 ```
@@ -559,7 +559,7 @@ fetch("https://raw.githubusercontent.com/albertomosconi/foss-apps/master/apps.js
 
 ## Acknowledgments
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and "A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)")
 - [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ "A List of Open Source Applications (Reddit)")
