@@ -31,7 +31,7 @@ def build_readme():
     for category in apps.keys():
         count += len(apps[category])
 
-    app_count_md = '<img src="https://img.shields.io/badge/{}-apps-red" alt="App Count"/>'.format(
+    app_count_md = '<img src="https://img.shields.io/badge/{}-apps-red?style=for-the-badge" alt="App Count"/>'.format(
         count)
 
     rewritten = replace_chunk(
