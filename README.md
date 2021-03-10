@@ -7,8 +7,6 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <!-- counter starts -->
 <img src="https://img.shields.io/badge/98-apps-red" alt="App Count"/>
 <!-- counter ends -->
-<a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=red" alt="Star Badge"/></a>
-<a href="https://github.com/albertomosconi/foss-apps/stargazers"><img src="https://img.shields.io/github/stars/albertomosconi/foss-apps?color=blue" alt="Stars"/></a>
 <a href="https://github.com/albertomosconi/foss-apps/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/albertomosconi/foss-apps?color=blue"></a>
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen" alt="License Badge"/></a>
 </p>
