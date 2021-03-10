@@ -50,7 +50,7 @@ def build_readme():
     list_md = ""
     for category in apps.keys():
 
-        list_md += "## {}\n\n**[`^ back to top ^`](#)**\n\n".format(
+        list_md += "## {}\n\n**[`^ back to top ^`](#table-of-contents)**\n\n".format(
             " ".join(x.title() if x != "and" else "and" for x in category.split(" ")))
 
         for app in apps[category]:
