@@ -53,7 +53,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 <!-- list starts -->
 ## Anime
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/zunjae/AnYme.svg?label=★&style=flat)
 **AnYme**: Android App for Anime which can sync with MyAnimeList. It features a built in AdBlocker, new releases notifications, shortcuts, recommendations and more.
@@ -65,7 +65,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## App Stores
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitLab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F12469948)
 **Aurora Droid**: An alternative to the default F-Droid app with an intuitive UI and multiple great features, such as a powerful download manager: pause, resume and retry downloading apps, previous releases: enables downloading old releases.
@@ -89,7 +89,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Browsers
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat)
 **Bromite**: A Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -116,7 +116,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Calculators
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Bubu/android-calculatorpp.svg?label=★&style=flat-square)
 **Calculator++**: A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.
@@ -128,7 +128,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Calendars
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Etar-Group/Etar-Calendar.svg?label=★&style=flat-square)
 **Etar**: A material designed open source calendar, for everyone! It features different views (monthly, weekly, daily and agenda), sync with Google Calendar, Exchange and others, dark and light theme, no ads, and more.
@@ -144,7 +144,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Email Clients
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
 **FairEmail**: Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
@@ -156,7 +156,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Emulators
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Swordfish90/Lemuroid.svg?label=★&style=flat)
 **Lemuroid**: An Android open-source emulation project based on Libretro. It's main goals are ease of use, good Android integration and great user experience.
@@ -168,7 +168,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Entertainment
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat)
 **AntennaPod**: An easy-to-use, flexible and open-source podcast manager for Android.
@@ -192,7 +192,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## File Managers
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/TeamAmaze/AmazeFileManager.svg?label=★&style=flat)
 **Amaze**: An Open Source, light and smooth file manager that follows material design guidelines. It allows to work on multiple tabs at the same time, quickly access history, bookmarks and to search for any file.
@@ -208,7 +208,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Games
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat)
 **Lichess**: The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.
@@ -228,7 +228,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Launchers
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Neamar/KISS.svg?label=★&style=flat)
 **KISS**: A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button.
@@ -248,7 +248,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Maps
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/osmandapp/Osmand.svg?label=★&style=flat)
 **OsmAnd**: This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage.
@@ -268,7 +268,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Media Viewers and Players
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitLab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://gitlab.com/api/v4/projects/5074924)
 **BookReader**: An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
@@ -308,7 +308,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Password Managers
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat)
 **Bitwarden**: An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
@@ -320,7 +320,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Productivity
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/iSoron/uhabits.svg?label=★&style=flat)
 **Loop Habit Tracker**: A simple app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time.
@@ -344,7 +344,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Programming
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/termux/termux-app.svg?label=★&style=flat)
 **Termux**: An Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.
@@ -352,7 +352,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Security and Privacy
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/AdAway/AdAway.svg?label=★&style=flat)
 **AdAway**: An open source ad blocker for Android using the hosts file. The hosts file is a system file that contains a list of mappings between host names and IP addresses. When an app requests an ad from a host in that file, this request is redirected to the local IP 127.0.0.1, which does nothing.
@@ -392,7 +392,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Social Media
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/austinhuang0131/barinsta.svg?label=★&style=flat-square)
 **Barinsta**: Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.
@@ -436,7 +436,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Synchronization
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/nextcloud/android.svg?label=★&style=flat-square)
 **Nextcloud**: The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud, a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else.
@@ -448,7 +448,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Texting
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square)
 **BeHe Keyboard**: Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.
@@ -488,7 +488,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 ## Utilities
 
-**[`^ back to top ^`](#)**
+**[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/shmykelsa/AA-Tweaker.svg?label=★&style=flat)
 **AA AIO TWEAKER**: The ultimate All-In-One Utility to tweak Android Auto behaviour. This app uses SQLite commands to override some flags related to Android Auto into the Google Play Services.
