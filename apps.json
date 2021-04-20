@@ -550,6 +550,16 @@
             "fdroid": "https://f-droid.org/packages/org.tasks",
             "playstore": "https://play.google.com/store/apps/details?id=org.tasks",
             "website": "https://tasks.org"
+        },
+                {
+            "host": "GitHub",
+            "name": "neutriNote",
+            "description": "An ultra-compact extensible note app supporting rich markdown and math formulas.  Backed by a powerful search engine and tons of customization options.",
+            "stars_link": "https://img.shields.io/github/stars/appml/neutrinote.svg?label=%E2%98%85&style=flat",
+            "source": "https://github.com/appml/neutrinote",
+            "fdroid": "https://f-droid.org/packages/com.appmindlab.nano",
+            "playstore": "https://play.google.com/store/apps/details?id=com.appmindlab.nano",
+            "website": "https://neutrinote.wordpress.com"
         }
     ],
     "programming": [
