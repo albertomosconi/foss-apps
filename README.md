@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/98-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/99-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -326,6 +326,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/gsantner/markor.svg?label=★&style=flat)
 **Markor**: A TextEditor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management. Markor is versatile at working with text; it can also be used for keeping bookmarks, copying to clipboard, fast opening a link from text and lots of more.
 [`[source]`](https://github.com/gsantner/markor "source")[`[f-droid]`](https://f-droid.org/packages/net.gsantner.markor "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=net.gsantner.markor "playstore")[`[website]`](https://gsantner.net/project/markor.html "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/appml/neutrinote.svg?label=%E2%98%85&style=flat)
+**neutriNote**: An ultra-compact extensible note app supporting rich markdown and math formulas.  Backed by a powerful search engine and tons of customization options.
+[`[source]`](https://github.com/appml/neutrinote "source")[`[f-droid]`](https://f-droid.org/packages/com.appmindlab.nano "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.appmindlab.nano "playstore")[`[website]`](https://neutrinote.wordpress.com "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/orgzly/orgzly-android.svg?label=★&style=flat)
 **Orgzly**: An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode’s file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
