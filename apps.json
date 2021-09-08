@@ -774,7 +774,7 @@
             "website": "https://syncthing.net"
         }
     ],
-    "texting": [
+    "texting and phone": [
         {
             "host": "GitHub",
             "name": "BeHe Keyboard",
@@ -811,6 +811,14 @@
             "source": "https://github.com/MobileFirstLLC/irregular-expressions",
             "fdroid": "https://f-droid.org/packages/mf.asciitext.lite",
             "playstore": "https://play.google.com/store/apps/details?id=mf.asciitext.lite"
+        },
+        {
+            "host": "GitHub",
+            "name": "Koler",
+            "description": "Uniquely stylized phone app with customizable features, designed with the user in mind.",
+            "stars_link": "https://img.shields.io/github/stars/Chooloo/koler.svg?label=★&style=flat",
+            "source": "https://github.com/Chooloo/koler",
+            "fdroid": "https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler"
         },
         {
             "host": "GitHub",
