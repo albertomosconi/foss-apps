@@ -861,7 +861,8 @@
             "name": "Audio Recorder",
             "description": "A lightweight, ad-free, smart and simple audio recorder app for android",
             "stars_link": "https://img.shields.io/github/stars/vivekweb2013/audio-recorder.svg?label=★&style=flat",
-            "source": "https://github.com/vivekweb2013/audio-recorder"
+            "source": "https://github.com/vivekweb2013/audio-recorder",
+            "playstore": "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder"
         },
         {
             "host": "GitHub",
