@@ -944,7 +944,7 @@
             "description": "Pronounced 'minimal', is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.",
             "stars_link": "https://img.shields.io/github/stars/afollestad/mnml.svg?label=★&style=flat",
             "source": "https://github.com/afollestad/mnml",
-            "fdroid": "https://play.google.com/store/apps/details?id=com.afollestad.mnmlscreenrecord"
+            "playstore": "https://play.google.com/store/apps/details?id=com.afollestad.mnmlscreenrecord"
         },
         {
             "host": "GitHub",
