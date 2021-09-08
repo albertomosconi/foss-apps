@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/100-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/101-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -322,6 +322,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/iSoron/uhabits.svg?label=★&style=flat)
 **Loop Habit Tracker**: A simple app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time.
 [`[source]`](https://github.com/iSoron/uhabits "source")[`[f-droid]`](https://f-droid.org/packages/org.isoron.uhabits "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.isoron.uhabits "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/GitJournal/gitjournal.svg?label=★&style=flat)
+**GitJournal**: Mobile first notes integrated with GitJournal. It transparently makes commits in your git repo of choice. The files can be stored in Markdown, Txt or OrgMode
+[`[source]`](https://github.com/GitJournal/GitJournal "source")[`[playstore]`](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal "playstore")[`[website]`](https://gitjournal.io "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/gsantner/markor.svg?label=★&style=flat)
 **Markor**: A TextEditor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management. Markor is versatile at working with text; it can also be used for keeping bookmarks, copying to clipboard, fast opening a link from text and lots of more.
