@@ -868,6 +868,14 @@
         },
         {
             "host": "GitHub",
+            "name": "Audio Recorder",
+            "description": "A lightweight, ad-free, smart and simple audio recorder app for android",
+            "stars_link": "https://img.shields.io/github/stars/vivekweb2013/audio-recorder.svg?label=★&style=flat",
+            "source": "https://github.com/vivekweb2013/audio-recorder",
+            "playstore": "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder"
+        },
+        {
+            "host": "GitHub",
             "name": "BetterBatteryStats",
             "description": "Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps).",
             "stars_link": "https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat",
