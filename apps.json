@@ -525,6 +525,16 @@
         },
         {
             "host": "GitHub",
+            "name": "neutriNote",
+            "description": "An ultra-compact extensible note app supporting rich markdown and math formulas.  Backed by a powerful search engine and tons of customization options.",
+            "stars_link": "https://img.shields.io/github/stars/appml/neutrinote.svg?label=%E2%98%85&style=flat",
+            "source": "https://github.com/appml/neutrinote",
+            "fdroid": "https://f-droid.org/packages/com.appmindlab.nano",
+            "playstore": "https://play.google.com/store/apps/details?id=com.appmindlab.nano",
+            "website": "https://neutrinote.wordpress.com"
+        },
+        {
+            "host": "GitHub",
             "name": "Orgzly",
             "description": "An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode’s file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.",
             "stars_link": "https://img.shields.io/github/stars/orgzly/orgzly-android.svg?label=★&style=flat",
