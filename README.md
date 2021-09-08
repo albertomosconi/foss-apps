@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/99-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/100-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -494,6 +494,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/shmykelsa/AA-Tweaker.svg?label=★&style=flat)
 **AA AIO TWEAKER**: The ultimate All-In-One Utility to tweak Android Auto behaviour. This app uses SQLite commands to override some flags related to Android Auto into the Google Play Services.
 [`[source]`](https://github.com/shmykelsa/AA-Tweaker "source")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/vivekweb2013/audio-recorder.svg?label=★&style=flat)
+**Audio Recorder**: A lightweight, ad-free, smart and simple audio recorder app for android
+[`[source]`](https://github.com/vivekweb2013/audio-recorder "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat)
 **BetterBatteryStats**: Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps).
