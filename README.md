@@ -529,7 +529,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 - ![GitHub Stars](https://img.shields.io/github/stars/afollestad/mnml.svg?label=★&style=flat)
 **MNML**: Pronounced 'minimal', is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
-[`[source]`](https://github.com/afollestad/mnml "source")[`[f-droid]`](https://play.google.com/store/apps/details?id=com.afollestad.mnmlscreenrecord "f-droid")
+[`[source]`](https://github.com/afollestad/mnml "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.afollestad.mnmlscreenrecord "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat)
 **Prism**: A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
