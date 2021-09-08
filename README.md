@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/100-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/101-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -43,7 +43,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Security and Privacy](#security-and-privacy "Security and Privacy")
 - [Social Media](#social-media "Social Media")
 - [Synchronization](#synchronization "Synchronization")
-- [Texting](#texting "Texting")
+- [Texting and Phone](#texting-and-phone "Texting and Phone")
 - [Utilities](#utilities "Utilities")
 <!-- table-of-contents ends -->
 
@@ -447,7 +447,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **Syncthing**: A continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
 [`[source]`](https://github.com/syncthing/syncthing-android "source")[`[f-droid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore")[`[website]`](https://syncthing.net "website")
 
-## Texting
+## Texting and Phone
 
 **[`^ back to top ^`](#table-of-contents)**
 
@@ -466,6 +466,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat)
 **Irregular Expressions**: Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!
 [`[source]`](https://github.com/MobileFirstLLC/irregular-expressions "source")[`[f-droid]`](https://f-droid.org/packages/mf.asciitext.lite "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=mf.asciitext.lite "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/Chooloo/koler.svg?label=★&style=flat)
+**Koler**: Uniquely stylized phone app with customizable features, designed with the user in mind.
+[`[source]`](https://github.com/Chooloo/koler "source")[`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler "f-droid")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost-webapp.svg?label=★&style=flat)
 **Mattermost**: An open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
