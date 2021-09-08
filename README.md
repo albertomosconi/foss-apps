@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/101-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/100-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -51,10 +51,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## Anime
 
 **[`^ back to top ^`](#table-of-contents)**
-
-- ![GitHub Stars](https://img.shields.io/github/stars/zunjae/AnYme.svg?label=★&style=flat)
-**AnYme**: Android App for Anime which can sync with MyAnimeList. It features a built in AdBlocker, new releases notifications, shortcuts, recommendations and more.
-[`[source]`](https://github.com/zunjae/AnYme "source")[`[website]`](https://zunjae.github.io/anymeapp.com "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/axiel7/MoeList.svg?label=★&style=flat)
 **MoeList**: Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.
