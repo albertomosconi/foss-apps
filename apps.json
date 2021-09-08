@@ -2,14 +2,6 @@
     "anime": [
         {
             "host": "GitHub",
-            "name": "AnYme",
-            "description": "Android App for Anime which can sync with MyAnimeList. It features a built in AdBlocker, new releases notifications, shortcuts, recommendations and more.",
-            "stars_link": "https://img.shields.io/github/stars/zunjae/AnYme.svg?label=★&style=flat",
-            "source": "https://github.com/zunjae/AnYme",
-            "website": "https://zunjae.github.io/anymeapp.com"
-        },
-        {
-            "host": "GitHub",
             "name": "MoeList",
             "description": "Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.",
             "stars_link": "https://img.shields.io/github/stars/axiel7/MoeList.svg?label=★&style=flat",
