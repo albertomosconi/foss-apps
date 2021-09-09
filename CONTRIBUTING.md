@@ -12,7 +12,7 @@ This document shows you how to get started with your contribution to this projec
 
   - <https://github.com/albertomosconi/foss-apps/fork>
 
-- Check out a new branch from `master` and name it the same as the app you want to add:
+- Check out a new branch from `main` and name it the same as the app you want to add:
 
   - Run this command in a terminal (replacing `APP_NAME` with the name of your app)
     ```
@@ -58,7 +58,7 @@ This document shows you how to get started with your contribution to this projec
 
   - Make sure your commit message follows the following pattern, where `APP_NAME` is the name of your app, and `CATEGORY_NAME` is the category in which your app resides
     ```
-    $ git commit -am "Added APP_NAME in CATEGORY_NAME"
+    $ git commit -am "app: add APP_NAME in CATEGORY_NAME"
     ```
 
 - Push to the branch
@@ -70,7 +70,7 @@ This document shows you how to get started with your contribution to this projec
 
 - Make a pull request
 
-  - Make sure you send the PR to the `master` branch
+  - Make sure you send the PR to the `main` branch
 
 - Don't forget to star the repo ;)
 
