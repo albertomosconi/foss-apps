@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/101-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/102-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -45,6 +45,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Synchronization](#synchronization "Synchronization")
 - [Texting and Phone](#texting-and-phone "Texting and Phone")
 - [Utilities](#utilities "Utilities")
+- [Weather](#weather "Weather")
 <!-- table-of-contents ends -->
 
 <!-- list starts -->
@@ -534,6 +535,14 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/Hash-Studios/Prism.svg?label=★&style=flat)
 **Prism**: A beautiful open-source wallpapers app for Android. It is built with Dart on top of Google's Flutter Framework. Prism relies on its Community and WallHaven and Pexels APIs as its source of beautiful and large collection of Wallpapers.
 [`[source]`](https://github.com/Hash-Studios/Prism "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.hash.prism "playstore")
+
+## Weather
+
+**[`^ back to top ^`](#table-of-contents)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/WangDaYeeeeee/GeometricWeather.svg?label=★&style=flat)
+**Geometric Weather**: A light and powerful weather app that provides you with real-time temperature, air quality, 15-days weather forecast, and accurate time-sharing trends. The app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability.
+[`[source]`](https://github.com/WangDaYeeeeee/GeometricWeather "source")[`[f-droid]`](https://f-droid.org/en/packages/wangdaye.com.geometricweather/ "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather "playstore")
 
 
 <!-- list ends -->
