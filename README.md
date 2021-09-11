@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/104-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/105-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -243,6 +243,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 ## Maps
 
 **[`^ back to top ^`](#table-of-contents)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/organicmaps/organicmaps.svg?label=★&style=flat)
+**Organic Maps**: A free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data. No ads, no tracking, no data collection, no crapware.
+[`[source]`](https://github.com/organicmaps/organicmaps "source")[`[f-droid]`](https://f-droid.org/en/packages/app.organicmaps "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=app.organicmaps "playstore")[`[website]`](https://organicmaps.app "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/osmandapp/Osmand.svg?label=★&style=flat)
 **OsmAnd**: This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage.
