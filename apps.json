@@ -427,6 +427,15 @@
     },
     {
       "host": "GitHub",
+      "name": "Nova Video Player",
+      "description": "An open source video player for Android designed for tablets, phones and AndroidTV devices. A fork of the original Archos Video Player Community Edition.",
+      "stars_link": "https://img.shields.io/github/stars/nova-video-player/aos-AVP.svg?label=★&style=flat",
+      "source": "https://github.com/nova-video-player/aos-AVP",
+      "fdroid": "https://f-droid.org/packages/org.courville.nova",
+      "playstore": "https://play.google.com/store/apps/details?id=org.courville.nova"
+    },
+    {
+      "host": "GitHub",
       "name": "Photok",
       "description": "a free Photo-Safe. It stores your photos encrypted on your device and hides them from others. It uses technologies like, AES-256 encryption standard or bcrypt, to keep your photos secure. Photok is completely free, open source, and contains no ads.",
       "stars_link": "https://img.shields.io/github/stars/leonlatsch/photok.svg?label=★&style=flat",
