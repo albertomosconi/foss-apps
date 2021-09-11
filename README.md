@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/103-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/104-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -271,6 +271,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/foobnix/LibreraReader.svg?label=★&style=flat)
 **Librera Reader**: An e-book reader for Android devices; it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, and OPDS Catalogs.
 [`[source]`](https://github.com/foobnix/LibreraReader "source")[`[f-droid]`](https://f-droid.org/packages/com.foobnix.pro.pdf.reader "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader "playstore")[`[website]`](https://librera.mobi "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/moneytoo/Player.svg?label=★&style=flat)
+**Just (Video) Player**: A simple and lightweight, yet polished and powerful Android video player based on ExoPlayer, compatible with Android 5+ and Android TV.
+[`[source]`](https://github.com/moneytoo/Player "source")[`[f-droid]`](https://f-droid.org/packages/com.brouken.player/ "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.brouken.player "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/mpv-android/mpv-android.svg?label=★&style=flat)
 **MPV**: A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.
