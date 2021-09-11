@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/105-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/106-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -471,6 +471,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/deltachat/deltachat-android.svg?label=★&style=flat-square)
 **Delta Chat**: A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.
 [`[source]`](https://github.com/deltachat/deltachat-android "source")[`[f-droid]`](https://f-droid.org/packages/com.b44t.messenger "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=chat.delta "playstore")[`[website]`](https://delta.chat/en "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square)
+**FlorisBoard**: A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+[`[source]`](https://github.com/florisboard/florisboard "source")[`[f-droid]`](https://f-droid.org/packages/dev.patrickgold.florisboard/ "f-droid")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
 **Hacker's Keyboard**: Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
