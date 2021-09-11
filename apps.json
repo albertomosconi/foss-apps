@@ -409,6 +409,15 @@
     },
     {
       "host": "GitHub",
+      "name": "Just (Video) Player",
+      "description": "A simple and lightweight, yet polished and powerful Android video player based on ExoPlayer, compatible with Android 5+ and Android TV.",
+      "stars_link": "https://img.shields.io/github/stars/moneytoo/Player.svg?label=★&style=flat",
+      "source": "https://github.com/moneytoo/Player",
+      "fdroid": "https://f-droid.org/packages/com.brouken.player/",
+      "playstore": "https://play.google.com/store/apps/details?id=com.brouken.player"
+    },
+    {
+      "host": "GitHub",
       "name": "MPV",
       "description": "A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.",
       "stars_link": "https://img.shields.io/github/stars/mpv-android/mpv-android.svg?label=★&style=flat",
