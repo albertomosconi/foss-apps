@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/102-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/103-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -279,6 +279,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/enricocid/Music-Player-GO.svg?label=★&style=flat)
 **Music Player GO**: A simple yet fully-featured local music player aiming at simplicity and performance.
 [`[source]`](https://github.com/enricocid/Music-Player-GO "source")[`[f-droid]`](https://f-droid.org/packages/com.iven.musicplayergo "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.iven.musicplayergo "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/nova-video-player/aos-AVP.svg?label=★&style=flat)
+**Nova Video Player**: An open source video player for Android designed for tablets, phones and AndroidTV devices. A fork of the original Archos Video Player Community Edition.
+[`[source]`](https://github.com/nova-video-player/aos-AVP "source")[`[f-droid]`](https://f-droid.org/packages/org.courville.nova "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.courville.nova "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/leonlatsch/photok.svg?label=★&style=flat)
 **Photok**: a free Photo-Safe. It stores your photos encrypted on your device and hides them from others. It uses technologies like, AES-256 encryption standard or bcrypt, to keep your photos secure. Photok is completely free, open source, and contains no ads.
