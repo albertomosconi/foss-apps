@@ -88,7 +88,7 @@
     {
       "name": "Privacy Browser",
       "description": "Most browsers silently give websites massive amounts of information that allows them to track you and compromise your privacy. In contrast, privacy sensitive features are disabled by default in Privacy Browser. If one of these technologies is required for a website to function correctly, the user may choose to turn it on for just that visit. Or, they can use domain settings to automatically turn on certain features when entering a specific website and turn them off again when leaving.",
-      "source": "https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary",
+      "source": "https://gitweb.stoutner.com/?p=PrivacyBrowser.git;a=summary",
       "fdroid": "https://f-droid.org/packages/com.stoutner.privacybrowser.standard",
       "playstore": "https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard",
       "website": "https://www.stoutner.com/privacy-browser"
