@@ -351,6 +351,16 @@
   "maps": [
     {
       "host": "GitHub",
+      "name": "Organic Maps",
+      "description": "A free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data. No ads, no tracking, no data collection, no crapware.",
+      "stars_link": "https://img.shields.io/github/stars/organicmaps/organicmaps.svg?label=★&style=flat",
+      "source": "https://github.com/organicmaps/organicmaps",
+      "fdroid": "https://f-droid.org/en/packages/app.organicmaps",
+      "playstore": "https://play.google.com/store/apps/details?id=app.organicmaps",
+      "website": "https://organicmaps.app"
+    },
+    {
+      "host": "GitHub",
       "name": "OsmAnd",
       "description": "This project aims at providing comfortable map viewing and navigation (routing) application for mobile devices. Particular stress lies with complete offline features (via pre-loaded offline map data) or economic internet usage.",
       "stars_link": "https://img.shields.io/github/stars/osmandapp/Osmand.svg?label=★&style=flat",
