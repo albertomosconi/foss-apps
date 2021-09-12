@@ -662,6 +662,16 @@
     },
     {
       "host": "GitHub",
+      "name": "RethinkDNS + Firewall",
+      "description": "An open-source, no-root Firewall and DNS resolver with customizable blocklists. Block any app, IP address, or domain name from connecting to the Internet. Keep tabs on outgoing network connections, search through and analyze them.",
+      "stars_link": "https://img.shields.io/github/stars/celzero/rethink-app.svg?label=★&style=flat",
+      "source": "https://github.com/celzero/rethink-app",
+      "fdroid": "https://f-droid.org/en/packages/com.celzero.bravedns",
+      "playstore": "https://play.google.com/store/apps/details?id=com.celzero.bravedns",
+      "website": "https://www.rethinkfirewall.com"
+    },
+    {
+      "host": "GitHub",
       "name": "Vigilante",
       "description": "An app that focuses on your privacy and alerts you with a notification when a third-party application uses your device camera or microphone. It doesn't require an internet connection.",
       "stars_link": "https://img.shields.io/github/stars/FunkyMuse/Vigilante.svg?label=★&style=flat",
