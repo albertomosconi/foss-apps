@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/106-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/107-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -391,6 +391,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/M66B/NetGuard.svg?label=★&style=flat)
 **NetGuard**: It provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 [`[source]`](https://github.com/M66B/NetGuard "source")[`[f-droid]`](https://f-droid.org/en/packages/eu.faircode.netguard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=eu.faircode.netguard "playstore")[`[website]`](https://www.netguard.me "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/celzero/rethink-app.svg?label=★&style=flat)
+**RethinkDNS + Firewall**: An open-source, no-root Firewall and DNS resolver with customizable blocklists. Block any app, IP address, or domain name from connecting to the Internet. Keep tabs on outgoing network connections, search through and analyze them.
+[`[source]`](https://github.com/celzero/rethink-app "source")[`[f-droid]`](https://f-droid.org/en/packages/com.celzero.bravedns "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.celzero.bravedns "playstore")[`[website]`](https://www.rethinkfirewall.com "website")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/FunkyMuse/Vigilante.svg?label=★&style=flat)
 **Vigilante**: An app that focuses on your privacy and alerts you with a notification when a third-party application uses your device camera or microphone. It doesn't require an internet connection.
