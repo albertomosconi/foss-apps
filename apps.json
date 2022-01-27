@@ -910,7 +910,7 @@
     {
       "host": "GitHub",
       "name": "Koler",
-      "description": "Uniquely stylized phone app with customizable features, designed with the user in mind.",
+      "description": "Uniquely stylized phone app with customizable features, designed with the user in mind. It uses swipes and minimalistic design, making everything more beautiful, intuitive, yet still productive.",
       "stars_link": "https://img.shields.io/github/stars/Chooloo/koler.svg?label=★&style=flat",
       "source": "https://github.com/Chooloo/koler",
       "fdroid": "https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler"
@@ -928,7 +928,7 @@
     {
       "host": "GitHub",
       "name": "QKSMS",
-      "description": "An open source replacement to the stock messaging app on Android.",
+      "description": "An open source replacement to the stock messaging app on Android. Features a beautiful, intuitive, and clutter-free design that allows you to focus on what matters, while stil being customizable.",
       "stars_link": "https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat",
       "source": "https://github.com/moezbhatti/qksms",
       "fdroid": "https://f-droid.org/packages/com.moez.QKSMS",
@@ -955,7 +955,7 @@
     {
       "host": "GitHub",
       "name": "Audio Recorder",
-      "description": "A lightweight, ad-free, smart and simple audio recorder app for android",
+      "description": "A lightweight, ad-free, smart and simple audio recorder app for android. The recording will continue in background even if the phone is in locked state. It records the audio/voice in high quality.",
       "stars_link": "https://img.shields.io/github/stars/vivekweb2013/audio-recorder.svg?label=★&style=flat",
       "source": "https://github.com/vivekweb2013/audio-recorder",
       "playstore": "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder"
