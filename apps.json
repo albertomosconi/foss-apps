@@ -625,6 +625,15 @@
     },
     {
       "host": "GitHub",
+      "name": "AFWall+",
+      "description": "A front-end application for the powerful iptables Linux firewall.It allows you to restrict which applications are permitted to access your data networks (2G/3G and/or Wi-Fi and while in roaming). Also you can control traffic within LAN or while connected through VPN. Requires root.",
+      "stars_link": "https://img.shields.io/github/stars/ukanth/afwall.svg?label=★&style=flat",
+      "source": "https://github.com/ukanth/afwall",
+      "fdroid": "https://f-droid.org/packages/dev.ukanth.ufirewall",
+      "playstore": "https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall"
+    },
+    {
+      "host": "GitHub",
       "name": "andOTP",
       "description": "A two-factor authentication App for Android 5.1+. It implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP). Simply scan the QR code and login with the generated 6-digit code.",
       "stars_link": "https://img.shields.io/github/stars/andOTP/andOTP.svg?label=★&style=flat",
