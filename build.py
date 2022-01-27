@@ -34,9 +34,17 @@ def build_readme(apps_dict):
         list_lines.append(f"## {title}\n**[`^ back to top ^`](#table-of-contents)**\n")
 
         for app in apps_dict[category]:
+
+            m = re.match("https:\/\/(gitlab|github)\.com/([a-zA-Z0-9\-\_\.]+)/([a-zA-Z0-9\-\_\.]+)", app.get("source"))
+
+            if m == None:
+                stars_link = app.get("stars_link")
+            else:
+                stars_link = f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
+
             new_line = "- "
+            new_line += f"![Stars]({stars_link})\n" if stars_link else ""
             new_line += f"**{app['name']}**: {app['description']}\n\n\t"
-            new_line += f"![{app['host']} Stars]({app['stars_link']})" if "host" in app else ""
             new_line += f"[`[source]`]({app['source']} \"source\")"
             new_line += f"[`[f-droid]`]({app['fdroid']} \"f-droid\")" if "fdroid" in app else ""
             new_line += f"[`[playstore]`]({app['playstore']} \"playstore\")" if "playstore" in app else ""
