@@ -35,10 +35,10 @@ def build_readme(apps_dict):
 
         for app in apps_dict[category]:
             new_line = "- "
-            new_line += f"![{app['host']} Stars]({app['stars_link']})\n" if "host" in app else ""
-            new_line += f"**{app['name']}**: {app['description']}\n\n"
-            new_line += f"\t[`[source]`]({app['source']} \"source\")"
-            new_line += "[`[f-droid]`]({} \"f-droid\")".format(app["fdroid"]) if "fdroid" in app else ""
+            new_line += f"**{app['name']}**: {app['description']}\n\n\t"
+            new_line += f"![{app['host']} Stars]({app['stars_link']})" if "host" in app else ""
+            new_line += f"[`[source]`]({app['source']} \"source\")"
+            new_line += f"[`[f-droid]`]({app['fdroid']} \"f-droid\")" if "fdroid" in app else ""
             new_line += f"[`[playstore]`]({app['playstore']} \"playstore\")" if "playstore" in app else ""
             new_line += f"[`[website]`]({app['website']} \"website\")" if "website" in app else ""
             new_line += "\n"
