@@ -9,7 +9,7 @@ def parse_apps():
 def replace_chunk(content, marker, chunk):
     # replaces the text between the comments with the specified marker with the content
     r = re.compile(f'<!-- {marker} starts -->.*<!-- {marker} ends -->', re.DOTALL)
-    chunk = f'<!-- {marker} starts -->{chunk}<!-- {marker} ends -->'
+    chunk = f'<!-- {marker} starts -->\n{chunk}\n<!-- {marker} ends -->'
     return r.sub(chunk, content)
 
 
@@ -18,7 +18,7 @@ def build_readme(apps_dict):
 
     count = functools.reduce(lambda a, b: a+b, [len(cat) for cat in list(apps_dict.values())])
 
-    app_count_md = f'\n<img src="https://img.shields.io/badge/{count}-apps-red?style=for-the-badge" alt="App count"/>\n'
+    app_count_md = f'<img src="https://img.shields.io/badge/{count}-apps-red?style=for-the-badge" alt="App count"/>'
     readme_contents = replace_chunk(readme_contents, "apps-count", app_count_md)
 
     sorted_categories = list(apps_dict.keys())
