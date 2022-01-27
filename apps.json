@@ -308,6 +308,61 @@
       "playstore": "https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3"
     }
   ],
+  "keyboards": [
+    {
+      "host": "GitHub",
+      "name": "BeHe Keyboard",
+      "description": "Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.",
+      "stars_link": "https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square",
+      "source": "https://github.com/VladThodo/behe-keyboard",
+      "fdroid": "https://f-droid.org/packages/com.vlath.keyboard",
+      "playstore": "https://play.google.com/store/apps/details?id=com.vlath.keyboard"
+    },
+    {
+      "host": "GitHub",
+      "name": "FlorisBoard",
+      "description": "A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.",
+      "stars_link": "https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square",
+      "source": "https://github.com/florisboard/florisboard",
+      "fdroid": "https://f-droid.org/packages/dev.patrickgold.florisboard/"
+    },
+    {
+      "host": "GitHub",
+      "name": "Hacker's Keyboard",
+      "description": "Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.",
+      "stars_link": "https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat",
+      "source": "https://github.com/klausw/hackerskeyboard",
+      "fdroid": "https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard",
+      "playstore": "https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard"
+    },
+    {
+      "host": "GitHub",
+      "name": "Irregular Expressions",
+      "description": "Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!",
+      "stars_link": "https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat",
+      "source": "https://github.com/MobileFirstLLC/irregular-expressions",
+      "fdroid": "https://f-droid.org/packages/mf.asciitext.lite",
+      "playstore": "https://play.google.com/store/apps/details?id=mf.asciitext.lite"
+    },
+    {
+      "host": "GitHub",
+      "name": "OpenBoard",
+      "description": "A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.",
+      "stars_link": "https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat",
+      "source": "https://github.com/dslul/openboard",
+      "fdroid": "https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin",
+      "playstore": "https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin"
+    },
+    {
+      "host": "GitHub",
+      "name": "Simple Keyboard",
+      "description": "This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.",
+      "stars_link": "https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat",
+      "source": "https://github.com/rkkr/simple-keyboard",
+      "fdroid": "https://f-droid.org/packages/rkr.simplekeyboard.inputmethod",
+      "playstore": "https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod"
+    }
+  ],
   "launchers": [
     {
       "host": "GitHub",
@@ -844,15 +899,6 @@
   "texting and phone": [
     {
       "host": "GitHub",
-      "name": "BeHe Keyboard",
-      "description": "Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.",
-      "stars_link": "https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square",
-      "source": "https://github.com/VladThodo/behe-keyboard",
-      "fdroid": "https://f-droid.org/packages/com.vlath.keyboard",
-      "playstore": "https://play.google.com/store/apps/details?id=com.vlath.keyboard"
-    },
-    {
-      "host": "GitHub",
       "name": "Delta Chat",
       "description": "A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.",
       "stars_link": "https://img.shields.io/github/stars/deltachat/deltachat-android.svg?label=★&style=flat-square",
@@ -860,32 +906,6 @@
       "fdroid": "https://f-droid.org/packages/com.b44t.messenger",
       "playstore": "https://play.google.com/store/apps/details?id=chat.delta",
       "website": "https://delta.chat/en"
-    },
-    {
-      "host": "GitHub",
-      "name": "FlorisBoard",
-      "description": "A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.",
-      "stars_link": "https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square",
-      "source": "https://github.com/florisboard/florisboard",
-      "fdroid": "https://f-droid.org/packages/dev.patrickgold.florisboard/"
-    },
-    {
-      "host": "GitHub",
-      "name": "Hacker's Keyboard",
-      "description": "Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.",
-      "stars_link": "https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat",
-      "source": "https://github.com/klausw/hackerskeyboard",
-      "fdroid": "https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard",
-      "playstore": "https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard"
-    },
-    {
-      "host": "GitHub",
-      "name": "Irregular Expressions",
-      "description": "Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!",
-      "stars_link": "https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat",
-      "source": "https://github.com/MobileFirstLLC/irregular-expressions",
-      "fdroid": "https://f-droid.org/packages/mf.asciitext.lite",
-      "playstore": "https://play.google.com/store/apps/details?id=mf.asciitext.lite"
     },
     {
       "host": "GitHub",
@@ -907,15 +927,6 @@
     },
     {
       "host": "GitHub",
-      "name": "OpenBoard",
-      "description": "A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.",
-      "stars_link": "https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat",
-      "source": "https://github.com/dslul/openboard",
-      "fdroid": "https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin",
-      "playstore": "https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin"
-    },
-    {
-      "host": "GitHub",
       "name": "QKSMS",
       "description": "An open source replacement to the stock messaging app on Android.",
       "stars_link": "https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat",
@@ -931,15 +942,6 @@
       "source": "https://github.com/signalapp/Signal-Android",
       "playstore": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
       "website": "https://signal.org"
-    },
-    {
-      "host": "GitHub",
-      "name": "Simple Keyboard",
-      "description": "This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.",
-      "stars_link": "https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat",
-      "source": "https://github.com/rkkr/simple-keyboard",
-      "fdroid": "https://f-droid.org/packages/rkr.simplekeyboard.inputmethod",
-      "playstore": "https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod"
     }
   ],
   "utilities": [
