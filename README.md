@@ -4,27 +4,28 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 
 <div align="center">
 <p align="center">
-<!-- counter starts -->
-<img src="https://img.shields.io/badge/108-apps-red?style=for-the-badge" alt="App Count"/>
-<!-- counter ends -->
-<a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
+<!-- apps-count starts -->
+<img src="https://img.shields.io/badge/108-apps-red?style=for-the-badge" alt="App count"/>
+<!-- apps-count ends -->
+<a href="./LICENSE">
+<img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
+</a>
 </p>
 </div>
 
 A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on FDroid.
 
-_I do not own this material, I'm just sharing it because I think it's cool._
+_I'm not affiliated with these apps, I'm just sharing them because I think they're awesome._
 
-**[`SUGGEST A NEW APP`](#suggestions "SUGGEST A NEW APP")**
+**[`SUGGEST A NEW APP`](#suggestions 'SUGGEST A NEW APP')**
 
-**[`Use this list in your project`](#use-this-list-in-your-project "Use this list in your project")**
+**[`Use this list in your project`](#use-this-list-in-your-project 'Use this list in your project')**
 
-**[`Acknowledgments`](#acknowledgments "Acknowledgments")**
+**[`Acknowledgments`](#acknowledgments 'Acknowledgments')**
 
 ## Table of Contents
 
-<!-- table-of-contents starts -->
-- [Anime](#anime "Anime")
+<!-- table-of-contents starts -->- [Anime](#anime "Anime")
 - [App Stores](#app-stores "App Stores")
 - [Browsers](#browsers "Browsers")
 - [Calculators](#calculators "Calculators")
@@ -34,6 +35,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Entertainment](#entertainment "Entertainment")
 - [File Managers](#file-managers "File Managers")
 - [Games](#games "Games")
+- [Keyboards](#keyboards "Keyboards")
 - [Launchers](#launchers "Launchers")
 - [Maps](#maps "Maps")
 - [Media Viewers and Players](#media-viewers-and-players "Media Viewers and Players")
@@ -46,12 +48,9 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [System Info](#system-info "System Info")
 - [Texting and Phone](#texting-and-phone "Texting and Phone")
 - [Utilities](#utilities "Utilities")
-- [Weather](#weather "Weather")
-<!-- table-of-contents ends -->
+- [Weather](#weather "Weather")<!-- table-of-contents ends -->
 
-<!-- list starts -->
-## Anime
-
+<!-- list starts -->## Anime
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/axiel7/MoeList.svg?label=★&style=flat)
@@ -59,7 +58,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/axiel7/MoeList "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.axiel7.moelist "playstore")
 
 ## App Stores
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitLab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F12469948)
@@ -83,7 +81,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://gitlab.com/gdroid/gdroidclient "source")[`[f-droid]`](https://f-droid.org/en/packages/org.gdroid.gdroid "f-droid")
 
 ## Browsers
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/bromite/bromite.svg?label=★&style=flat)
@@ -110,7 +107,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/CookieJarApps/SmartCookieWeb "source")[`[f-droid]`](https://f-droid.org/en/packages/com.cookiegames.smartcookie "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie "playstore")[`[website]`](https://smartcookieweb.com "website")
 
 ## Calculators
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Bubu/android-calculatorpp.svg?label=★&style=flat-square)
@@ -122,7 +118,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/tranleduy2000/ncalc "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.duy.calculator.free "playstore")
 
 ## Calendars
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Etar-Group/Etar-Calendar.svg?label=★&style=flat-square)
@@ -138,7 +133,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/andstatus/todoagenda "source")[`[f-droid]`](https://f-droid.org/en/packages/org.andstatus.todoagenda "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda "playstore")
 
 ## Email Clients
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/M66B/FairEmail.svg?label=★&style=flat-square)
@@ -150,7 +144,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/k9mail/k-9 "source")[`[f-droid]`](https://f-droid.org/packages/com.fsck.k9 "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.fsck.k9 "playstore")[`[website]`](https://k9mail.app "website")
 
 ## Emulators
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Swordfish90/Lemuroid.svg?label=★&style=flat)
@@ -162,7 +155,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/libretro/RetroArch "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.retroarch "playstore")[`[website]`](https://www.libretro.com "website")
 
 ## Entertainment
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod.svg?label=★&style=flat)
@@ -186,7 +178,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/twireapp/Twire "source")[`[f-droid]`](https://f-droid.org/packages/com.perflyst.twire "f-droid")
 
 ## File Managers
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/TeamAmaze/AmazeFileManager.svg?label=★&style=flat)
@@ -202,7 +193,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/zhanghai/MaterialFiles "source")[`[f-droid]`](https://f-droid.org/packages/me.zhanghai.android.files "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=me.zhanghai.android.files "playstore")
 
 ## Games
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/veloce/lichobile.svg?label=★&style=flat)
@@ -221,8 +211,34 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 **TalpaSplat3**: Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 [`[source]`](https://github.com/albertomosconi/TalpaSplat3 "source")[`[playstore]`](https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3 "playstore")
 
-## Launchers
+## Keyboards
+**[`^ back to top ^`](#table-of-contents)**
 
+- ![GitHub Stars](https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square)
+**BeHe Keyboard**: Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.
+[`[source]`](https://github.com/VladThodo/behe-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/com.vlath.keyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.vlath.keyboard "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square)
+**FlorisBoard**: A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+[`[source]`](https://github.com/florisboard/florisboard "source")[`[f-droid]`](https://f-droid.org/packages/dev.patrickgold.florisboard/ "f-droid")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
+**Hacker's Keyboard**: Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
+[`[source]`](https://github.com/klausw/hackerskeyboard "source")[`[f-droid]`](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat)
+**Irregular Expressions**: Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!
+[`[source]`](https://github.com/MobileFirstLLC/irregular-expressions "source")[`[f-droid]`](https://f-droid.org/packages/mf.asciitext.lite "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=mf.asciitext.lite "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat)
+**OpenBoard**: A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.
+[`[source]`](https://github.com/dslul/openboard "source")[`[f-droid]`](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat)
+**Simple Keyboard**: This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.
+[`[source]`](https://github.com/rkkr/simple-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod "playstore")
+
+## Launchers
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/Neamar/KISS.svg?label=★&style=flat)
@@ -242,7 +258,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/amirzaidi/Launcher3 "source")[`[f-droid]`](https://f-droid.org/packages/amirz.rootless.nexuslauncher "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher "playstore")
 
 ## Maps
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/organicmaps/organicmaps.svg?label=★&style=flat)
@@ -266,7 +281,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/grote/transportr "source")[`[f-droid]`](https://f-droid.org/packages/de.grobox.liberario "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=de.grobox.liberario "playstore")[`[website]`](https://transportr.app "website")
 
 ## Media Viewers and Players
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitLab Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://gitlab.com/api/v4/projects/5074924)
@@ -314,7 +328,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://code.videolan.org/videolan/VLC-android "source")[`[f-droid]`](https://f-droid.org/en/packages/org.videolan.vlc "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.videolan.vlc "playstore")[`[website]`](https://www.videolan.org/vlc "website")
 
 ## Password Managers
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/bitwarden/mobile.svg?label=★&style=flat)
@@ -326,7 +339,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/Kunzisoft/KeePassDX "source")[`[f-droid]`](https://www.f-droid.org/packages/com.kunzisoft.keepass.libre "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free "playstore")[`[website]`](https://www.keepassdx.com "website")
 
 ## Productivity
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/iSoron/uhabits.svg?label=★&style=flat)
@@ -358,7 +370,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/tasks/tasks "source")[`[f-droid]`](https://f-droid.org/packages/org.tasks "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.tasks "playstore")[`[website]`](https://tasks.org "website")
 
 ## Programming
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/termux/termux-app.svg?label=★&style=flat)
@@ -366,7 +377,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/termux/termux-app "source")[`[f-droid]`](https://f-droid.org/packages/com.termux "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.termux "playstore")[`[website]`](https://termux.com "website")
 
 ## Security and Privacy
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/AdAway/AdAway.svg?label=★&style=flat)
@@ -414,7 +424,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://gitlab.com/xynngh/YetAnotherCallBlocker "source")[`[f-droid]`](https://f-droid.org/packages/dummydomain.yetanothercallblocker "f-droid")
 
 ## Social Media
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/austinhuang0131/barinsta.svg?label=★&style=flat-square)
@@ -458,7 +467,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/TwidereProject/Twidere-Android "source")[`[f-droid]`](https://f-droid.org/packages/org.mariotaku.twidere "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.mariotaku.twidere "playstore")[`[website]`](https://twidere.com "website")
 
 ## Synchronization
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/nextcloud/android.svg?label=★&style=flat-square)
@@ -470,7 +478,6 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/syncthing/syncthing-android "source")[`[f-droid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore")[`[website]`](https://syncthing.net "website")
 
 ## System Info
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/asksven/BetterBatteryStats.svg?label=★&style=flat)
@@ -482,55 +489,29 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/kamgurgul/cpu-info "source")[`[f-droid]`](https://f-droid.org/packages/com.kgurgul.cpuinfo "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo "playstore")
 
 ## Texting and Phone
-
 **[`^ back to top ^`](#table-of-contents)**
-
-- ![GitHub Stars](https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square)
-**BeHe Keyboard**: Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.
-[`[source]`](https://github.com/VladThodo/behe-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/com.vlath.keyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.vlath.keyboard "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/deltachat/deltachat-android.svg?label=★&style=flat-square)
 **Delta Chat**: A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.
 [`[source]`](https://github.com/deltachat/deltachat-android "source")[`[f-droid]`](https://f-droid.org/packages/com.b44t.messenger "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=chat.delta "playstore")[`[website]`](https://delta.chat/en "website")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square)
-**FlorisBoard**: A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
-[`[source]`](https://github.com/florisboard/florisboard "source")[`[f-droid]`](https://f-droid.org/packages/dev.patrickgold.florisboard/ "f-droid")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
-**Hacker's Keyboard**: Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
-[`[source]`](https://github.com/klausw/hackerskeyboard "source")[`[f-droid]`](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard "playstore")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat)
-**Irregular Expressions**: Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!
-[`[source]`](https://github.com/MobileFirstLLC/irregular-expressions "source")[`[f-droid]`](https://f-droid.org/packages/mf.asciitext.lite "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=mf.asciitext.lite "playstore")
-
 - ![GitHub Stars](https://img.shields.io/github/stars/Chooloo/koler.svg?label=★&style=flat)
-**Koler**: Uniquely stylized phone app with customizable features, designed with the user in mind.
+**Koler**: Uniquely stylized phone app with customizable features, designed with the user in mind. It uses swipes and minimalistic design, making everything more beautiful, intuitive, yet still productive.
 [`[source]`](https://github.com/Chooloo/koler "source")[`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler "f-droid")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost-webapp.svg?label=★&style=flat)
 **Mattermost**: An open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
 [`[source]`](https://github.com/mattermost/mattermost-mobile "source")[`[f-droid]`](https://f-droid.org/en/packages/com.mattermost.rnbeta "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.mattermost.rn "playstore")[`[website]`](https://mattermost.com "website")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat)
-**OpenBoard**: A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.
-[`[source]`](https://github.com/dslul/openboard "source")[`[f-droid]`](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin "playstore")
-
 - ![GitHub Stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat)
-**QKSMS**: An open source replacement to the stock messaging app on Android.
+**QKSMS**: An open source replacement to the stock messaging app on Android. Features a beautiful, intuitive, and clutter-free design that allows you to focus on what matters, while stil being customizable.
 [`[source]`](https://github.com/moezbhatti/qksms "source")[`[f-droid]`](https://f-droid.org/packages/com.moez.QKSMS "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.moez.QKSMS "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/signalapp/Signal-Android.svg?label=★&style=flat)
 **Signal**: A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 [`[source]`](https://github.com/signalapp/Signal-Android "source")[`[playstore]`](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms "playstore")[`[website]`](https://signal.org "website")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat)
-**Simple Keyboard**: This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.
-[`[source]`](https://github.com/rkkr/simple-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod "playstore")
-
 ## Utilities
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/shmykelsa/AA-Tweaker.svg?label=★&style=flat)
@@ -538,7 +519,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/shmykelsa/AA-Tweaker "source")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/vivekweb2013/audio-recorder.svg?label=★&style=flat)
-**Audio Recorder**: A lightweight, ad-free, smart and simple audio recorder app for android
+**Audio Recorder**: A lightweight, ad-free, smart and simple audio recorder app for android. The recording will continue in background even if the phone is in locked state. It records the audio/voice in high quality.
 [`[source]`](https://github.com/vivekweb2013/audio-recorder "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/TachibanaGeneralLaboratories/download-navi.svg?label=★&style=flat)
@@ -566,51 +547,51 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/Hash-Studios/Prism "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.hash.prism "playstore")
 
 ## Weather
-
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![GitHub Stars](https://img.shields.io/github/stars/WangDaYeeeeee/GeometricWeather.svg?label=★&style=flat)
 **Geometric Weather**: A light and powerful weather app that provides you with real-time temperature, air quality, 15-days weather forecast, and accurate time-sharing trends. The app has a strong focus on design, with a simple, clean UX, smooth animations, and Material Design all over, plus lots of customizability.
 [`[source]`](https://github.com/WangDaYeeeeee/GeometricWeather "source")[`[f-droid]`](https://f-droid.org/en/packages/wangdaye.com.geometricweather/ "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather "playstore")
-
-
 <!-- list ends -->
 
 ## Suggestions
 
 **[`^ back to top ^`](#title)**
 
-Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= "issue"). Please use the given issue template. This is also the fastest way for your suggestion to be added to the list!
+Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= 'issue'). Please use the given issue template. This is also the fastest way for your suggestion to be added to the list!
 
-Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md "CONTRIBUTING GUIDELINES").
+Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md 'CONTRIBUTING GUIDELINES').
 
 ## Use this list in your project
 
 **[`^ back to top ^`](#title)**
 
-Since the list of apps in stored in [`JSON`](https://en.wikipedia.org/wiki/JSON "JSON") format, it can easily be retrieved with a GET request at the following url
+Since the list of apps in stored in [`JSON`](https://en.wikipedia.org/wiki/JSON 'JSON') format, it can easily be retrieved with a GET request at the following url
+
 ```
 https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps.json
 ```
 
 For example with this Javascript code you can have access to the list in the form of an object
+
 ```javascript
-fetch("https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps.json")
-  .then(res => res.json())
-  .then(list => {
+fetch(
+  'https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps.json',
+)
+  .then((res) => res.json())
+  .then((list) => {
     // this will print an array with all the apps in the 'browsers' category
     console.log(list['browsers']);
   });
 ```
 
-
 ## Acknowledgments
 
 **[`^ back to top ^`](#title)**
 
-- [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and "A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)")
-- [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ "A List of Open Source Applications (Reddit)")
-- [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme "Building a self-updating profile README for GitHub")
+- [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and 'A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)')
+- [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ 'A List of Open Source Applications (Reddit)')
+- [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme 'Building a self-updating profile README for GitHub')
 
 ---
 
