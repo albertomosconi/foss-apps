@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- counter starts -->
-<img src="https://img.shields.io/badge/107-apps-red?style=for-the-badge" alt="App Count"/>
+<img src="https://img.shields.io/badge/108-apps-red?style=for-the-badge" alt="App Count"/>
 <!-- counter ends -->
 <a href="./LICENSE"><img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/></a>
 </p>
@@ -375,6 +375,10 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/beemdevelopment/Aegis.svg?label=★&style=flat)
 **Aegis**: A free, secure and open source 2FA app for Android. It aims to provide a secure authenticator for your online services, while also including some features missing in existing authenticator apps, like proper encryption and backups. Aegis supports HOTP and TOTP, making it compatible with thousands of services.
 [`[source]`](https://github.com/beemdevelopment/Aegis "source")[`[f-droid]`](https://f-droid.org/en/packages/com.beemdevelopment.aegis "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis "playstore")[`[website]`](https://getaegis.app "website")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/ukanth/afwall.svg?label=★&style=flat)
+**AFWall+**: A front-end application for the powerful iptables Linux firewall.It allows you to restrict which applications are permitted to access your data networks (2G/3G and/or Wi-Fi and while in roaming). Also you can control traffic within LAN or while connected through VPN. Requires root.
+[`[source]`](https://github.com/ukanth/afwall "source")[`[f-droid]`](https://f-droid.org/packages/dev.ukanth.ufirewall "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/andOTP/andOTP.svg?label=★&style=flat)
 **andOTP**: A two-factor authentication App for Android 5.1+. It implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP). Simply scan the QR code and login with the generated 6-digit code.
