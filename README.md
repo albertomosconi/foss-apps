@@ -533,8 +533,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/Docile-Alligator/Infinity-For-Reddit "source") [`[playstore]`](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "playstore") 
 
-- ![Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://git.jami.net//api/v4/projects/2)
-**Jami**: A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.
+- **Jami**: A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.
 
 	[`[source]`](https://git.jami.net/savoirfairelinux/ring-client-android "source") [`[f-droid]`](https://f-droid.org/packages/cx.ring "f-droid") [`[website]`](https://jami.net "website")
 
