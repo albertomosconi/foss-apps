@@ -34,6 +34,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - [Entertainment](#entertainment "Entertainment")
 - [File Managers](#file-managers "File Managers")
 - [Games](#games "Games")
+- [Keyboards](#keyboards "Keyboards")
 - [Launchers](#launchers "Launchers")
 - [Maps](#maps "Maps")
 - [Media Viewers and Players](#media-viewers-and-players "Media Viewers and Players")
@@ -220,6 +221,34 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 - ![GitHub Stars](https://img.shields.io/github/stars/albertomosconi/TalpaSplat3.svg?label=★&style=flat)
 **TalpaSplat3**: Shameless self-plug. A simple and fun FOSS cross-platform game. Tap on the mole as many times as you can before the time runs out, but watch out for the bombs!
 [`[source]`](https://github.com/albertomosconi/TalpaSplat3 "source")[`[playstore]`](https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3 "playstore")
+
+## Keyboards
+
+**[`^ back to top ^`](#table-of-contents)**
+
+- ![GitHub Stars](https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square)
+**BeHe Keyboard**: Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.
+[`[source]`](https://github.com/VladThodo/behe-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/com.vlath.keyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.vlath.keyboard "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square)
+**FlorisBoard**: A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+[`[source]`](https://github.com/florisboard/florisboard "source")[`[f-droid]`](https://f-droid.org/packages/dev.patrickgold.florisboard/ "f-droid")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
+**Hacker's Keyboard**: Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
+[`[source]`](https://github.com/klausw/hackerskeyboard "source")[`[f-droid]`](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat)
+**Irregular Expressions**: Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!
+[`[source]`](https://github.com/MobileFirstLLC/irregular-expressions "source")[`[f-droid]`](https://f-droid.org/packages/mf.asciitext.lite "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=mf.asciitext.lite "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat)
+**OpenBoard**: A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.
+[`[source]`](https://github.com/dslul/openboard "source")[`[f-droid]`](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin "playstore")
+
+- ![GitHub Stars](https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat)
+**Simple Keyboard**: This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.
+[`[source]`](https://github.com/rkkr/simple-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod "playstore")
 
 ## Launchers
 
@@ -485,49 +514,25 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 
 **[`^ back to top ^`](#table-of-contents)**
 
-- ![GitHub Stars](https://img.shields.io/github/stars/VladThodo/behe-keyboard.svg?label=★&style=flat-square)
-**BeHe Keyboard**: Enjoy programming and using special keys (such as CTRL and ALT) on your android device without forgetting the design. You can switch between keyboard faces with a simple press of a button.
-[`[source]`](https://github.com/VladThodo/behe-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/com.vlath.keyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.vlath.keyboard "playstore")
-
 - ![GitHub Stars](https://img.shields.io/github/stars/deltachat/deltachat-android.svg?label=★&style=flat-square)
 **Delta Chat**: A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.
 [`[source]`](https://github.com/deltachat/deltachat-android "source")[`[f-droid]`](https://f-droid.org/packages/com.b44t.messenger "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=chat.delta "playstore")[`[website]`](https://delta.chat/en "website")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/florisboard/florisboard.svg?label=★&style=flat-square)
-**FlorisBoard**: A free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
-[`[source]`](https://github.com/florisboard/florisboard "source")[`[f-droid]`](https://f-droid.org/packages/dev.patrickgold.florisboard/ "f-droid")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/klausw/hackerskeyboard.svg?label=★&style=flat)
-**Hacker's Keyboard**: Are you missing the key layout you're used to from your computer when using an Android device? This software keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
-[`[source]`](https://github.com/klausw/hackerskeyboard "source")[`[f-droid]`](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard "playstore")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/MobileFirstLLC/irregular-expressions.svg?label=★&style=flat)
-**Irregular Expressions**: Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!
-[`[source]`](https://github.com/MobileFirstLLC/irregular-expressions "source")[`[f-droid]`](https://f-droid.org/packages/mf.asciitext.lite "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=mf.asciitext.lite "playstore")
-
 - ![GitHub Stars](https://img.shields.io/github/stars/Chooloo/koler.svg?label=★&style=flat)
-**Koler**: Uniquely stylized phone app with customizable features, designed with the user in mind.
+**Koler**: Uniquely stylized phone app with customizable features, designed with the user in mind. It uses swipes and minimalistic design, making everything more beautiful, intuitive, yet still productive.
 [`[source]`](https://github.com/Chooloo/koler "source")[`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/com.chooloo.www.koler "f-droid")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost-webapp.svg?label=★&style=flat)
 **Mattermost**: An open-source, self-hostable online chat service with file sharing, search, and integrations. It is designed as an internal chat for organisations and companies, and mostly markets itself as an open-source alternative to Slack and Microsoft Teams.
 [`[source]`](https://github.com/mattermost/mattermost-mobile "source")[`[f-droid]`](https://f-droid.org/en/packages/com.mattermost.rnbeta "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.mattermost.rn "playstore")[`[website]`](https://mattermost.com "website")
 
-- ![GitHub Stars](https://img.shields.io/github/stars/dslul/openboard.svg?label=★&style=flat)
-**OpenBoard**: A 100% FOSS keyboard, based on AOSP, with no dependency on Google binaries, that respects your privacy. It supports spelling correction, themes and emojis.
-[`[source]`](https://github.com/dslul/openboard "source")[`[f-droid]`](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin "playstore")
-
 - ![GitHub Stars](https://img.shields.io/github/stars/moezbhatti/qksms.svg?label=★&style=flat)
-**QKSMS**: An open source replacement to the stock messaging app on Android.
+**QKSMS**: An open source replacement to the stock messaging app on Android. Features a beautiful, intuitive, and clutter-free design that allows you to focus on what matters, while stil being customizable.
 [`[source]`](https://github.com/moezbhatti/qksms "source")[`[f-droid]`](https://f-droid.org/packages/com.moez.QKSMS "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=com.moez.QKSMS "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/signalapp/Signal-Android.svg?label=★&style=flat)
 **Signal**: A messaging app for simple private communication with friends. Signal uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 [`[source]`](https://github.com/signalapp/Signal-Android "source")[`[playstore]`](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms "playstore")[`[website]`](https://signal.org "website")
-
-- ![GitHub Stars](https://img.shields.io/github/stars/rkkr/simple-keyboard.svg?label=★&style=flat)
-**Simple Keyboard**: This keyboard is created for those who only need a keyboard and nothing more, it is very simple and lightweight, with minimal permissions required and zero ads.
-[`[source]`](https://github.com/rkkr/simple-keyboard "source")[`[f-droid]`](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod "f-droid")[`[playstore]`](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod "playstore")
 
 ## Utilities
 
@@ -538,7 +543,7 @@ _I do not own this material, I'm just sharing it because I think it's cool._
 [`[source]`](https://github.com/shmykelsa/AA-Tweaker "source")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/vivekweb2013/audio-recorder.svg?label=★&style=flat)
-**Audio Recorder**: A lightweight, ad-free, smart and simple audio recorder app for android
+**Audio Recorder**: A lightweight, ad-free, smart and simple audio recorder app for android. The recording will continue in background even if the phone is in locked state. It records the audio/voice in high quality.
 [`[source]`](https://github.com/vivekweb2013/audio-recorder "source")[`[playstore]`](https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder "playstore")
 
 - ![GitHub Stars](https://img.shields.io/github/stars/TachibanaGeneralLaboratories/download-navi.svg?label=★&style=flat)
