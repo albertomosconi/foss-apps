@@ -115,7 +115,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 - **Privacy Browser**: Most browsers silently give websites massive amounts of information that allows them to track you and compromise your privacy. In contrast, privacy sensitive features are disabled by default in Privacy Browser. If one of these technologies is required for a website to function correctly, the user may choose to turn it on for just that visit. Or, they can use domain settings to automatically turn on certain features when entering a specific website and turn them off again when leaving.
 
-	[`[source]`](https://gitweb.stoutner.com/?p=PrivacyBrowser.git;a=summary "source") [`[f-droid]`](https://f-droid.org/packages/com.stoutner.privacybrowser.standard "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard "playstore") [`[website]`](https://www.stoutner.com/privacy-browser "website")
+	[`[source]`](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git "source") [`[f-droid]`](https://f-droid.org/packages/com.stoutner.privacybrowser.standard "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard "playstore") [`[website]`](https://www.stoutner.com/privacy-browser "website")
 
 - ![Stars](https://badgen.net/github/stars/CookieJarApps/SmartCookieWeb)
 **SmartCookieWeb**: A lightweight, basic and secure web browser that uses less than 8MB of space. There is an Incognito Mode which can be enabled and stops web trackers completely. As well as this, the user agent (your web fingerprint) is the same as every other Smart Cookie user so websites can’t track you. Smart Cookie is ad-free and always will be. There is also an ad blocker included which is enabled by default.
@@ -533,7 +533,8 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/Docile-Alligator/Infinity-For-Reddit "source") [`[playstore]`](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "playstore") 
 
-- **Jami**: A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.
+- ![Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://git.jami.net//api/v4/projects/2)
+**Jami**: A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.
 
 	[`[source]`](https://git.jami.net/savoirfairelinux/ring-client-android "source") [`[f-droid]`](https://f-droid.org/packages/cx.ring "f-droid") [`[website]`](https://jami.net "website")
 
