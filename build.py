@@ -37,7 +37,7 @@ def build_readme(apps_dict):
             name = app.get("name")
             description = app.get("description")
             source = app.get("source")
-            fdroid = app.get("f-droid")
+            fdroid = app.get("fdroid")
             playstore = app.get("playstore")
             website = app.get("website")
 
