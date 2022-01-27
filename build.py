@@ -33,10 +33,15 @@ def build_readme(apps_dict):
         toc_lines.append(f"- [{title}](#{link} \"{title}\")")
         list_lines.append(f"## {title}\n**[`^ back to top ^`](#table-of-contents)**\n")
 
-        for app in apps_dict[category]:
+        for app in apps_dict.get(category):
+            name = app.get("name")
+            description = app.get("description")
+            source = app.get("source")
+            fdroid = app.get("f-droid")
+            playstore = app.get("playstore")
+            website = app.get("website")
 
-            m = re.match("https:\/\/(gitlab|github)\.com/([a-zA-Z0-9\-\_\.]+)/([a-zA-Z0-9\-\_\.]+)", app.get("source"))
-
+            m = re.match("https:\/\/(gitlab|github)\.com/([a-zA-Z0-9\-\_\.]+)/([a-zA-Z0-9\-\_\.]+)", source)
             if m == None:
                 stars_link = app.get("stars_link")
             else:
@@ -44,11 +49,11 @@ def build_readme(apps_dict):
 
             new_line = "- "
             new_line += f"![Stars]({stars_link})\n" if stars_link else ""
-            new_line += f"**{app['name']}**: {app['description']}\n\n\t"
-            new_line += f"[`[source]`]({app['source']} \"source\")"
-            new_line += f"[`[f-droid]`]({app['fdroid']} \"f-droid\")" if "fdroid" in app else ""
-            new_line += f"[`[playstore]`]({app['playstore']} \"playstore\")" if "playstore" in app else ""
-            new_line += f"[`[website]`]({app['website']} \"website\")" if "website" in app else ""
+            new_line += f"**{name}**: {description}\n\n\t"
+            new_line += f"[`[source]`]({source} \"source\")"
+            new_line += f"[`[f-droid]`]({fdroid} \"f-droid\")" if fdroid else "`[f-droid]` "
+            new_line += f"[`[playstore]`]({playstore} \"playstore\")" if playstore else "`[playstore]` "
+            new_line += f"[`[website]`]({website} \"website\")" if website else "`[website]`"
             new_line += "\n"
 
             list_lines.append(new_line)
