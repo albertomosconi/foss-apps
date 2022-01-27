@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/108-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/109-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -38,6 +38,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 - [Games](#games "Games")
 - [Keyboards](#keyboards "Keyboards")
 - [Launchers](#launchers "Launchers")
+- [Learning](#learning "Learning")
 - [Maps](#maps "Maps")
 - [Media Viewers and Players](#media-viewers-and-players "Media Viewers and Players")
 - [Password Managers](#password-managers "Password Managers")
@@ -302,6 +303,14 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 **Rootless Pixel Launcher**: A close to AOSP launcher that only changes the necessary code to allow for small extensions and backporting to older Android versions. Pixel Launcher is focused on simplicity and rock solid stability.
 
 	[`[source]`](https://github.com/amirzaidi/Launcher3 "source") [`[playstore]`](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher "playstore") 
+
+## Learning
+**[`^ back to top ^`](#table-of-contents)**
+
+- ![Stars](https://badgen.net/github/stars/aeri/Nihonoari-App)
+**Nihonoari**: An Open Source project to provide the community of Japanese learners with a simple app to memorize and practice the Hiragana and Katakana alphabets without adverts, in-app purchases and useless functions, simpler is better.
+
+	[`[source]`](https://github.com/aeri/Nihonoari-App "source") [`[playstore]`](https://play.google.com/store/apps/details?id=com.LAPARCELA.nihonoari "playstore") 
 
 ## Maps
 **[`^ back to top ^`](#table-of-contents)**
