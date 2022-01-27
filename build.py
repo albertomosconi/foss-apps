@@ -50,10 +50,10 @@ def build_readme(apps_dict):
             new_line = "- "
             new_line += f"![Stars]({stars_link})\n" if stars_link else ""
             new_line += f"**{name}**: {description}\n\n\t"
-            new_line += f"[`[source]`]({source} \"source\")"
-            new_line += f"[`[f-droid]`]({fdroid} \"f-droid\")" if fdroid else "`[f-droid]` "
-            new_line += f"[`[playstore]`]({playstore} \"playstore\")" if playstore else "`[playstore]` "
-            new_line += f"[`[website]`]({website} \"website\")" if website else "`[website]`"
+            new_line += f"[`[source]`]({source} \"source\") "
+            new_line += f"[`[f-droid]`]({fdroid} \"f-droid\") " if fdroid else ""
+            new_line += f"[`[playstore]`]({playstore} \"playstore\") " if playstore else ""
+            new_line += f"[`[website]`]({website} \"website\")" if website else ""
             new_line += "\n"
 
             list_lines.append(new_line)
