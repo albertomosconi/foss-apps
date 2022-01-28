@@ -29,11 +29,12 @@ def build_readme(apps_dict):
     for category in sorted_categories:
         title = " ".join(w.title() if w != "and" else "and" for w in category.split(" "))
         link = category.replace(" ", "-")
+        emoji = apps_dict.get(category).get("emoji")
 
         toc_lines.append(f"- [{title}](#{link} \"{title}\")")
-        list_lines.append(f"## {title}\n**[`^ back to top ^`](#table-of-contents)**\n")
+        list_lines.append(f"## {emoji} {title}\n**[`^ back to top ^`](#table-of-contents)**\n")
 
-        for app in apps_dict.get(category):
+        for app in apps_dict.get(category).get("apps"):
             name = app.get("name")
             description = app.get("description")
             source = app.get("source")
