@@ -514,6 +514,11 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/M66B/NetGuard "source") [`[f-droid]`](https://f-droid.org/en/packages/eu.faircode.netguard "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=eu.faircode.netguard "playstore") [`[website]`](https://www.netguard.me "website")
 
+- ![Stars](https://badgen.net/github/stars/emanuele-f/PCAPdroid)
+**PCAPdroid**: Monitor and export the network traffic of your device. The app simulates a VPN to achieve non-root capture but, contrary to a VPN, the traffic is processed locally into the device. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
+
+	[`[source]`](https://github.com/emanuele-f/PCAPdroid "source") [`[f-droid]`](https://f-droid.org/packages/com.emanuelef.remote_capture "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture "playstore") 
+
 - ![Stars](https://badgen.net/github/stars/celzero/rethink-app)
 **RethinkDNS + Firewall**: An open-source, no-root Firewall and DNS resolver with customizable blocklists. Block any app, IP address, or domain name from connecting to the Internet. Keep tabs on outgoing network connections, search through and analyze them.
 
