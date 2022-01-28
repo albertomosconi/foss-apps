@@ -76,7 +76,7 @@ def new_app():
                 break
                 
     # insert in app list for given category in alphabetical order
-    bisect.insort(apps[category]["apps"], new_app, key=lambda x: x.get("name"))
+    bisect.insort(apps[category]["apps"], new_app, key=lambda x: x.get("name").lower())
 
 
 root = pathlib.Path(__file__).parent.resolve()

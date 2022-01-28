@@ -520,18 +520,18 @@
         "emoji": "\ud83d\udc69\u200d\ud83d\udd27",
         "apps": [
             {
-                "name": "Loop Habit Tracker",
-                "description": "A simple app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time.",
-                "source": "https://github.com/iSoron/uhabits",
-                "fdroid": "https://f-droid.org/packages/org.isoron.uhabits",
-                "playstore": "https://play.google.com/store/apps/details?id=org.isoron.uhabits"
-            },
-            {
                 "name": "GitJournal",
                 "description": "Mobile first notes integrated with GitJournal. It transparently makes commits in your git repo of choice. The files can be stored in Markdown, Txt or OrgMode",
                 "source": "https://github.com/GitJournal/GitJournal",
                 "playstore": "https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal",
                 "website": "https://gitjournal.io"
+            },
+            {
+                "name": "Loop Habit Tracker",
+                "description": "A simple app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time.",
+                "source": "https://github.com/iSoron/uhabits",
+                "fdroid": "https://f-droid.org/packages/org.isoron.uhabits",
+                "playstore": "https://play.google.com/store/apps/details?id=org.isoron.uhabits"
             },
             {
                 "name": "Markor",
@@ -542,14 +542,6 @@
                 "website": "https://gsantner.net/project/markor.html"
             },
             {
-                "source": "https://github.com/federicoiosue/Omni-Notes",
-                "name": "Omni Notes",
-                "description": "A note taking open-source application aimed to have both a simple interface but keeping smart behavior. It aims to provide an attractive look and follow the most recent design guidelines of the Google operating system.",
-                "fdroid": "https://f-droid.org/packages/it.feio.android.omninotes.foss/",
-                "playstore": "https://play.google.com/store/apps/details?id=it.feio.android.omninotes",
-                "website": "https://omninotes.app"
-            },
-            {
                 "name": "neutriNote",
                 "description": "An ultra-compact extensible note app supporting rich markdown and math formulas.  Backed by a powerful search engine and tons of customization options.",
                 "source": "https://github.com/appml/neutrinote",
@@ -558,8 +550,16 @@
                 "website": "https://neutrinote.wordpress.com"
             },
             {
+                "source": "https://github.com/federicoiosue/Omni-Notes",
+                "name": "Omni Notes",
+                "description": "A note taking open-source application aimed to have both a simple interface but keeping smart behavior. It aims to provide an attractive look and follow the most recent design guidelines of the Google operating system.",
+                "fdroid": "https://f-droid.org/packages/it.feio.android.omninotes.foss/",
+                "playstore": "https://play.google.com/store/apps/details?id=it.feio.android.omninotes",
+                "website": "https://omninotes.app"
+            },
+            {
                 "name": "Orgzly",
-                "description": "An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode\u2019s file format. \u201cOrg mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.",
+                "description": "An outliner for taking notes and managing to-do lists. You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card or Dropbox. Notebooks are saved in Org mode\u2019s file format. Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.",
                 "source": "https://github.com/orgzly/orgzly-android",
                 "fdroid": "https://f-droid.org/packages/com.orgzly",
                 "playstore": "https://play.google.com/store/apps/details?id=com.orgzly",
