@@ -727,7 +727,7 @@ For example with this Javascript code you can have access to the list in the for
 
 ```javascript
 fetch(
-  'https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps.json',
+  'https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps/apps.json',
 )
   .then((res) => res.json())
   .then((list) => {

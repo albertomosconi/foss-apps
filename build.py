@@ -2,7 +2,7 @@ import functools, json, pathlib, re
 
 
 def parse_apps():
-    with open(root / "apps.json", "r") as file:
+    with open(root / "apps" / "apps.json", "r") as file:
         return json.load(file)
 
 
