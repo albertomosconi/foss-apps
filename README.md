@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/111-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/112-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -372,6 +372,11 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 **Just (Video) Player**: A simple and lightweight, yet polished and powerful Android video player based on ExoPlayer, compatible with Android 5+ and Android TV.
 
 	[`[source]`](https://github.com/moneytoo/Player "source") [`[f-droid]`](https://f-droid.org/packages/com.brouken.player/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.brouken.player "playstore") 
+
+- ![Stars](https://badgen.net/github/stars/UnevenSoftware/LeafPic)
+**LeafPic**: A fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery. NO LONGER MAINTAINED.
+
+	[`[source]`](https://github.com/UnevenSoftware/LeafPic "source") [`[f-droid]`](https://f-droid.org/app/org.horaapps.leafpic "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.horaapps.leafpic "playstore") 
 
 - ![Stars](https://badgen.net/github/stars/mpv-android/mpv-android)
 **MPV**: A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.
