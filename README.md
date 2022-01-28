@@ -607,7 +607,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/syncthing/syncthing-android "source") [`[f-droid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore") [`[website]`](https://syncthing.net "website")
 
-<h2 id="system-info">ℹ System Info</h2>
+<h2 id="system-info">⚙ System Info</h2>
 
 **[`^ back to top ^`](#table-of-contents)**
 
