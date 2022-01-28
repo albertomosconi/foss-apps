@@ -32,7 +32,7 @@ def build_readme(apps_dict):
         emoji = apps_dict.get(category).get("emoji")
 
         toc_lines.append(f"- [{title}](#{link} \"{title}\")")
-        list_lines.append(f"## {emoji} {title}\n**[`^ back to top ^`](#table-of-contents)**\n")
+        list_lines.append(f'<h2 id="{link}">{emoji} {title}</h2>\n\n**[`^ back to top ^`](#table-of-contents)**\n'"")
 
         for app in apps_dict.get(category).get("apps"):
             name = app.get("name")
