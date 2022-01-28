@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/110-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/111-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -445,6 +445,11 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 **Markor**: A TextEditor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management. Markor is versatile at working with text; it can also be used for keeping bookmarks, copying to clipboard, fast opening a link from text and lots of more.
 
 	[`[source]`](https://github.com/gsantner/markor "source") [`[f-droid]`](https://f-droid.org/packages/net.gsantner.markor "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=net.gsantner.markor "playstore") [`[website]`](https://gsantner.net/project/markor.html "website")
+
+- ![Stars](https://badgen.net/github/stars/federicoiosue/Omni-Notes)
+**Omni Notes**: A note taking open-source application aimed to have both a simple interface but keeping smart behavior. It aims to provide an attractive look and follow the most recent design guidelines of the Google operating system.
+
+	[`[source]`](https://github.com/federicoiosue/Omni-Notes "source") [`[f-droid]`](https://f-droid.org/packages/it.feio.android.omninotes.foss/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=it.feio.android.omninotes "playstore") [`[website]`](https://omninotes.app "website")
 
 - ![Stars](https://badgen.net/github/stars/appml/neutrinote)
 **neutriNote**: An ultra-compact extensible note app supporting rich markdown and math formulas.  Backed by a powerful search engine and tons of customization options.
