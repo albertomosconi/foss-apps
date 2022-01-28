@@ -16,7 +16,7 @@ def replace_chunk(content, marker, chunk):
 def build_readme(apps_dict):
     readme_contents = readme.open().read()
 
-    count = functools.reduce(lambda a, b: a+b, [len(cat) for cat in list(apps_dict.values())])
+    count = functools.reduce(lambda a, b: a+b, [len(cat.get("apps")) for cat in list(apps_dict.values())])
 
     app_count_md = f'<img src="https://img.shields.io/badge/{count}-apps-red?style=for-the-badge" alt="App count"/>'
     readme_contents = replace_chunk(readme_contents, "apps-count", app_count_md)
