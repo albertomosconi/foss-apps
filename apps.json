@@ -641,6 +641,13 @@
         "website": "https://www.netguard.me"
       },
       {
+        "name": "PCAPdroid",
+        "description": "Monitor and export the network traffic of your device. The app simulates a VPN to achieve non-root capture but, contrary to a VPN, the traffic is processed locally into the device. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.",
+        "source": "https://github.com/emanuele-f/PCAPdroid",
+        "fdroid": "https://f-droid.org/packages/com.emanuelef.remote_capture",
+        "playstore": "https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture"
+      },
+      {
         "name": "RethinkDNS + Firewall",
         "description": "An open-source, no-root Firewall and DNS resolver with customizable blocklists. Block any app, IP address, or domain name from connecting to the Internet. Keep tabs on outgoing network connections, search through and analyze them.",
         "source": "https://github.com/celzero/rethink-app",
