@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/109-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/50-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -54,7 +54,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 <!-- table-of-contents ends -->
 
 <!-- list starts -->
-## Anime
+## 🇯🇵 Anime
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/axiel7/MoeList)
@@ -62,7 +62,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/axiel7/MoeList "source") [`[playstore]`](https://play.google.com/store/apps/details?id=com.axiel7.moelist "playstore") 
 
-## App Stores
+## 🏪 App Stores
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/gitlab/stars/AuroraOSS/auroradroid)
@@ -90,7 +90,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://gitlab.com/gdroid/gdroidclient "source") [`[f-droid]`](https://f-droid.org/en/packages/org.gdroid.gdroid "f-droid") 
 
-## Browsers
+## 🌐 Browsers
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/bromite/bromite)
@@ -122,7 +122,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/CookieJarApps/SmartCookieWeb "source") [`[f-droid]`](https://f-droid.org/en/packages/com.cookiegames.smartcookie "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.cookiegames.smartcookie "playstore") [`[website]`](https://smartcookieweb.com "website")
 
-## Calculators
+## ➕ Calculators
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/Bubu/android-calculatorpp)
@@ -135,7 +135,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/tranleduy2000/ncalc "source") [`[playstore]`](https://play.google.com/store/apps/details?id=com.duy.calculator.free "playstore") 
 
-## Calendars
+## 📅 Calendars
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/Etar-Group/Etar-Calendar)
@@ -153,7 +153,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/andstatus/todoagenda "source") [`[f-droid]`](https://f-droid.org/en/packages/org.andstatus.todoagenda "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda "playstore") 
 
-## Email Clients
+## 📧 Email Clients
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/M66B/FairEmail)
@@ -166,7 +166,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/k9mail/k-9 "source") [`[f-droid]`](https://f-droid.org/packages/com.fsck.k9 "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.fsck.k9 "playstore") [`[website]`](https://k9mail.app "website")
 
-## Emulators
+## 🕹 Emulators
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/Swordfish90/Lemuroid)
@@ -179,7 +179,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/libretro/RetroArch "source") [`[playstore]`](https://play.google.com/store/apps/details?id=com.retroarch "playstore") [`[website]`](https://www.libretro.com "website")
 
-## Entertainment
+## 🎥 Entertainment
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/AntennaPod/AntennaPod)
@@ -207,7 +207,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/twireapp/Twire "source") [`[f-droid]`](https://f-droid.org/packages/com.perflyst.twire "f-droid") 
 
-## File Managers
+## 📂 File Managers
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/TeamAmaze/AmazeFileManager)
@@ -225,7 +225,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/zhanghai/MaterialFiles "source") [`[f-droid]`](https://f-droid.org/packages/me.zhanghai.android.files "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=me.zhanghai.android.files "playstore") 
 
-## Games
+## 🎮 Games
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/veloce/lichobile)
@@ -248,7 +248,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/albertomosconi/TalpaSplat3 "source") [`[playstore]`](https://play.google.com/store/apps/details?id=it.albertomosconi.talpasplat3 "playstore") 
 
-## Keyboards
+## ⌨ Keyboards
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/VladThodo/behe-keyboard)
@@ -281,7 +281,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/rkkr/simple-keyboard "source") [`[f-droid]`](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod "playstore") 
 
-## Launchers
+## 📱 Launchers
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/Neamar/KISS)
@@ -304,7 +304,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/amirzaidi/Launcher3 "source") [`[f-droid]`](https://f-droid.org/packages/amirz.rootless.nexuslauncher "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher "playstore") 
 
-## Learning
+## 🎓 Learning
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/aeri/Nihonoari-App)
@@ -312,7 +312,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/aeri/Nihonoari-App "source") [`[f-droid]`](https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/ "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.LAPARCELA.nihonoari "playstore") 
 
-## Maps
+## 🗺 Maps
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/organicmaps/organicmaps)
@@ -340,7 +340,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/grote/transportr "source") [`[f-droid]`](https://f-droid.org/packages/de.grobox.liberario "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=de.grobox.liberario "playstore") [`[website]`](https://transportr.app "website")
 
-## Media Viewers and Players
+## ⏯ Media Viewers and Players
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/gitlab/stars/axet/android-book-reader)
@@ -398,7 +398,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://code.videolan.org/videolan/VLC-android "source") [`[f-droid]`](https://f-droid.org/en/packages/org.videolan.vlc "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.videolan.vlc "playstore") [`[website]`](https://www.videolan.org/vlc "website")
 
-## Password Managers
+## 🔑 Password Managers
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/bitwarden/mobile)
@@ -411,7 +411,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/Kunzisoft/KeePassDX "source") [`[f-droid]`](https://www.f-droid.org/packages/com.kunzisoft.keepass.libre "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free "playstore") [`[website]`](https://www.keepassdx.com "website")
 
-## Productivity
+## 👩‍🔧 Productivity
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/iSoron/uhabits)
@@ -449,7 +449,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/tasks/tasks "source") [`[f-droid]`](https://f-droid.org/packages/org.tasks "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.tasks "playstore") [`[website]`](https://tasks.org "website")
 
-## Programming
+## 💻 Programming
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/termux/termux-app)
@@ -457,7 +457,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/termux/termux-app "source") [`[f-droid]`](https://f-droid.org/packages/com.termux "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.termux "playstore") [`[website]`](https://termux.com "website")
 
-## Security and Privacy
+## 🔐 Security and Privacy
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/AdAway/AdAway)
@@ -515,7 +515,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://gitlab.com/xynngh/YetAnotherCallBlocker "source") [`[f-droid]`](https://f-droid.org/packages/dummydomain.yetanothercallblocker "f-droid") 
 
-## Social Media
+## 👥 Social Media
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/austinhuang0131/barinsta)
@@ -568,7 +568,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/TwidereProject/Twidere-Android "source") [`[f-droid]`](https://f-droid.org/packages/org.mariotaku.twidere "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.mariotaku.twidere "playstore") [`[website]`](https://twidere.com "website")
 
-## Synchronization
+## 🔄 Synchronization
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/nextcloud/android)
@@ -581,7 +581,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/syncthing/syncthing-android "source") [`[f-droid]`](https://f-droid.org/packages/com.nutomic.syncthingandroid "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid "playstore") [`[website]`](https://syncthing.net "website")
 
-## System Info
+## ℹ System Info
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/asksven/BetterBatteryStats)
@@ -594,7 +594,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/kamgurgul/cpu-info "source") [`[f-droid]`](https://f-droid.org/packages/com.kgurgul.cpuinfo "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo "playstore") 
 
-## Texting and Phone
+## 💬 Texting and Phone
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/deltachat/deltachat-android)
@@ -622,7 +622,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/signalapp/Signal-Android "source") [`[playstore]`](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms "playstore") [`[website]`](https://signal.org "website")
 
-## Utilities
+## 🛠 Utilities
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/shmykelsa/AA-Tweaker)
@@ -665,7 +665,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/Hash-Studios/Prism "source") [`[playstore]`](https://play.google.com/store/apps/details?id=com.hash.prism "playstore") 
 
-## Weather
+## ⛅ Weather
 **[`^ back to top ^`](#table-of-contents)**
 
 - ![Stars](https://badgen.net/github/stars/WangDaYeeeeee/GeometricWeather)
