@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import requests, sys, json, pathlib, bisect
+import requests, sys, json, pathlib, bisect, math
 
 def exit_with_error(message):
     print(f"\033[01m\033[31m{message}\033[0m")
@@ -25,7 +25,23 @@ def test_link(link, empty=True):
         exit_with_error(f"{testing_message} ERROR")
 
 
+def display_categories():
+    n = math.ceil(len(apps)/3)
+    cats = list(apps.keys())
+    
+    col1, col2, col3 = cats[:n], cats[n:2*n], cats[2*n:]
+    if len(col3) < len(col1):
+        col3.append("")
+    maxlen1 = len(max(col1, key=len))
+    maxlen2 = len(max(col2, key=len))
+
+    for i,j,k in zip(col1, col2, col3):
+        print(f"{i.ljust(maxlen1, ' ')}\t{j.ljust(maxlen2, ' ')}\t{k}")
+    print()
+
+
 def new_category():
+    display_cateogories()
     while True:
         name = input("name: ").strip().lower()
         if name in apps:
@@ -46,6 +62,7 @@ def new_category():
 
 def new_app():
     new_app = {}
+    display_categories()
     while True:
         category = input("category: ")
         if category not in apps:
