@@ -435,6 +435,13 @@
                 "playstore": "https://play.google.com/store/apps/details?id=com.brouken.player"
             },
             {
+                "source": "https://github.com/UnevenSoftware/LeafPic",
+                "name": "LeafPic",
+                "description": "A fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery. NO LONGER MAINTAINED.",
+                "fdroid": "https://f-droid.org/app/org.horaapps.leafpic",
+                "playstore": "https://play.google.com/store/apps/details?id=org.horaapps.leafpic"
+            },
+            {
                 "name": "MPV",
                 "description": "A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.",
                 "source": "https://github.com/mpv-android/mpv-android",
