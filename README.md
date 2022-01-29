@@ -398,10 +398,10 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 	[`[source]`](https://github.com/leonlatsch/photok "source") [`[f-droid]`](https://f-droid.org/packages/dev.leonlatsch.photok "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=dev.leonlatsch.photok "playstore") 
 
-- ![Stars](https://badgen.net/github/stars/h4h13/RetroMusicPlayer)
+- ![Stars](https://badgen.net/github/stars/RetroMusicPlayer/RetroMusicPlayer)
 **Retro Music Player**: Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.
 
-	[`[source]`](https://github.com/h4h13/RetroMusicPlayer "source") [`[playstore]`](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic "playstore") [`[website]`](https://hemanths.dev/#/retro-music "website")
+	[`[source]`](https://github.com/RetroMusicPlayer/RetroMusicPlayer "source") [`[playstore]`](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic "playstore") [`[website]`](https://retromusic.app "website")
 
 - ![Stars](https://badgen.net/github/stars/SimpleMobileTools/Simple-Gallery)
 **Simple Gallery**: A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.
