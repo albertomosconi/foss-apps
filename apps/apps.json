@@ -472,9 +472,9 @@
             {
                 "name": "Retro Music Player",
                 "description": "Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.",
-                "source": "https://github.com/h4h13/RetroMusicPlayer",
+                "source": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
                 "playstore": "https://play.google.com/store/apps/details?id=code.name.monkey.retromusic",
-                "website": "https://hemanths.dev/#/retro-music"
+                "website": "https://retromusic.app"
             },
             {
                 "name": "Simple Gallery",
