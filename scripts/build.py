@@ -86,6 +86,9 @@ if __name__ == "__main__":
     json_dir = root / "apps"
     categories_dir = root / "categories"
     
+    if not categories_dir.exists():
+        pathlib.Path.mkdir(categories_dir)
+    
     categories = parse_categories()
     n_apps = count_apps()
     build_readme()
