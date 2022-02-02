@@ -62,29 +62,6 @@ Any app suggestion is more than welcome and should be submitted via an [issue](h
 
 Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md 'CONTRIBUTING GUIDELINES').
 
-## Use this list in your project
-
-**[`^ back to top ^`](#title)**
-
-Since the list of apps in stored in [`JSON`](https://en.wikipedia.org/wiki/JSON 'JSON') format, it can easily be retrieved with a GET request at the following url
-
-```
-https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps.json
-```
-
-For example with this Javascript code you can have access to the list in the form of an object
-
-```javascript
-fetch(
-  'https://raw.githubusercontent.com/albertomosconi/foss-apps/main/apps/apps.json',
-)
-  .then((res) => res.json())
-  .then((list) => {
-    // this will print an array with all the apps in the 'browsers' category
-    console.log(list['browsers']);
-  });
-```
-
 ## Acknowledgments
 
 **[`^ back to top ^`](#title)**
