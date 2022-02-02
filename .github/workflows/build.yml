@@ -29,5 +29,5 @@ jobs:
       - name: commit and push if something changed
         run: |-
           git add -A
-          git commit -m "`bot: rebuild content`" || exit 0
+          git commit -m "bot: rebuild content" || exit 0
           git push
