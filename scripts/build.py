@@ -1,9 +1,10 @@
 import functools, json, pathlib, re
 
 
-def parse_apps():
-    with open(root / "apps" / "apps.json", "r") as file:
-        return json.load(file)
+def parse_categories():
+    cats = list(filter(lambda f: f.suffix == ".json", pathlib.Path.iterdir(json_dir)))
+    
+    return cats
 
 
 def replace_chunk(content, marker, chunk):
@@ -13,28 +14,25 @@ def replace_chunk(content, marker, chunk):
     return r.sub(chunk, content)
 
 
-def build_readme(apps_dict):
-    readme_contents = readme.open().read()
+def count_apps():
+    count = 0
+    for cat in categories:
+        with cat.open("r") as f:
+            cat_json = json.load(f)
+            count += len(cat_json.get("apps"))
 
-    count = functools.reduce(lambda a, b: a+b, [len(cat.get("apps")) for cat in list(apps_dict.values())])
+    return count
 
-    app_count_md = f'<img src="https://img.shields.io/badge/{count}-apps-red?style=for-the-badge" alt="App count"/>'
-    readme_contents = replace_chunk(readme_contents, "apps-count", app_count_md)
 
-    sorted_categories = list(apps_dict.keys())
-    sorted_categories.sort()
+def build_category(cat):
+    with cat.open("r") as f:
+            cat_json = json.load(f)
+    
+    md_file = categories_dir / (cat.stem + ".md")
+    with md_file.open("w") as f:
+        lines = [f'# {cat_json.get("emoji")} {cat_json.get("title")}', '']
 
-    toc_lines = []
-    list_lines = []
-    for category in sorted_categories:
-        title = " ".join(w.title() if w != "and" else "and" for w in category.split(" "))
-        link = category.replace(" ", "-")
-        emoji = apps_dict.get(category).get("emoji")
-
-        toc_lines.append(f"- [{title}](#{link} \"{title}\")")
-        list_lines.append(f'<h2 id="{link}">{emoji} {title}</h2>\n\n**[`^ back to top ^`](#table-of-contents)**\n'"")
-
-        for app in apps_dict.get(category).get("apps"):
+        for app in cat_json.get("apps"):
             name = app.get("name")
             description = app.get("description")
             source = app.get("source")
@@ -57,18 +55,39 @@ def build_readme(apps_dict):
             new_line += f"[`[website]`]({website} \"website\")" if website else ""
             new_line += "\n"
 
-            list_lines.append(new_line)
-    
+            lines.append(new_line)
+
+        f.write("\n".join(lines))
+
+def build_readme():
+    readme_contents = (root / "README.md").open("r").read()
+
+    app_count_md = f'<img src="https://img.shields.io/badge/{n_apps}-apps-red?style=for-the-badge" alt="App count"/>'
+    readme_contents = replace_chunk(readme_contents, "apps-count", app_count_md)
+
+    sorted_categories = list(categories)
+    sorted_categories.sort()
+
+    toc_lines = [""]
+    for category in sorted_categories:
+        with category.open("r") as f:
+            json_cat = json.load(f)
+            title = json_cat.get("title")
+        link = category.stem
+        toc_lines.append(f"- [{title}](categories/{link}.md)")
     readme_contents = replace_chunk(readme_contents, "table-of-contents", "\n".join(toc_lines))
-    readme_contents = replace_chunk(readme_contents, "list", "\n".join(list_lines))
-    
-    return readme_contents
+
+    (root / "README.md").open("w").write(readme_contents)
 
 
 if __name__ == "__main__":
-    root = pathlib.Path(__file__).parent.resolve()
-    readme = root / "README.md"
-
-    apps = parse_apps()
-    rewritten = build_readme(apps)
-    readme.open("w").write(rewritten)
+    root = pathlib.Path(__file__).parent.parent.resolve()
+    scripts_dir = root / "scripts"
+    json_dir = root / "apps"
+    categories_dir = root / "categories"
+    
+    categories = parse_categories()
+    n_apps = count_apps()
+    build_readme()
+    for category in categories:
+        build_category(category)
