@@ -19,8 +19,6 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 **[`SUGGEST A NEW APP`](#suggestions 'SUGGEST A NEW APP')**
 
-**[`Use this list in your project`](#use-this-list-in-your-project 'Use this list in your project')**
-
 **[`Acknowledgments`](#acknowledgments 'Acknowledgments')**
 
 ## Table of Contents
@@ -60,7 +58,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 
 Any app suggestion is more than welcome and should be submitted via an [issue](https://github.com/albertomosconi/foss-apps/issues/new?assignees=&labels=app+suggestion&template=app-suggestion.md&title= 'issue'). Please use the given issue template. This is also the fastest way for your suggestion to be added to the list!
 
-Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md 'CONTRIBUTING GUIDELINES').
+Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](CONTRIBUTING.md).
 
 ## Acknowledgments
 
