@@ -15,16 +15,19 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: '3.10'
 
       - name: update readme
         run: |-
           python scripts/build.py
 
-      - name: commit and push if readme changed
+      - name: config bot
         run: |-
-          git diff
           git config --global user.email "readme-bot@fossapps.com"
           git config --global user.name "readme-bot"
-          git diff --quiet || (git add README.md categories/* && git commit -m "bot: rebuild")
+
+      - name: commit and push if something changed
+        run: |-
+          git add -A
+          git commit -m "`bot: rebuild content`" || exit 0
           git push
