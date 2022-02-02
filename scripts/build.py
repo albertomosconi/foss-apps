@@ -30,7 +30,7 @@ def build_category(cat):
     
     md_file = categories_dir / (cat.stem + ".md")
     with md_file.open("w") as f:
-        lines = [f'# {cat_json.get("emoji")} {cat_json.get("title")}', '']
+        lines = [f'# {cat_json.get("emoji")} {cat_json.get("title")}', '[`< go back home`](../README.md)']
 
         for app in cat_json.get("apps"):
             name = app.get("name")
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     scripts_dir = root / "scripts"
     json_dir = root / "apps"
     categories_dir = root / "categories"
-    
+
     if not categories_dir.exists():
         pathlib.Path.mkdir(categories_dir)
     
