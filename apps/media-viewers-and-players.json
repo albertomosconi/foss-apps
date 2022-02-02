@@ -1,0 +1,94 @@
+{
+    "title": "Media Viewers and Players",
+    "emoji": "\u23ef",
+    "apps": [
+        {
+            "name": "BookReader",
+            "description": "An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.",
+            "source": "https://gitlab.com/axet/android-book-reader",
+            "fdroid": "https://f-droid.org/packages/com.github.axet.bookreader",
+            "playstore": "https://play.google.com/store/apps/details?id=com.github.axet.bookreader"
+        },
+        {
+            "name": "Librera Reader",
+            "description": "An e-book reader for Android devices; it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, and OPDS Catalogs.",
+            "source": "https://github.com/foobnix/LibreraReader",
+            "fdroid": "https://f-droid.org/packages/com.foobnix.pro.pdf.reader",
+            "playstore": "https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader",
+            "website": "https://librera.mobi"
+        },
+        {
+            "name": "Just (Video) Player",
+            "description": "A simple and lightweight, yet polished and powerful Android video player based on ExoPlayer, compatible with Android 5+ and Android TV.",
+            "source": "https://github.com/moneytoo/Player",
+            "fdroid": "https://f-droid.org/packages/com.brouken.player/",
+            "playstore": "https://play.google.com/store/apps/details?id=com.brouken.player"
+        },
+        {
+            "source": "https://github.com/UnevenSoftware/LeafPic",
+            "name": "LeafPic",
+            "description": "A fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery. NO LONGER MAINTAINED.",
+            "fdroid": "https://f-droid.org/app/org.horaapps.leafpic",
+            "playstore": "https://play.google.com/store/apps/details?id=org.horaapps.leafpic"
+        },
+        {
+            "name": "MPV",
+            "description": "A video player for Android based on libmpv. It features hardware and software video decoding, gesture-based seeking and volume/brightness control, libass support for styled subtitles, and url streaming.",
+            "source": "https://github.com/mpv-android/mpv-android",
+            "fdroid": "https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv",
+            "playstore": "https://play.google.com/store/apps/details?id=is.xyz.mpv"
+        },
+        {
+            "name": "Music Player GO",
+            "description": "A simple yet fully-featured local music player aiming at simplicity and performance.",
+            "source": "https://github.com/enricocid/Music-Player-GO",
+            "fdroid": "https://f-droid.org/packages/com.iven.musicplayergo",
+            "playstore": "https://play.google.com/store/apps/details?id=com.iven.musicplayergo"
+        },
+        {
+            "name": "Nova Video Player",
+            "description": "An open source video player for Android designed for tablets, phones and AndroidTV devices. A fork of the original Archos Video Player Community Edition.",
+            "source": "https://github.com/nova-video-player/aos-AVP",
+            "fdroid": "https://f-droid.org/packages/org.courville.nova",
+            "playstore": "https://play.google.com/store/apps/details?id=org.courville.nova"
+        },
+        {
+            "name": "Photok",
+            "description": "a free Photo-Safe. It stores your photos encrypted on your device and hides them from others. It uses technologies like, AES-256 encryption standard or bcrypt, to keep your photos secure. Photok is completely free, open source, and contains no ads.",
+            "source": "https://github.com/leonlatsch/photok",
+            "fdroid": "https://f-droid.org/packages/dev.leonlatsch.photok",
+            "playstore": "https://play.google.com/store/apps/details?id=dev.leonlatsch.photok"
+        },
+        {
+            "name": "Retro Music Player",
+            "description": "Material design music player with simple interface and lots of features such as driving mode, smart auto playlists, 30+ language support, lyrics screen (download and sync with music), gapless playback, folder support and more.",
+            "source": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
+            "playstore": "https://play.google.com/store/apps/details?id=code.name.monkey.retromusic",
+            "website": "https://retromusic.app"
+        },
+        {
+            "name": "Simple Gallery",
+            "description": "A highly customizable lightweight gallery loved by millions of people for its great user experience. Organize and edit your photos, recover deleted files with the recycle bin, protect & hide files and easily view a huge variety of different photo and video formats including RAW, SVG, GIF, panoramic and much more.",
+            "source": "https://github.com/SimpleMobileTools/Simple-Gallery",
+            "fdroid": "https://f-droid.org/packages/com.simplemobiletools.gallery.pro",
+            "playstore": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery",
+            "website": "https://www.simplemobiletools.com/gallery"
+        },
+        {
+            "name": "Vinyl Music Player",
+            "description": "A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.",
+            "source": "https://github.com/AdrienPoupa/VinylMusicPlayer",
+            "fdroid": "https://f-droid.org/packages/com.poupa.vinylmusicplayer",
+            "playstore": "https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer"
+        },
+        {
+            "name": "VLC",
+            "description": "A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
+            "stars_link": "https://img.shields.io/badge/dynamic/json?label=\u2605&query=$.star_count&url=https://code.videolan.org/api/v4/projects/36",
+            "source": "https://code.videolan.org/videolan/VLC-android",
+            "fdroid": "https://f-droid.org/en/packages/org.videolan.vlc",
+            "playstore": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+            "website": "https://www.videolan.org/vlc"
+        }
+    ]
+}

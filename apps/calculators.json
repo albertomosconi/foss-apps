@@ -1,0 +1,18 @@
+{
+    "title": "Calculators",
+    "emoji": "\u2795",
+    "apps": [
+        {
+            "name": "Calculator++",
+            "description": "A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.",
+            "source": "https://github.com/Bubu/android-calculatorpp",
+            "fdroid": "https://f-droid.org/packages/org.solovyev.android.calculator"
+        },
+        {
+            "name": "ncalc",
+            "description": "A powerful android calculator that contains most of the features needed. The power of the application is through the use of the Symja library. The results are displayed by Latex.",
+            "source": "https://github.com/tranleduy2000/ncalc",
+            "playstore": "https://play.google.com/store/apps/details?id=com.duy.calculator.free"
+        }
+    ]
+}

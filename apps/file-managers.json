@@ -1,0 +1,27 @@
+{
+    "title": "File Managers",
+    "emoji": "\ud83d\udcc2",
+    "apps": [
+        {
+            "name": "Amaze",
+            "description": "An Open Source, light and smooth file manager that follows material design guidelines. It allows to work on multiple tabs at the same time, quickly access history, bookmarks and to search for any file.",
+            "source": "https://github.com/TeamAmaze/AmazeFileManager",
+            "fdroid": "https://f-droid.org/packages/com.amaze.filemanager",
+            "playstore": "https://play.google.com/store/apps/details?id=com.amaze.filemanager"
+        },
+        {
+            "name": "lrkFM",
+            "description": "Free and open source file manager for Android with focus on archive extraction (.tar, .tar.gz, .zip, .7z and .rar (but not RARv5)) and creation (.zip).",
+            "source": "https://github.com/lfuelling/lrkFM",
+            "fdroid": "https://apt.izzysoft.de/fdroid/index/apk/io.lerk.lrkFM",
+            "playstore": "https://play.google.com/store/apps/details?id=io.lerk.lrkFM"
+        },
+        {
+            "name": "Material Files",
+            "description": "An open source Material Design file manager, for Android 5.0+.",
+            "source": "https://github.com/zhanghai/MaterialFiles",
+            "fdroid": "https://f-droid.org/packages/me.zhanghai.android.files",
+            "playstore": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files"
+        }
+    ]
+}

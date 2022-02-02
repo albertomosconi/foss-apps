@@ -1,0 +1,13 @@
+{
+    "title": "Learning",
+    "emoji": "\ud83c\udf93",
+    "apps": [
+        {
+            "name": "Nihonoari",
+            "description": "An Open Source project to provide the community of Japanese learners with a simple app to memorize and practice the Hiragana and Katakana alphabets without adverts, in-app purchases and useless functions, simpler is better.",
+            "source": "https://github.com/aeri/Nihonoari-App",
+            "fdroid": "https://f-droid.org/en/packages/com.LAPARCELA.nihonoari/",
+            "playstore": "https://play.google.com/store/apps/details?id=com.LAPARCELA.nihonoari"
+        }
+    ]
+}

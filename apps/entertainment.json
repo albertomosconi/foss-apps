@@ -1,0 +1,41 @@
+{
+    "title": "Entertainment",
+    "emoji": "\ud83c\udfa5",
+    "apps": [
+        {
+            "name": "AntennaPod",
+            "description": "An easy-to-use, flexible and open-source podcast manager for Android.",
+            "source": "https://github.com/AntennaPod/AntennaPod",
+            "fdroid": "https://f-droid.org/packages/de.danoeh.antennapod",
+            "playstore": "https://play.google.com/store/apps/details?id=de.danoeh.antennapod",
+            "website": "https://antennapod.org"
+        },
+        {
+            "name": "Feeder",
+            "description": "This is a no-nonsense RSS/Atom/JSON feed reader app for Android, with offline reading, notification support, OPML import/export and material design.",
+            "source": "https://gitlab.com/spacecowboy/Feeder",
+            "fdroid": "https://f-droid.org/packages/com.nononsenseapps.feeder/",
+            "playstore": "https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play"
+        },
+        {
+            "name": "NewPipe",
+            "description": "A libre lightweight streaming frontend for Android. NewPipe does not use any Google framework libraries, nor the YouTube API. Websites are only parsed to fetch required info, so this app can be used on devices without Google services installed. Also, you don't need a YouTube account to use NewPipe, which is copylefted libre software.",
+            "source": "https://github.com/TeamNewPipe/NewPipe",
+            "fdroid": "https://f-droid.org/packages/org.schabi.newpipe",
+            "website": "https://newpipe.schabi.org"
+        },
+        {
+            "name": "Tachiyomi",
+            "description": "Free and open source manga reader for Android, supports online reading from sources such as MangaDex, MangaSee, Mangakakalot, and more. Local reading of downloaded manga. A configurable reader with multiple viewers, reading directions and other settings, and much more.",
+            "source": "https://github.com/inorichi/tachiyomi",
+            "fdroid": "https://f-droid.org/en/packages/eu.kanade.tachiyomi",
+            "website": "https://tachiyomi.org"
+        },
+        {
+            "name": "Twire",
+            "description": "An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.",
+            "source": "https://github.com/twireapp/Twire",
+            "fdroid": "https://f-droid.org/packages/com.perflyst.twire"
+        }
+    ]
+}

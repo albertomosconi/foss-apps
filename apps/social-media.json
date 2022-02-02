@@ -1,0 +1,80 @@
+{
+    "title": "Social Media",
+    "emoji": "\ud83d\udc65",
+    "apps": [
+        {
+            "name": "Barinsta",
+            "description": "Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.",
+            "source": "https://github.com/austinhuang0131/barinsta",
+            "fdroid": "https://f-droid.org/en/packages/me.austinhuang.instagrabber",
+            "website": "https://barinsta.austinhuang.me/en/latest"
+        },
+        {
+            "name": "Frost",
+            "description": "A third party Facebook wrapper geared towards design and functionality. It contains many features, including: support for multiple accounts and fast switching, full theming across all activities, and more.",
+            "source": "https://github.com/AllanWang/Frost-for-Facebook",
+            "fdroid": "https://f-droid.org/packages/com.pitchedapps.frost",
+            "website": "https://allanwang.github.io/Frost-for-Facebook"
+        },
+        {
+            "name": "Infinity",
+            "description": "This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.",
+            "source": "https://github.com/Docile-Alligator/Infinity-For-Reddit",
+            "playstore": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit"
+        },
+        {
+            "name": "Jami",
+            "description": "A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.",
+            "stars_link": "https://img.shields.io/badge/dynamic/json?label=\u2605&query=$.star_count&url=https://git.jami.net//api/v4/projects/2",
+            "source": "https://git.jami.net/savoirfairelinux/ring-client-android",
+            "fdroid": "https://f-droid.org/packages/cx.ring",
+            "website": "https://jami.net"
+        },
+        {
+            "name": "Jitsi Meet",
+            "description": "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. It lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale.",
+            "source": "https://github.com/jitsi/jitsi-meet",
+            "fdroid": "https://f-droid.org/en/packages/org.jitsi.meet",
+            "playstore": "https://play.google.com/store/apps/details?id=org.jitsi.meet",
+            "website": "https://jitsi.org/jitsi-meet"
+        },
+        {
+            "name": "OctoDroid",
+            "description": "An open source client for GitHub. Access to GitHub and stay connected to your networks. Follow git repository and top users in GitHub. View all users' activities, source codes and manage your issues with OctoDroid.",
+            "source": "https://github.com/slapperwan/gh4a",
+            "fdroid": "https://f-droid.org/packages/com.gh4a",
+            "playstore": "https://play.google.com/store/apps/details?id=com.gh4a",
+            "website": "https://slapperwan.github.io/gh4a"
+        },
+        {
+            "name": "Slide",
+            "description": "An open source, ad-free Reddit browser for Android. It is based around the Java Reddit API Wrapper.",
+            "source": "https://github.com/ccrama/Slide",
+            "fdroid": "https://f-droid.org/packages/me.ccrama.redditslide",
+            "playstore": "https://play.google.com/store/apps/details?id=me.ccrama.redditslide",
+            "website": "https://www.reddit.com/r/slideforreddit"
+        },
+        {
+            "name": "Telegram FOSS",
+            "description": "Unofficial, FOSS-friendly fork of the original Telegram client for Android, a messaging app with a focus on speed and security. It\u2019s superfast, simple and free.",
+            "source": "https://github.com/Telegram-FOSS-Team/Telegram-FOSS",
+            "fdroid": "https://f-droid.org/packages/org.telegram.messenger"
+        },
+        {
+            "name": "Tusky",
+            "description": "A beautiful Android client for Mastodon. Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.",
+            "source": "https://github.com/tuskyapp/Tusky",
+            "fdroid": "https://f-droid.org/packages/com.keylesspalace.tusky",
+            "playstore": "https://play.google.com/store/apps/details?id=com.keylesspalace.tusky",
+            "website": "https://tusky.app"
+        },
+        {
+            "name": "Twidere",
+            "description": "Material Design ready and feature rich Twitter/Mastodon/StatusNet/Fanfou app for Android 4.1+. Supports powerful mute filters, night mode, multiple accounts, customizable tabs.",
+            "source": "https://github.com/TwidereProject/Twidere-Android",
+            "fdroid": "https://f-droid.org/packages/org.mariotaku.twidere",
+            "playstore": "https://play.google.com/store/apps/details?id=org.mariotaku.twidere",
+            "website": "https://twidere.com"
+        }
+    ]
+}
