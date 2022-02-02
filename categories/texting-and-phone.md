@@ -1,5 +1,5 @@
 # 💬 Texting and Phone
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/deltachat/deltachat-android)
 **Delta Chat**: A messaging app that is completely compatible with the existing e-mail infrastructure. So, with Delta Chat you get the ease of well-known messengers with the reach of e-mail. Moreover, you're independent from other companies or services -- as your data are not related to Delta Chat, you won't even add new dependencies here.
 

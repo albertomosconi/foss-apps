@@ -1,5 +1,5 @@
 # 📧 Email
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/M66B/FairEmail)
 **FairEmail**: Fully featured, open source, privacy oriented email app for Android. FairEmail is easy to setup and works with virtually all email providers, including Gmail, Outlook and Yahoo!
 

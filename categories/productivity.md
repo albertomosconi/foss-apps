@@ -1,5 +1,5 @@
 # 👩‍🔧 Productivity
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/GitJournal/GitJournal)
 **GitJournal**: Mobile first notes integrated with GitJournal. It transparently makes commits in your git repo of choice. The files can be stored in Markdown, Txt or OrgMode
 

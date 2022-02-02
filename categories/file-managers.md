@@ -1,5 +1,5 @@
 # 📂 File Managers
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/TeamAmaze/AmazeFileManager)
 **Amaze**: An Open Source, light and smooth file manager that follows material design guidelines. It allows to work on multiple tabs at the same time, quickly access history, bookmarks and to search for any file.
 

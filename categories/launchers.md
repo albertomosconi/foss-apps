@@ -1,5 +1,5 @@
 # 📱 Launchers
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/Neamar/KISS)
 **KISS**: A blazingly fast launcher for android requiring nearly no memory to run. KISS becomes smarter and smarter as you use it, pushing forward results you're more likely to select. Search through your apps, contacts and settings lightning fast. No more time spent trying to find the app you want to launch: enter a few characters of the name and hit enter. Need to call someone? Don't meddle with the call log, just give three letters of their name and push the 'phone' button.
 

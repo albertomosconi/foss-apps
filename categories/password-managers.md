@@ -1,5 +1,5 @@
 # 🔑 Password Managers
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/bitwarden/mobile)
 **Bitwarden**: An open source password manager with End-to-End encryption and cross-platform support. Bitwarden makes it easy to generate, store, and secure unique passwords from any location or device.
 

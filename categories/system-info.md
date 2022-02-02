@@ -1,5 +1,5 @@
 # ⚙ System Info
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/asksven/BetterBatteryStats)
 **BetterBatteryStats**: Analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions: spot drainers based on detailed information about the root cause, detect changes in the awake/sleep profile and quickly find the causes (rogue apps).
 

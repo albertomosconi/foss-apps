@@ -1,5 +1,5 @@
 # 🕹 Emulators
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/Swordfish90/Lemuroid)
 **Lemuroid**: An Android open-source emulation project based on Libretro. It's main goals are ease of use, good Android integration and great user experience.
 

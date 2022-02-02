@@ -1,5 +1,5 @@
 # 🏪 App Stores
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/gitlab/stars/AuroraOSS/auroradroid)
 **Aurora Droid**: An alternative to the default F-Droid app with an intuitive UI and multiple great features, such as a powerful download manager: pause, resume and retry downloading apps, previous releases: enables downloading old releases.
 

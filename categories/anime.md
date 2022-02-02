@@ -1,5 +1,5 @@
 # 🇯🇵 Anime
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/axiel7/MoeList)
 **MoeList**: Another unofficial Android MAL(MyAnimeList) client, track your progress in both anime and mangas. See top charts, search, and manage your list.
 

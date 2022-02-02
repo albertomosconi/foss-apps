@@ -1,5 +1,5 @@
 # 🌐 Browser
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/bromite/bromite)
 **Bromite**: A Chromium fork with ad blocking and privacy enhancements; take back your browser!
 

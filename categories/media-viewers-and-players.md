@@ -1,5 +1,5 @@
 # ⏯ Media Viewers and Players
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/gitlab/stars/axet/android-book-reader)
 **BookReader**: An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
 

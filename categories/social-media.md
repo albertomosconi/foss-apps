@@ -1,5 +1,5 @@
 # 👥 Social Media
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/austinhuang0131/barinsta)
 **Barinsta**: Open-source alternative Instagram client on Android. Barinsta is ad-less, tracker-less and allows you to download posts and stories, and much more.
 

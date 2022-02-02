@@ -1,5 +1,5 @@
 # 🔐 Security and Privacy
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/AdAway/AdAway)
 **AdAway**: An open source ad blocker for Android using the hosts file. The hosts file is a system file that contains a list of mappings between host names and IP addresses. When an app requests an ad from a host in that file, this request is redirected to the local IP 127.0.0.1, which does nothing.
 

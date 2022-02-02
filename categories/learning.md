@@ -1,5 +1,5 @@
 # 🎓 Learning
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/aeri/Nihonoari-App)
 **Nihonoari**: An Open Source project to provide the community of Japanese learners with a simple app to memorize and practice the Hiragana and Katakana alphabets without adverts, in-app purchases and useless functions, simpler is better.
 

@@ -1,5 +1,5 @@
 # 🎮 Games
-
+[`< go back home`](../README.md)
 - ![Stars](https://badgen.net/github/stars/veloce/lichobile)
 **Lichess**: The official chess application for lichess.org, this application is open source and free software. It is entirely free and without ads, now and forever.
 
