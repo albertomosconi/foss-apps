@@ -1,6 +1,17 @@
 #!/usr/bin/env python3
 import requests, sys, json, pathlib, bisect, math
 
+root = pathlib.Path(__file__).parent.parent.resolve()
+category_sources = list(filter(lambda f: f.suffix == ".json", pathlib.Path.iterdir(root/"apps")))
+category_names = [c.stem for c in category_sources]
+emojis = []
+sources = []
+for c in category_sources:
+    json_c = json.load(c.open("r"))
+    emojis.append(json_c.get("emoji"))
+    for a in json_c.get("apps"):
+        sources.append(a.get("source"))
+
 def exit_with_error(message):
     print(f"\033[01m\033[31m{message}\033[0m")
     # sys.exit(1)
@@ -23,13 +34,13 @@ def test_link(link, empty=True):
             raise Exception
     except Exception as e:
         exit_with_error(f"{testing_message} ERROR")
+        raise e
 
 
 def display_categories():
-    n = math.ceil(len(apps)/3)
-    cats = list(apps.keys())
+    n = math.ceil(len(category_names)/3)
     
-    col1, col2, col3 = cats[:n], cats[n:2*n], cats[2*n:]
+    col1, col2, col3 = category_names[:n], category_names[n:2*n], category_names[2*n:]
     if len(col3) < len(col1):
         col3.append("")
     maxlen1 = len(max(col1, key=len))
@@ -41,10 +52,10 @@ def display_categories():
 
 
 def new_category():
-    display_cateogories()
+    display_categories()
     while True:
         name = input("name: ").strip().lower()
-        if name in apps:
+        if name in category_names:
             exit_with_error("ERROR: category already exists")
         else:
             break
@@ -57,22 +68,28 @@ def new_category():
         else:
             break
 
-    apps[name] = {"emoji": emoji, "apps": []}
+    # create new category json file
+    title = " ".join(x.title() if x != "and" else "and" for x in name.split("-"))
+    with open(root/"apps"/f"{name}.json", "w") as f:
+        json.dump({"title": title, "emoji": emoji, "apps": []}, f, indent=4)
 
 
 def new_app():
     new_app = {}
     display_categories()
     while True:
-        category = input("category: ")
-        if category not in apps:
+        category = input("category: ").strip().lower()
+        if category not in category_names:
             exit_with_error("ERROR: category doesn't exist")
         else:
             break
 
     while True:
-        source = input("source: ")
-        test_link(source, empty=False)
+        source = input("source: ").strip().lower()
+        try:
+            test_link(source, empty=False)
+        except:
+            continue
         if source in sources:
             exit_with_error("ERROR: source already exists")
         else:
@@ -84,22 +101,25 @@ def new_app():
     for k in required_fields + optional_fields:
         while True:
             v = input(f"{k}: ").strip()
-            if v in optional_fields:
-                test_link(v)
             if v != "":
-                new_app[k] = v
-                break
+                try:
+                    if k in optional_fields:
+                        test_link(v)
+                    new_app[k] = v
+                    break
+                except:
+                    continue
             elif k in optional_fields:
                 break
+            else:
+                exit_with_error("this field is required.")
                 
     # insert in app list for given category in alphabetical order
-    bisect.insort(apps[category]["apps"], new_app, key=lambda x: x.get("name").lower())
-
-
-root = pathlib.Path(__file__).parent.resolve()
-apps = json.load(open(root / "apps.json", "r"))
-emojis = [apps.get(c).get("emoji") for c in apps]
-sources = [[a.get("source") for a in apps.get(c).get("apps")] for c in apps]
+    with open(root/"apps"/(category+".json"), "r") as f:
+        json_c = json.load(f)
+    bisect.insort(json_c["apps"], new_app, key=lambda x: x.get("name").lower())
+    with open(root/"apps"/(category+".json"), "w") as f:
+        json.dump(json_c, f, indent=4)
 
 try:
     cmd = int(input("[0] new app\t[1] new category\n> "))
@@ -107,9 +127,6 @@ try:
         new_category()
     else:
         new_app()
-    
-    with (root/"apps.json").open("w", encoding='utf-8') as f:
-        json.dump(apps, f, indent=4)
 
 except KeyboardInterrupt:
     exit_with_error("\nTerminating")
