@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
 title: Best Open Source Android Apps
+baseurl: "/foss-apps"
+url: ""
+theme: jekyll-theme-minimal
