@@ -10,6 +10,11 @@
 
 	[`[source]`](https://gitlab.com/AuroraOSS/AuroraStore "source") [`[f-droid]`](https://f-droid.org/en/packages/com.aurora.store "f-droid") [`[website]`](https://auroraoss.com/app_info.php?app_id=1 "website")
 
+- ![Stars](https://badgen.net/gitlab/stars/NeoApplications/Neo-Store)
+**Droid-ify**: A quick material F-Droid client. An alternative client app to browse the F-Droid repository. Based on Material Design 3 (Android 12). You can simply add a lot of repositories (like bitwarden, or izzydroid) with a single click.
+
+	[`[source]`](https://github.com/NeoApplications/Neo-Store "source") [`[f-droid]`](https://f-droid.org/packages/com.looker.droidify/ "f-droid")
+	
 - ![Stars](https://badgen.net/gitlab/stars/fdroid/fdroidclient)
 **F-Droid**: An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
