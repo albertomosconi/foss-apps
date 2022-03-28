@@ -15,6 +15,11 @@
 
 	[`[source]`](https://github.com/TeamNewPipe/NewPipe "source") [`[f-droid]`](https://f-droid.org/packages/org.schabi.newpipe "f-droid") [`[website]`](https://newpipe.schabi.org "website")
 
+- ![Stars](https://badgen.net/github/stars/libre-tube/LibreTube)
+**LibreTube**: Alternative YouTube frontend for Android built with Piped. Based on Material Design 3 (Android 12 Design). Beta Stage.
+
+	[`[source]`](https://github.com/libre-tube/LibreTube "source") [`[f-droid]`](https://f-droid.org/packages/com.github.libretube/ "f-droid")
+
 - ![Stars](https://badgen.net/github/stars/inorichi/tachiyomi)
 **Tachiyomi**: Free and open source manga reader for Android, supports online reading from sources such as MangaDex, MangaSee, Mangakakalot, and more. Local reading of downloaded manga. A configurable reader with multiple viewers, reading directions and other settings, and much more.
 
