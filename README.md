@@ -13,7 +13,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 </p>
 </div>
 
-A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on FDroid.
+A collection of great open source applications to replace proprietary ones on Android. Most of these apps are available on F-Droid.
 
 _I'm not affiliated with these apps, I'm just sharing them because I think they're awesome._
 
