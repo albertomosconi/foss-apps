@@ -21,7 +21,7 @@
 
 - **KDE Connect**: Native Android port of the KDE Connect Qt app. KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
-    ![Stars](https://img.shields.io/badge/dynamic/json?label=★&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72) 
+    ![Stars](https://img.shields.io/badge/dynamic/json?label=stars&query=%24.star_count&url=https%3A%2F%2Finvent.kde.org%2Fapi%2Fv4%2Fprojects%2F72) 
 
     [`[source]`](https://invent.kde.org/network/kdeconnect-android "source") [`[f-droid]`](https://f-droid.org/packages/org.kde.kdeconnect_tp "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp "playstore") [`[website]`](https://community.kde.org/KDEConnect "website")
 

@@ -21,7 +21,7 @@
 
 - **Jami**: A free distributed multimedia communication software. Jami allows to make audio or video calls, and to send messages, safely and freely, in confidence. Jami is a Free and open source software that requires no central server.
 
-    ![Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://git.jami.net//api/v4/projects/2) 
+    ![Stars](https://img.shields.io/badge/dynamic/json?label=stars&query=$.star_count&url=https://git.jami.net//api/v4/projects/2) 
 
     [`[source]`](https://git.jami.net/savoirfairelinux/ring-client-android "source") [`[f-droid]`](https://f-droid.org/packages/cx.ring "f-droid")  [`[website]`](https://jami.net "website")
 

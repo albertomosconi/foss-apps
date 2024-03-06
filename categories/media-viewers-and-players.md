@@ -69,6 +69,6 @@
 
 - **VLC**: A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
-    ![Stars](https://img.shields.io/badge/dynamic/json?label=★&query=$.star_count&url=https://code.videolan.org/api/v4/projects/36) 
+    ![Stars](https://img.shields.io/badge/dynamic/json?label=stars&query=$.star_count&url=https://code.videolan.org/api/v4/projects/36) 
 
     [`[source]`](https://code.videolan.org/videolan/VLC-android "source") [`[f-droid]`](https://f-droid.org/en/packages/org.videolan.vlc "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.videolan.vlc "playstore") [`[website]`](https://www.videolan.org/vlc "website")
