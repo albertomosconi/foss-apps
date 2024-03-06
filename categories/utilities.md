@@ -34,3 +34,8 @@
 **MNML**: Pronounced 'minimal', is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
 
 	[`[source]`](https://github.com/afollestad/mnml "source") [`[playstore]`](https://play.google.com/store/apps/details?id=com.afollestad.mnmlscreenrecord "playstore") 
+
+- ![Stars](https://badgen.net/github/stars/mirfatif/PermissionManagerX)
+**Permission Manager X**: eXtended Permission Manager for Android - view and set Manifest Permissions and AppOps. View, grant or revoke manifest permissions; view AppOps permissions and choose one of multiple modes; set your desired reference value for every changeable permission.
+
+	[`[source]`](https://github.com/mirfatif/PermissionManagerX "source") [`[f-droid]`](https://f-droid.org/packages/com.mirfatif.permissionmanagerx "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx "playstore") [`[website]`](https://mirfatif.github.io/PermissionManagerX/help/en "website")

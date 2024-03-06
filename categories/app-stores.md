@@ -10,6 +10,11 @@
 
 	[`[source]`](https://gitlab.com/AuroraOSS/AuroraStore "source") [`[f-droid]`](https://f-droid.org/en/packages/com.aurora.store "f-droid") [`[website]`](https://auroraoss.com/app_info.php?app_id=1 "website")
 
+- ![Stars](https://badgen.net/github/stars/Droid-ify/client)
+**Droid-ify**: A quick material F-Droid client: clean material design, fast repository syncing, smooth user experience and feature-rich.
+
+	[`[source]`](https://github.com/Droid-ify/client "source") [`[f-droid]`](https://f-droid.org/packages/com.looker.droidify "f-droid") [`[website]`](https://droidify.eu.org "website")
+
 - ![Stars](https://badgen.net/gitlab/stars/fdroid/fdroidclient)
 **F-Droid**: An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
