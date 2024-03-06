@@ -49,23 +49,32 @@ def build_category(cat):
             )
             if m == None:
                 stars_link = app.get("stars_link")
+                last_commit_link = app.get("last_commit_link")
             else:
                 stars_link = (
                     f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
                 )
+                last_commit_link = f"https://img.shields.io/{m.group(1)}/last-commit/{'/'.join(m.group(2,3))}"
 
-            new_line = "- "
-            new_line += f"![Stars]({stars_link})\n" if stars_link else ""
-            new_line += f"**{name}**: {description}\n\n\t"
-            new_line += f'[`[source]`]({source} "source") '
-            new_line += f'[`[f-droid]`]({fdroid} "f-droid") ' if fdroid else ""
-            new_line += (
-                f'[`[playstore]`]({playstore} "playstore") ' if playstore else ""
+            badge_stars = f"![Stars]({stars_link})" if stars_link else ""
+            badge_commit = (
+                f"![last commit]({last_commit_link})" if last_commit_link else ""
             )
-            new_line += f'[`[website]`]({website} "website")' if website else ""
-            new_line += "\n"
+            link_source = f'[`[source]`]({source} "source")'
+            link_fdroid = f'[`[f-droid]`]({fdroid} "f-droid")' if fdroid else ""
+            link_playstore = (
+                f'[`[playstore]`]({playstore} "playstore")' if playstore else ""
+            )
+            link_website = f'[`[website]`]({website} "website")' if website else ""
 
-            lines.append(new_line)
+            lines.append(
+                f"""
+- **{name}**: {description}
+
+    {badge_stars} {badge_commit}
+
+    {link_source} {link_fdroid} {link_playstore} {link_website}"""
+            )
 
         f.write("\n".join(lines))
 
