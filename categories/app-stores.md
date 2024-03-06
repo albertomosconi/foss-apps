@@ -24,3 +24,8 @@
 **G-Droid**: An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc.
 
 	[`[source]`](https://gitlab.com/gdroid/gdroidclient "source") [`[f-droid]`](https://f-droid.org/en/packages/org.gdroid.gdroid "f-droid") 
+
+- ![Stars](https://badgen.net/github/stars/neoapplications/neo-store)
+**Neo Store**: A modern and feature-rich F-Droid client: fast repository sync times, awesome built-in repositories, easy exploration of new apps, minimalism with KISS principles.
+
+	[`[source]`](https://github.com/neoapplications/neo-store "source") [`[f-droid]`](https://f-droid.org/packages/com.machiav3lli.fdroid/ "f-droid") 
