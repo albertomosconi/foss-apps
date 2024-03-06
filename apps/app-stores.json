@@ -33,6 +33,12 @@
             "description": "An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc.",
             "source": "https://gitlab.com/gdroid/gdroidclient",
             "fdroid": "https://f-droid.org/en/packages/org.gdroid.gdroid"
+        },
+        {
+            "source": "https://github.com/neoapplications/neo-store",
+            "name": "Neo Store",
+            "description": "A modern and feature-rich F-Droid client: fast repository sync times, awesome built-in repositories, easy exploration of new apps, minimalism with KISS principles.",
+            "fdroid": "https://f-droid.org/packages/com.machiav3lli.fdroid/"
         }
     ]
 }
