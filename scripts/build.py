@@ -3,14 +3,14 @@ import functools, json, pathlib, re
 
 def parse_categories():
     cats = list(filter(lambda f: f.suffix == ".json", pathlib.Path.iterdir(json_dir)))
-    
+
     return cats
 
 
 def replace_chunk(content, marker, chunk):
     # replaces the text between the comments with the specified marker with the content
-    r = re.compile(f'<!-- {marker} starts -->.*<!-- {marker} ends -->', re.DOTALL)
-    chunk = f'<!-- {marker} starts -->\n{chunk}\n<!-- {marker} ends -->'
+    r = re.compile(f"<!-- {marker} starts -->.*<!-- {marker} ends -->", re.DOTALL)
+    chunk = f"<!-- {marker} starts -->\n{chunk}\n<!-- {marker} ends -->"
     return r.sub(chunk, content)
 
 
@@ -26,11 +26,14 @@ def count_apps():
 
 def build_category(cat):
     with cat.open("r") as f:
-            cat_json = json.load(f)
-    
+        cat_json = json.load(f)
+
     md_file = categories_dir / (cat.stem + ".md")
     with md_file.open("w") as f:
-        lines = [f'# {cat_json.get("emoji")} {cat_json.get("title")}', '[`< go back home`](../README.md)']
+        lines = [
+            f'# {cat_json.get("emoji")} {cat_json.get("title")}',
+            "[`< go back home`](../README.md)",
+        ]
 
         for app in cat_json.get("apps"):
             name = app.get("name")
@@ -40,24 +43,32 @@ def build_category(cat):
             playstore = app.get("playstore")
             website = app.get("website")
 
-            m = re.match("https:\/\/(gitlab|github)\.com/([a-zA-Z0-9\-\_\.]+)/([a-zA-Z0-9\-\_\.]+)", source)
+            m = re.match(
+                "https:\/\/(gitlab|github)\.com/([a-zA-Z0-9\-\_\.]+)/([a-zA-Z0-9\-\_\.]+)",
+                source,
+            )
             if m == None:
                 stars_link = app.get("stars_link")
             else:
-                stars_link = f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
+                stars_link = (
+                    f"https://badgen.net/{m.group(1)}/stars/{'/'.join(m.group(2,3))}"
+                )
 
             new_line = "- "
             new_line += f"![Stars]({stars_link})\n" if stars_link else ""
             new_line += f"**{name}**: {description}\n\n\t"
-            new_line += f"[`[source]`]({source} \"source\") "
-            new_line += f"[`[f-droid]`]({fdroid} \"f-droid\") " if fdroid else ""
-            new_line += f"[`[playstore]`]({playstore} \"playstore\") " if playstore else ""
-            new_line += f"[`[website]`]({website} \"website\")" if website else ""
+            new_line += f'[`[source]`]({source} "source") '
+            new_line += f'[`[f-droid]`]({fdroid} "f-droid") ' if fdroid else ""
+            new_line += (
+                f'[`[playstore]`]({playstore} "playstore") ' if playstore else ""
+            )
+            new_line += f'[`[website]`]({website} "website")' if website else ""
             new_line += "\n"
 
             lines.append(new_line)
 
         f.write("\n".join(lines))
+
 
 def build_readme():
     readme_contents = (root / "README.md").open("r").read()
@@ -73,9 +84,12 @@ def build_readme():
         with category.open("r") as f:
             json_cat = json.load(f)
             title = json_cat.get("title")
+            emoji = json_cat.get("emoji")
         link = category.stem
-        toc_lines.append(f"- [{title}](categories/{link}.md)")
-    readme_contents = replace_chunk(readme_contents, "table-of-contents", "\n".join(toc_lines))
+        toc_lines.append(f"- [{emoji} {title}](categories/{link}.md)")
+    readme_contents = replace_chunk(
+        readme_contents, "table-of-contents", "\n".join(toc_lines)
+    )
 
     (root / "README.md").open("w").write(readme_contents)
 
@@ -88,7 +102,7 @@ if __name__ == "__main__":
 
     if not categories_dir.exists():
         pathlib.Path.mkdir(categories_dir)
-    
+
     categories = parse_categories()
     n_apps = count_apps()
     build_readme()
