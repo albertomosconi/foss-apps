@@ -1,44 +1,51 @@
 {
-    "title": "App Stores",
-    "emoji": "\ud83c\udfea",
-    "apps": [
-        {
-            "name": "Aurora Droid",
-            "description": "An alternative to the default F-Droid app with an intuitive UI and multiple great features, such as a powerful download manager: pause, resume and retry downloading apps, previous releases: enables downloading old releases.",
-            "source": "https://gitlab.com/AuroraOSS/auroradroid",
-            "fdroid": "https://f-droid.org/packages/com.aurora.adroid",
-            "website": "https://auroraoss.com/app_info.php?app_id=2"
-        },
-        {
-            "name": "Aurora Store",
-            "description": "An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.",
-            "source": "https://gitlab.com/AuroraOSS/AuroraStore",
-            "fdroid": "https://f-droid.org/en/packages/com.aurora.store",
-            "website": "https://auroraoss.com/app_info.php?app_id=1"
-        },
-        {
-            "name": "F-Droid",
-            "description": "An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.",
-            "source": "https://gitlab.com/fdroid/fdroidclient",
-            "website": "https://f-droid.org"
-        },
-        {
-            "name": "Foxy Droid",
-            "description": "Unofficial F-Droid client in the style of the classic one. Jump over the lazy dog, manage repositories, and install software quickly. No privileged extension, root installation, or sharing local repositories nearby. It also features fast repository syncing, standard Android components, minimal dependencies and more.",
-            "source": "https://github.com/kitsunyan/foxy-droid",
-            "fdroid": "https://f-droid.org/packages/nya.kitsunyan.foxydroid"
-        },
-        {
-            "name": "G-Droid",
-            "description": "An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc.",
-            "source": "https://gitlab.com/gdroid/gdroidclient",
-            "fdroid": "https://f-droid.org/en/packages/org.gdroid.gdroid"
-        },
-        {
-            "source": "https://github.com/neoapplications/neo-store",
-            "name": "Neo Store",
-            "description": "A modern and feature-rich F-Droid client: fast repository sync times, awesome built-in repositories, easy exploration of new apps, minimalism with KISS principles.",
-            "fdroid": "https://f-droid.org/packages/com.machiav3lli.fdroid/"
-        }
-    ]
+  "title": "App Stores",
+  "emoji": "\ud83c\udfea",
+  "apps": [
+    {
+      "name": "Aurora Droid",
+      "description": "An alternative to the default F-Droid app with an intuitive UI and multiple great features, such as a powerful download manager: pause, resume and retry downloading apps, previous releases: enables downloading old releases.",
+      "source": "https://gitlab.com/AuroraOSS/auroradroid",
+      "fdroid": "https://f-droid.org/packages/com.aurora.adroid",
+      "website": "https://auroraoss.com/app_info.php?app_id=2"
+    },
+    {
+      "name": "Aurora Store",
+      "description": "An alternate to Google's Play Store, with an elegant design, using Aurora you can download apps, update existing apps, search for apps, get details about in-app trackers, spoof your location and much more.",
+      "source": "https://gitlab.com/AuroraOSS/AuroraStore",
+      "fdroid": "https://f-droid.org/en/packages/com.aurora.store",
+      "website": "https://auroraoss.com/app_info.php?app_id=1"
+    },
+    {
+      "name": "Droid-ify",
+      "description": "A quick material F-Droid client: clean material design, fast repository syncing, smooth user experience and feature-rich.",
+      "source": "https://github.com/Droid-ify/client",
+      "fdroid": "https://f-droid.org/packages/com.looker.droidify",
+      "website": "https://droidify.eu.org"
+    },
+    {
+      "name": "F-Droid",
+      "description": "An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.",
+      "source": "https://gitlab.com/fdroid/fdroidclient",
+      "website": "https://f-droid.org"
+    },
+    {
+      "name": "Foxy Droid",
+      "description": "Unofficial F-Droid client in the style of the classic one. Jump over the lazy dog, manage repositories, and install software quickly. No privileged extension, root installation, or sharing local repositories nearby. It also features fast repository syncing, standard Android components, minimal dependencies and more.",
+      "source": "https://github.com/kitsunyan/foxy-droid",
+      "fdroid": "https://f-droid.org/packages/nya.kitsunyan.foxydroid"
+    },
+    {
+      "name": "G-Droid",
+      "description": "An alternative client app to browse the F-Droid repository. It features reviews and comments for apps, star ratings, upstream star ratings, etc.",
+      "source": "https://gitlab.com/gdroid/gdroidclient",
+      "fdroid": "https://f-droid.org/en/packages/org.gdroid.gdroid"
+    },
+    {
+      "source": "https://github.com/neoapplications/neo-store",
+      "name": "Neo Store",
+      "description": "A modern and feature-rich F-Droid client: fast repository sync times, awesome built-in repositories, easy exploration of new apps, minimalism with KISS principles.",
+      "fdroid": "https://f-droid.org/packages/com.machiav3lli.fdroid/"
+    }
+  ]
 }
