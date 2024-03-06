@@ -48,6 +48,14 @@
       "description": "Pronounced 'minimal', is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.",
       "source": "https://github.com/afollestad/mnml",
       "playstore": "https://play.google.com/store/apps/details?id=com.afollestad.mnmlscreenrecord"
+    },
+    {
+      "name": "Permission Manager X",
+      "description": "eXtended Permission Manager for Android - view and set Manifest Permissions and AppOps. View, grant or revoke manifest permissions; view AppOps permissions and choose one of multiple modes; set your desired reference value for every changeable permission.",
+      "source": "https://github.com/mirfatif/PermissionManagerX",
+      "fdroid": "https://f-droid.org/packages/com.mirfatif.permissionmanagerx",
+      "playstore": "https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx",
+      "website": "https://mirfatif.github.io/PermissionManagerX/help/en"
     }
   ]
 }
