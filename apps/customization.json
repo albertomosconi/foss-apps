@@ -1,0 +1,14 @@
+{
+  "title": "Customization",
+  "emoji": "\ud83c\udfa8",
+  "apps": [
+    {
+      "name": "Arcticons",
+      "description": "A monotone line-based icon pack for android with over 8300 icons, one of the largest free & open source icon-packs available. Featuring consistent and elegant handcrafted icons, giving you a minimalistic clutter-free experience on your phone. Available in three flavours: Dark, Light and Material You.",
+      "source": "https://github.com/Arcticons-Team/Arcticons",
+      "fdroid": "https://f-droid.org/packages/com.donnnno.arcticons",
+      "playstore": "https://play.google.com/store/apps/details?id=com.donnnno.arcticons",
+      "website": "https://arcticons.onnno.nl"
+    }
+  ]
+}
