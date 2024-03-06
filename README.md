@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://albertomosconi.git
 <div align="center">
 <p align="center">
 <!-- apps-count starts -->
-<img src="https://img.shields.io/badge/112-apps-red?style=for-the-badge" alt="App count"/>
+<img src="https://img.shields.io/badge/113-apps-red?style=for-the-badge" alt="App count"/>
 <!-- apps-count ends -->
 <a href="./LICENSE">
 <img src="https://img.shields.io/github/license/albertomosconi/foss-apps?color=darkgreen&style=for-the-badge" alt="License Badge"/>
@@ -30,6 +30,7 @@ _I'm not affiliated with these apps, I'm just sharing them because I think they'
 - [Browser](categories/browsers.md)
 - [Calculators](categories/calculators.md)
 - [Calendars](categories/calendars.md)
+- [Customization](categories/customization.md)
 - [Email](categories/email.md)
 - [Emulators](categories/emulators.md)
 - [Entertainment](categories/entertainment.md)
