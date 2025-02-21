@@ -30,3 +30,16 @@
     ![Stars](https://badgen.net/github/stars/twireapp/Twire) ![last commit](https://img.shields.io/github/last-commit/twireapp/Twire)
 
     [`[source]`](https://github.com/twireapp/Twire "source") [`[f-droid]`](https://f-droid.org/packages/com.perflyst.twire "f-droid")  
+
+- **RiMusic**: A multilingual Android application for streaming music from YouTube Music.
+
+    ![Stars](https://badgen.net/github/stars/fast4x/RiMusic) ![last commit](https://img.shields.io/github/last-commit/fast4x/RiMusic)
+
+    [`[source]`](https://github.com/fast4x/RiMusic "source") [`[f-droid]`](https://f-droid.org/packages/it.fast4x.rimusic/ "f-droid")  
+
+
+- **LibreTube**: An alternative frontend for YouTube, for Android.
+
+    ![Stars](https://badgen.net/github/stars/libre-tube/LibreTube) ![last commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube)
+
+    [`[source]`](https://github.com/libre-tube/LibreTube "source") [`[f-droid]`](https://f-droid.org/packages/com.github.libretube/ "f-droid")  
