@@ -9,6 +9,13 @@
             "website": "https://www.bromite.org"
         },
         {
+            "name": "DuckDuckGo",
+            "description": "⚡Actively protect your data. Private search, browser, ad blocking, VPN & more",
+            "source": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+            "fdroid": "https://f-droid.org/packages/com.duckduckgo.mobile.android/",
+            "playstore": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
+        }, 
+        {
             "name": "IceRaven",
             "description": "A web browser for Android, based on Mozilla's Fenix version of Firefox. Our goal is to be a close fork of the new Firefox for Android that seeks to provide users with more options, more opportunities to customize (including a broad extension library), and more.",
             "source": "https://github.com/fork-maintainers/iceraven-browser"

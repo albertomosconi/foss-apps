@@ -7,6 +7,11 @@
 
     [`[source]`](https://github.com/bromite/bromite "source")   [`[website]`](https://www.bromite.org "website")
 
+- **DuckDuckGo**: ⚡Actively protect your data. Private search, browser, ad blocking, VPN & more
+
+    !
+[`[source]`](https://f-droid.org/packages/com.duckduckgo.mobile.android/)
+
 - **IceRaven**: A web browser for Android, based on Mozilla's Fenix version of Firefox. Our goal is to be a close fork of the new Firefox for Android that seeks to provide users with more options, more opportunities to customize (including a broad extension library), and more.
 
     ![Stars](https://badgen.net/github/stars/fork-maintainers/iceraven-browser) ![last commit](https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser)
