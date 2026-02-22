@@ -37,6 +37,12 @@
 
     [`[source]`](https://github.com/TheRedSpy15/LTECleanerFOSS "source") [`[f-droid]`](https://f-droid.org/packages/theredspy15.ltecleanerfoss "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=theredspy15.ltecleanerfoss "playstore") 
 
+- **Off Grid**: The Swiss Army Knife of on-device AI. Run LLMs, Stable Diffusion image generation, vision AI, and Whisper voice transcription — all offline with zero data leaving your phone.
+
+    ![Stars](https://badgen.net/github/stars/alichherawalla/off-grid-mobile) ![last commit](https://img.shields.io/github/last-commit/alichherawalla/off-grid-mobile)
+
+    [`[source]`](https://github.com/alichherawalla/off-grid-mobile "source")  [`[playstore]`](https://play.google.com/store/apps/details?id=ai.offgridmobile "playstore")
+
 - **MNML**: Pronounced 'minimal', is a free and simple screen recorder for Android. There are too many screen recorders out there now that are badly designed, have too many unnecessary features, or have ads.
 
     ![Stars](https://badgen.net/github/stars/afollestad/mnml) ![last commit](https://img.shields.io/github/last-commit/afollestad/mnml)
