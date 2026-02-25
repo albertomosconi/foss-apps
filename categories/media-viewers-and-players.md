@@ -31,12 +31,6 @@
 
     [`[source]`](https://github.com/mpv-android/mpv-android "source") [`[f-droid]`](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=is.xyz.mpv "playstore") 
 
-- **Music Player GO**: A simple yet fully-featured local music player aiming at simplicity and performance.
-
-    ![Stars](https://badgen.net/github/stars/enricocid/Music-Player-GO) ![last commit](https://img.shields.io/github/last-commit/enricocid/Music-Player-GO)
-
-    [`[source]`](https://github.com/enricocid/Music-Player-GO "source") [`[f-droid]`](https://f-droid.org/packages/com.iven.musicplayergo "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.iven.musicplayergo "playstore") 
-
 - **Nova Video Player**: An open source video player for Android designed for tablets, phones and AndroidTV devices. A fork of the original Archos Video Player Community Edition.
 
     ![Stars](https://badgen.net/github/stars/nova-video-player/aos-AVP) ![last commit](https://img.shields.io/github/last-commit/nova-video-player/aos-AVP)
