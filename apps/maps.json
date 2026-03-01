@@ -3,6 +3,13 @@
     "emoji": "\ud83d\uddfa",
     "apps": [
         {
+            "name": "iNaturalist",
+            "description": "Record observations of plants, animals, and other organisms by capturing photos and GPS coordinates. Syncs observations to iNaturalist.org, an open citizen science platform with over 300 million observations shared worldwide.",
+            "source": "https://github.com/inaturalist/iNaturalistAndroid",
+            "playstore": "https://play.google.com/store/apps/details?id=org.inaturalist.android",
+            "website": "https://www.inaturalist.org"
+        },
+        {
             "name": "Organic Maps",
             "description": "A free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data. No ads, no tracking, no data collection, no crapware.",
             "source": "https://github.com/organicmaps/organicmaps",
