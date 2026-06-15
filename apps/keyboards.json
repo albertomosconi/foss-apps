@@ -1,6 +1,6 @@
 {
     "title": "Keyboards",
-    "emoji": "\u2328",
+    "emoji": "⌨",
     "apps": [
         {
             "name": "BeHe Keyboard",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Irregular Expressions",
-            "description": "Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram \u2014 any app with typing!",
+            "description": "Irregular Expressions is a virtual keyboard for Android devices. With this keyboard you can add expressive flair to your typing, even in places where font styles are not allowed: SMS, Twitter, Facebook, Instagram — any app with typing!",
             "source": "https://github.com/MobileFirstLLC/irregular-expressions",
             "fdroid": "https://f-droid.org/packages/mf.asciitext.lite",
             "playstore": "https://play.google.com/store/apps/details?id=mf.asciitext.lite"
@@ -42,6 +42,11 @@
             "source": "https://github.com/rkkr/simple-keyboard",
             "fdroid": "https://f-droid.org/packages/rkr.simplekeyboard.inputmethod",
             "playstore": "https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod"
+        },
+        {
+            "name": "SwiftFloris",
+            "description": "A privacy-first Android keyboard forked from FlorisBoard. Ships with no internet permission, no telemetry, and no account requirement. Features autocorrect, gesture typing, clipboard manager, emoji support, and multilingual input.",
+            "source": "https://github.com/SysAdminDoc/SwiftFloris"
         }
     ]
 }
