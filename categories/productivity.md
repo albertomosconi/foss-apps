@@ -48,3 +48,9 @@
     ![Stars](https://badgen.net/github/stars/tasks/tasks) ![last commit](https://img.shields.io/github/last-commit/tasks/tasks)
 
     [`[source]`](https://github.com/tasks/tasks "source") [`[f-droid]`](https://f-droid.org/packages/org.tasks "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=org.tasks "playstore") [`[website]`](https://tasks.org "website")
+
+- **WonderFood**: Local-first Android food workspace for pantry inventory, recipes, meal plans, receipts, shopping lists, nutrition notes, and reviewable AI suggestions without requiring a hosted account.
+
+    ![Stars](https://badgen.net/github/stars/vaddisrinivas/wonderfood) ![last commit](https://img.shields.io/github/last-commit/vaddisrinivas/wonderfood)
+
+    [`[source]`](https://github.com/vaddisrinivas/wonderfood "source")   

@@ -61,6 +61,11 @@
             "fdroid": "https://f-droid.org/packages/org.tasks",
             "playstore": "https://play.google.com/store/apps/details?id=org.tasks",
             "website": "https://tasks.org"
+        },
+        {
+            "name": "WonderFood",
+            "description": "Local-first Android food workspace for pantry inventory, recipes, meal plans, receipts, shopping lists, nutrition notes, and reviewable AI suggestions without requiring a hosted account.",
+            "source": "https://github.com/vaddisrinivas/wonderfood"
         }
     ]
 }
