@@ -13,6 +13,12 @@
 
     [`[source]`](https://github.com/vivekweb2013/audio-recorder "source")  [`[playstore]`](https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder "playstore") 
 
+- **Codecks**: Local-first Android command deck, Bluetooth trackpad, and reviewable automation surface for controlling Mac workflows without a hosted account or analytics service.
+
+    ![Stars](https://badgen.net/github/stars/vaddisrinivas/codecks) ![last commit](https://img.shields.io/github/last-commit/vaddisrinivas/codecks)
+
+    [`[source]`](https://github.com/vaddisrinivas/codecks "source")   
+
 - **Download Navi**: A free and Open Source download manager for Android 4.4+, with material design, and lots of useful features like support for Android TV and Chrome OS, built-in browser, power management and battery control.
 
     ![Stars](https://badgen.net/github/stars/TachibanaGeneralLaboratories/download-navi) ![last commit](https://img.shields.io/github/last-commit/TachibanaGeneralLaboratories/download-navi)
