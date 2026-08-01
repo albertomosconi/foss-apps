@@ -3,6 +3,12 @@
   "emoji": "\ud83c\udfa8",
   "apps": [
     {
+      "name": "Adaptive Theme",
+      "description": "Automatically switches Android's system-wide light and dark theme based on the device's ambient light sensor instead of a fixed schedule. It offers customizable lux thresholds, battery-friendly event-driven sensing, Material You design, and several one-time setup methods without requiring root.",
+      "source": "https://github.com/xLexip/Adaptive-Theme",
+      "playstore": "https://play.google.com/store/apps/details?id=dev.lexip.hecate"
+    },
+    {
       "name": "Arcticons",
       "description": "A monotone line-based icon pack for android with over 8300 icons, one of the largest free & open source icon-packs available. Featuring consistent and elegant handcrafted icons, giving you a minimalistic clutter-free experience on your phone. Available in three flavours: Dark, Light and Material You.",
       "source": "https://github.com/Arcticons-Team/Arcticons",
