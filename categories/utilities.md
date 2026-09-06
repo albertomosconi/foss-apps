@@ -48,3 +48,9 @@
     ![Stars](https://badgen.net/github/stars/mirfatif/PermissionManagerX) ![last commit](https://img.shields.io/github/last-commit/mirfatif/PermissionManagerX)
 
     [`[source]`](https://github.com/mirfatif/PermissionManagerX "source") [`[f-droid]`](https://f-droid.org/packages/com.mirfatif.permissionmanagerx "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx "playstore") [`[website]`](https://mirfatif.github.io/PermissionManagerX/help/en "website")
+
+- **WhisperType**: Free open-source Android dictation that keeps your existing keyboard. Bring your own Gemini Live key from Google AI Studio—no WhisperType servers in the middle.
+
+    ![Stars](https://badgen.net/github/stars/whispertypeapp/WhisperType-Android) ![last commit](https://img.shields.io/github/last-commit/whispertypeapp/WhisperType-Android)
+
+    [`[source]`](https://github.com/whispertypeapp/WhisperType-Android "source")   
