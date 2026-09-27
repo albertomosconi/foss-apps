@@ -12,3 +12,9 @@
     ![Stars](https://badgen.net/github/stars/Kunzisoft/KeePassDX) ![last commit](https://img.shields.io/github/last-commit/Kunzisoft/KeePassDX)
 
     [`[source]`](https://github.com/Kunzisoft/KeePassDX "source") [`[f-droid]`](https://www.f-droid.org/packages/com.kunzisoft.keepass.libre "f-droid") [`[playstore]`](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free "playstore") [`[website]`](https://www.keepassdx.com "website")
+
+- **Ravenpass**: A local-first password manager for Android and macOS with native autofill, passkeys, and two-factor codes in an encrypted vault. No account is required; currently in public beta.
+
+    ![Stars](https://badgen.net/github/stars/dortanes/ravenpass) ![last commit](https://img.shields.io/github/last-commit/dortanes/ravenpass)
+
+    [`[source]`](https://github.com/dortanes/ravenpass "source")   [`[website]`](https://ravenpass.org "website")
