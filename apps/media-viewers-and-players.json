@@ -75,6 +75,11 @@
       "website": "https://www.simplemobiletools.com/gallery"
     },
     {
+      "name": "Tune",
+      "description": "An Apple Music-inspired offline music player for Android. Local library with FFmpeg audio, equalizer, synced lyrics, custom artwork, and per-device builds. No account, no ads.",
+      "source": "https://github.com/Exodi-dio/tune"
+    },
+    {
       "name": "Vinyl Music Player",
       "description": "A material designed local music player for Android. Forked from Phonograph; makes all Pro features free, as they used to be, and has some additional features.",
       "source": "https://github.com/AdrienPoupa/VinylMusicPlayer",
