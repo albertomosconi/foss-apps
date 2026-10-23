@@ -61,6 +61,14 @@
             "fdroid": "https://f-droid.org/packages/org.tasks",
             "playstore": "https://play.google.com/store/apps/details?id=org.tasks",
             "website": "https://tasks.org"
+        },
+        {
+            "host": "GitHub",
+            "name": "WiFi Beacon",
+            "description": "WiFi Beacon warns you when a chosen app comes to the foreground while you are connected to a chosen WiFi network. Set a target SSID and a target app; when both match, it fires a sound, a notification and a full-screen overlay to snap you back to focus. It never blocks apps, needs no root, and runs fully offline with no data collection.",
+            "stars_link": "https://img.shields.io/github/stars/weavrikx/wifiwarn.svg?label=\u2605&style=flat",
+            "source": "https://github.com/weavrikx/wifiwarn",
+            "website": "https://weavrikx.github.io/"
         }
     ]
 }
