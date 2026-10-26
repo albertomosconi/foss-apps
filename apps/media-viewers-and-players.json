@@ -3,6 +3,12 @@
   "emoji": "\u23ef",
   "apps": [
     {
+      "name": "Apex Music Player",
+      "description": "A modern, lightweight audio player for Android with YouTube audio & album cover downloader, 10-band equalizer, 3D visualizer, and custom playlists. Universal compatibility for Android 5.0 to 15+.",
+      "source": "https://github.com/Yaromir-Anokhin/apex-music-player",
+      "website": "https://yaromir-anokhin.github.io/apex-music-player/"
+    },
+    {
       "name": "BookReader",
       "description": "An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.",
       "source": "https://gitlab.com/axet/android-book-reader",

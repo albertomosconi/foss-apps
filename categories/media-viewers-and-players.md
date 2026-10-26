@@ -1,6 +1,12 @@
 # ⏯ Media Viewers and Players
 [`< go back home`](../README.md)
 
+- **Apex Music Player**: A modern, lightweight audio player for Android with YouTube audio & album cover downloader, 10-band equalizer, 3D visualizer, and custom playlists. Universal compatibility for Android 5.0 to 15+.
+
+    ![Stars](https://badgen.net/github/stars/Yaromir-Anokhin/apex-music-player) ![last commit](https://img.shields.io/github/last-commit/Yaromir-Anokhin/apex-music-player)
+
+    [`[source]`](https://github.com/Yaromir-Anokhin/apex-music-player "source")   [`[website]`](https://yaromir-anokhin.github.io/apex-music-player/ "website")
+
 - **BookReader**: An open-source book reading application. Supported formats: fb2, html, txt, epub, mobi, rtf, doc, pdf, djvu, cbr, cbz.
 
     ![Stars](https://badgen.net/gitlab/stars/axet/android-book-reader) ![last commit](https://img.shields.io/gitlab/last-commit/axet/android-book-reader)
