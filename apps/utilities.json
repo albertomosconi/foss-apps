@@ -56,6 +56,13 @@
       "fdroid": "https://f-droid.org/packages/com.mirfatif.permissionmanagerx",
       "playstore": "https://play.google.com/store/apps/details?id=com.mirfatif.permissionmanagerx",
       "website": "https://mirfatif.github.io/PermissionManagerX/help/en"
+    },
+    {
+      "name": "TV Box Tools",
+      "description": "Open-source launcher manager and ADB toolbox for Android TV and Google TV boxes. Sets any custom launcher as the persistent default HOME app without root or background accessibility services, with one-tap restore, speed-up, display controls, remote and kiosk mode.",
+      "source": "https://github.com/smartago/tvboxtools",
+      "playstore": "https://play.google.com/store/apps/details?id=com.tv.launcher.manager.adb.tvboxtools&gl=us",
+      "website": "https://tvboxtools.com"
     }
   ]
 }
