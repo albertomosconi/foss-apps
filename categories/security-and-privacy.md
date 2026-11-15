@@ -31,6 +31,12 @@
 
     [`[source]`](https://github.com/blokadaorg/blokada "source") [`[f-droid]`](https://f-droid.org/packages/org.blokada.alarm "f-droid")  [`[website]`](https://blokada.org/ "website")
 
+- **CleanSlate**: Remotely wipe your Android device if it is lost or stolen, before a thief can access your data. Works on de-Googled ROMs with no Google dependencies.
+
+    ![Stars](https://badgen.net/github/stars/devshield-tech/botox-android) ![last commit](https://img.shields.io/github/last-commit/devshield-tech/botox-android)
+
+    [`[source]`](https://github.com/devshield-tech/botox-android "source") [`[f-droid]`](https://f-droid.org/packages/com.destructo.botox "f-droid") [`[website]`](https://cleanslate.devshield.tech/ "website")
+
 - **Exodus**: Find out what trackers are embedded in apps installed on your smartphone. It lets you also know the permissions required by any apps on your smartphone. It helps you to take your privacy back!
 
     ![Stars](https://badgen.net/github/stars/Exodus-Privacy/exodus-android-app) ![last commit](https://img.shields.io/github/last-commit/Exodus-Privacy/exodus-android-app)
